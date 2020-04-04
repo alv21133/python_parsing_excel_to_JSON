@@ -1,0 +1,818 @@
+﻿[
+    {
+        "Akreditasi": "LP-396-IDN",
+        "masa_berlaku_akreditasi": "6/5/21",
+        "nama_Lab": "UPTD Laboratorium Perindustrian Kabupaten Tegal ",
+        "alamat": " Jl. Raya Dampyak Km. 4, Kompleks Lingkungan Industri Kecil (LIK), Kab. Tegal",
+        "telepon": "(0283) 357437",
+        "lingkup": "Logam dan produk logam, logam non ferro basis alumunium, logam non ferro basis tembaga, baja profil H canai panas (Bj PHC), baja karbon dan paduan rendah, baja tahan karat, baja profil siku sama kaki proses canai panas (Bj P siku sama kaki), baja tulang beton, beton silinder dan beton kubus, beton (paving block)"
+    },
+    {
+        "Akreditasi": "LP-409-IDN",
+        "masa_berlaku_akreditasi": "12/19/21",
+        "nama_Lab": "PT. Hyprowira Adhitama",
+        "alamat": "Sektor XI Blok H3 No. 28 E Taman Tekno - BSD City Serpong, Tangerang Selatan",
+        "telepon": "(021) 29662266 / 77",
+        "lingkup": " \nPelumas dan bahan bakar, pelumas hidrolik, lubrikasi, solar, avtur"
+    },
+    {
+        "Akreditasi": "LP-422-IDN",
+        "masa_berlaku_akreditasi": "8/6/21",
+        "nama_Lab": "PT Hi-Test ",
+        "alamat": "Century Park, Block F No. 6 – 7, Batam Centre",
+        "telepon": "(0778) 7483070",
+        "lingkup": "Material logam dan produk logam (pelat baja, sambungan las, dan base nickel), baja karbon, baja paduan rendah, nikel dan paduannya, copper dan paduannya"
+    },
+    {
+        "Akreditasi": "LP-416-IDN",
+        "masa_berlaku_akreditasi": "1/17/21",
+        "nama_Lab": " Laboratorium SOS PT Trakindo Utama (multilokasi)",
+        "alamat": "Gedung 104 Cilandak Commercial Estate, Jl. Cilandak KKO, Jakarta Selatan (Lokasi 1) Mining Maintenance Area PT. Newmont Nusa Tenggara (lokasi 2)\nJl. Jend. Sudirman 848 Balikpapan  (lokasi 3) Jl. Kuala Tembaga Lot E3, LIP Kuala Kencana Timika (lokasi 4)",
+        "telepon": "(021) 7822373 (lokasi 1)\n62372-636318 ext 46406 (lokasi 2)\n(0542) 762810 (lokasi 3)",
+        "lingkup": "Minyak pelumas (non-engine, HP-426), minyak pelumas (engine, HP-427)"
+    },
+    {
+        "Akreditasi": "LP-442-IDN",
+        "masa_berlaku_akreditasi": "11/18/22",
+        "nama_Lab": "PT Biro Klasifikasi Indonesia (Persero) ",
+        "alamat": "Jl. Yos Sudarso No 38 - 39 -40, Tanjung Priok, Jakarta",
+        "telepon": "(021) 4301017, 4301703, 4300993 ",
+        "lingkup": "Bahan logam, welding, metallic material"
+    },
+    {
+        "Akreditasi": "LP-455-IDN",
+        "masa_berlaku_akreditasi": "5/24/24",
+        "nama_Lab": "PT. Ispat Indo ",
+        "alamat": "Desa Kedungturi, Taman Sepanjang Sidoarjo, PO BOX 1083, Surabaya\n",
+        "telepon": "(031) 7887000 ",
+        "lingkup": "Billet, Wire Rods dan D-Bars"
+    },
+    {
+        "Akreditasi": "LP-493-IDN",
+        "masa_berlaku_akreditasi": "9/1/24",
+        "nama_Lab": "Balai Besar Pelaksanaan Jalan Nasional IV",
+        "alamat": "Jl. Ir. H. Juanda Km. 2, Komplek Binamarga, Cikampek",
+        "telepon": "(0264) 8311190",
+        "lingkup": "Aspal keras/aspal cair/aspal emulsi, campuran braspal, agregrat, tanah, beton"
+    },
+    {
+        "Akreditasi": "LP-520-IDN",
+        "masa_berlaku_akreditasi": "7/28/24",
+        "nama_Lab": "Departemen Teknik Metalurgi dan Material Fakultas Teknik Universitas Indonesia",
+        "alamat": "Departemen Teknik Metalurgi dan Material FTUI, Kampus Baru UI - Depok",
+        "telepon": "(021) 78849045",
+        "lingkup": "Baja lembaran dan gulungan lapis paduan aluminium seng (Bj. Las), baja lembaran pelat dan gulungan canai panas (Bj. P), baja profil I-Beam proses canai panas (Bj. P I-Beam), Baja profil kanal U proses canai panas (Bj. P Kanal U), Baja profil siku sama kaki proses canai panas (Bj. P Siku Sama Kaki), Baja profil Wf-Beam proses canai panas (Bj. P Wf Beam), Baja tulangan beton dalam bentuk gulungan, baja tulangan beton hasil canai panas ulang, Baka pelat, strip dan lembaran canai panas untuk tabung gas, baja tulangan beton untuk ukuran P6-P19, logam dan produknya, non ferrous, produk Lasan"
+    },
+    {
+        "Akreditasi": "LP-546-IDN",
+        "masa_berlaku_akreditasi": "6/30/20",
+        "nama_Lab": "Politeknik Manufaktur Ceper ",
+        "alamat": "Batur, Tegalrejo, Ceper, Klaten",
+        "telepon": "(0272) 552968",
+        "lingkup": "Logam dan paduannya, low alloy cast iron"
+    },
+    {
+        "Akreditasi": "LP-644-IDN",
+        "masa_berlaku_akreditasi": "3/21/21",
+        "nama_Lab": "Terminal BBM Makassar, PT Pertamina (Persero) ",
+        "alamat": "Jl. Hatta No. 1 Makassar",
+        "telepon": "(0411) 36199211",
+        "lingkup": "Avtur, premium, pertamax, kerosine, MFO, solar dan biosolar, fuel"
+    },
+    {
+        "Akreditasi": "LP-667-IDN",
+        "masa_berlaku_akreditasi": "4/24/21",
+        "nama_Lab": "Terminal BBM Wayame - PT Pertamina (Persero)",
+        "alamat": "Jl. Ir. Putuhena km 24 Wayame Ambon, Maluku",
+        "telepon": "(0911) 310087",
+        "lingkup": "Premium, Kerosin, solar, avtur (Jet A-1)"
+    },
+    {
+        "Akreditasi": "LP-722-IDN",
+        "masa_berlaku_akreditasi": "4/1/22",
+        "nama_Lab": "Laboratorium Terminal BBM Panjang PT Pertamina ",
+        "alamat": "Jl. Sumatera No. 1, Komplek Pelabuhan Panjang, Bandar Lampung",
+        "telepon": "(0721) 31207",
+        "lingkup": "Premium, pertamax, pertalite, solar/biosolar, fame, pertamina dex, MFO 180, dexlite"
+    },
+    {
+        "Akreditasi": "LP-723-IDN",
+        "masa_berlaku_akreditasi": "9/19/21",
+        "nama_Lab": "PT Mecoindo Itron",
+        "alamat": "East Jakarta lndustrial Park, Plot  6B -  2  East, Cikarang Selatan, Kota Bekasi",
+        "telepon": "(021) 8970270",
+        "lingkup": "Meter air"
+    },
+    {
+        "Akreditasi": "LP-728-IDN",
+        "masa_berlaku_akreditasi": "12/19/21",
+        "nama_Lab": "Laboratorium Cabang Timika PT. Sucofindo (Persero)",
+        "alamat": "Jl. Kuala Kuningan Kav D1-Light Industrial Park, Kuala Kencana Timika",
+        "telepon": "(0901) 301947; 301222",
+        "lingkup": "Konsentrat Tembaga dan Batuan Eksplorasi mineral tembaga"
+    },
+    {
+        "Akreditasi": "LP-727-IDN",
+        "masa_berlaku_akreditasi": "11/22/21",
+        "nama_Lab": "Laboratorium Geomekanika dan Peralatan Tambang, Institut Teknologi Bandung (ITB)",
+        "alamat": "Jl. Ganesa 10 Bandung 40132",
+        "telepon": "(022) 2502239; 2508131",
+        "lingkup": "Batuan "
+    },
+    {
+        "Akreditasi": "LP-729-IDN",
+        "masa_berlaku_akreditasi": "7/25/21",
+        "nama_Lab": "Laboratorium PT. Pertamina (Persero) RU VII Kasim Sorong",
+        "alamat": "Jl. Raya Kilang No. 1, Kasim Kecamatan Seget, PO BOX 287, Sorong",
+        "telepon": "(0951) 325202",
+        "lingkup": "Premium, Kerosine, Solar"
+    },
+    {
+        "Akreditasi": "LP-733-IDN",
+        "masa_berlaku_akreditasi": "7/25/21",
+        "nama_Lab": "PT Bakrie Pipe Industries",
+        "alamat": "Kawasan PT Bakrie Pipe Industries, Jl. Raya Pejuang Km. 27, Medan Satria, Bekasi",
+        "telepon": "(021) 88882095-97",
+        "lingkup": "Pipa, pelat, sambungan las dan logam paduannya"
+    },
+    {
+        "Akreditasi": "LP-743-IDN",
+        "masa_berlaku_akreditasi": "12/19/21",
+        "nama_Lab": "Laboratorium PT CCIC Jakarta (Multilokasi)",
+        "alamat": "Jl. PM Noor, No. 126N-126O-126P, RT 39 Kelurahan Sempaja Selatan Samarinda Utara 751 '19 ",
+        "telepon": "(0541) 221087          (0541) 22108",
+        "lingkup": "Iron Ore dan Nikel Ore, Manganese ore, bauxite, trace elements in coal ash, coal"
+    },
+    {
+        "Akreditasi": "LP-346-IDN",
+        "masa_berlaku_akreditasi": "5/4/21",
+        "nama_Lab": " Balai Laboratorium Lingkungan Hidup Dinas Lingkungan Hidup Provinsi Jawa Barat",
+        "alamat": "Jl. A. H. Nasution No. 117, Ujungberung, Bandung",
+        "telepon": "(022) 7803370",
+        "lingkup": "Air permukaan, air tanah, air limbah, tanah beton, aspal"
+    },
+    {
+        "Akreditasi": "LP-743-IDN",
+        "masa_berlaku_akreditasi": "12/19/21",
+        "nama_Lab": "Laboratorium PT CCIC Jakarta (Multilokasi)",
+        "alamat": "Pergudangan Bandara Benda Permai Blok M1 Jl. Raya Perancis No. 68 Benda Tangerang 15125 ",
+        "telepon": "(021) 5591 085",
+        "lingkup": "Iron Ore dan Nikel Ore, Manganese ore, bauxite, trace elements in coal ash, coal"
+    },
+    {
+        "Akreditasi": "LP-743-IDN",
+        "masa_berlaku_akreditasi": "12/19/21",
+        "nama_Lab": "Laboratorium PT CCIC Jakarta (Multilokasi)",
+        "alamat": "Jl. Ban.iar Gawi Raya No. 6H LlK, RT.007 RW.003 Liang Anggang, Kelurahan Landasan Ulin selatan Kecamatan Liang Anggang, Banjarbaru 70722 - ",
+        "telepon": "081 18 2822 2",
+        "lingkup": "Iron Ore dan Nikel Ore, Manganese ore, bauxite, trace elements in coal ash, coal"
+    },
+    {
+        "Akreditasi": "LP-743-IDN",
+        "masa_berlaku_akreditasi": "12/19/21",
+        "nama_Lab": "Laboratorium PT CCIC Jakarta (Multilokasi)",
+        "alamat": "Komplek Pergudangan Palembang Star, Blok A 10, Jl. Tanjung Api-Api KM 13 Palembang 30152 ",
+        "telepon": " 0711 561267",
+        "lingkup": "Iron Ore dan Nikel Ore, Manganese ore, bauxite, trace elements in coal ash, coal"
+    },
+    {
+        "Akreditasi": "LP-746-IDN",
+        "masa_berlaku_akreditasi": "1/2/22",
+        "nama_Lab": "Laboratorium Badan Pengusahaan Kawasan Perdagangan Bebas dan Pelabuhan Bebas Batam",
+        "alamat": "Jl. Sudirman No 1 Batam Centre, Pulau Batam 29400",
+        "telepon": "(0778)  462047-48  ",
+        "lingkup": "Biji plastik dan komponen elektronika"
+    },
+    {
+        "Akreditasi": "LP-747-IDN",
+        "masa_berlaku_akreditasi": "10/24/21",
+        "nama_Lab": "PT Bredero Shaw Laboratory - Indonesia",
+        "alamat": "Kabil Industrial Estate, Jl. Hang Kasturi 1, Batam, Indonesia -29467",
+        "telepon": "(0778) 4039000",
+        "lingkup": "Polyolefine coating, polyolefine coating on steel, fusion bonded epoxy coating, plastics - polyolefine coating, enamel coating, polyurethene coating, polyethylene, polypropylene, adhesive, fusion bonded epoxy coating powder"
+    },
+    {
+        "Akreditasi": "LP-376-IDN",
+        "masa_berlaku_akreditasi": "6/21/20",
+        "nama_Lab": "PT. Professional Technology Specialist",
+        "alamat": "Tunas Industrial Estate Block 4-D, Batam Centre, Batam",
+        "telepon": "(0778) 471 983",
+        "lingkup": "Pipa dan pelat las, produk logam (baja), baja tulangan, logam dan paduannya, bahan logam atau produk logam"
+    },
+    {
+        "Akreditasi": "LP-754-IDN",
+        "masa_berlaku_akreditasi": "9/20/20",
+        "nama_Lab": "PT IOL Indonesia (Palembang Laboratory)",
+        "alamat": "Kompleks Pergudangan Sukarame Blok A No.1 Jl.Tembus Terminal Alang-Alang Lebar Palembang 30152",
+        "telepon": "(0711) 5645234",
+        "lingkup": "Batubara"
+    },
+    {
+        "Akreditasi": "LP-757-IDN",
+        "masa_berlaku_akreditasi": "8/6/21",
+        "nama_Lab": "PT Tambang Timah",
+        "alamat": "Jl. Hang Tuah No. 04, Prayun Kundur, Kab. Karimun",
+        "telepon": "(0777) 7350100",
+        "lingkup": "Bijih timah, logam, timah ekspor"
+    },
+    {
+        "Akreditasi": "LP-776-IDN",
+        "masa_berlaku_akreditasi": "3/20/22",
+        "nama_Lab": "PT Hankook Tire Indonesia",
+        "alamat": "JI. Kenari Raya Block G.3-01 , Delta silicon 5 Industrial Park Cicau - Cikarang, Bekasi ",
+        "telepon": "(021) 89880367  ",
+        "lingkup": "Ban mobil penumpang, Ban truk ringan"
+    },
+    {
+        "Akreditasi": "LP-760-IDN",
+        "masa_berlaku_akreditasi": "4/17/22",
+        "nama_Lab": "Laboratorium Cabang Tarakan, PT Sucofindo (Persero) (multilokasi)",
+        "alamat": "Jl. Cahaya Baru RT.02 NO.104 Kelurahan Karang Harapan, Kota Tarakan",
+        "telepon": "(0551) 2026645",
+        "lingkup": "Batubara , crude palm oil, CPKO, palm kernel, drinking water (air minum), air bersih, air permukaan, air limbah, limbah cair"
+    },
+    {
+        "Akreditasi": "LP-786-IDN",
+        "masa_berlaku_akreditasi": "12/19/21",
+        "nama_Lab": "PT Gunung Raja Paksi",
+        "alamat": "Jl. Perjuangan No 8, Kp Tangsi, Desa Sukadanau, Cikarang Barat, Bekasi",
+        "telepon": "(021) 8900111; 8900222 ",
+        "lingkup": "Baja plat, coil, beam dan baja tulangan"
+    },
+    {
+        "Akreditasi": "LP-779-IDN",
+        "masa_berlaku_akreditasi": "6/27/2022",
+        "nama_Lab": "PT. SGS Samarinda",
+        "alamat": "Jl. Ir. Sutami Blok A no. 9 Komp. Pergudangan Samarinda, Kota Samarinda",
+        "telepon": "(0541) 270801",
+        "lingkup": "Batubara"
+    },
+    {
+        "Akreditasi": "LP-782-IDN",
+        "masa_berlaku_akreditasi": "8/28/22",
+        "nama_Lab": "Laboratorium PT. Sucofindo Bontang",
+        "alamat": "Jl. Jend. Sudirman No. 11 RT 24, Kel. Tanjung Laut, Kec. Bontang Selatan, Kota Bontang",
+        "telepon": "(0548) 26281 ",
+        "lingkup": "Batubara"
+    },
+    {
+        "Akreditasi": "LP-813-IDN",
+        "masa_berlaku_akreditasi": "5/22/22",
+        "nama_Lab": "Laboratory Buraeu Unit Geomin PT Antam (Persero), Tbk",
+        "alamat": "Jl. Pemuda No. 1, Pulogadung Jakarta Timur ",
+        "telepon": "(021) 47898888",
+        "lingkup": "Ore nickel, ore bauksit, batuan"
+    },
+    {
+        "Akreditasi": "LP-804-IDN",
+        "masa_berlaku_akreditasi": "2/20/22",
+        "nama_Lab": "Balai Teknologi Mesin Perkakas, Produksi dan Otomasi (MePPO)",
+        "alamat": "Jl. Raya Puspiptek Gedung Teknologi 2 No. 251 Lt. 2, Kota Tangerang Selatan",
+        "telepon": "(021) 75791278",
+        "lingkup": "Mesin milling CNC vertical type, mesin bubut CNC, mesin boring CNC, artefak hasil mesin milling CNC vertical type, artefak hasil mesin bubut CNC, artefak hasil mesin boring CNC, artefak"
+    },
+    {
+        "Akreditasi": "LP-818-IDN",
+        "masa_berlaku_akreditasi": "12/18/22",
+        "nama_Lab": "Laboratorium Cabang Jambi, PT Sucofindo (Persero)",
+        "alamat": "Jl. Fatmawati No. 25 Kel. Kasang, Kec. Jambi timur, Kota Jambi-36141 (Lokasi 1) Desa Kasang Pudak RT 04 RW  (Lokasi 2)",
+        "telepon": "(0741) 31200",
+        "lingkup": "Batubara"
+    },
+    {
+        "Akreditasi": "LP-826-IDN",
+        "masa_berlaku_akreditasi": "11/18/22",
+        "nama_Lab": "PT Surveyor Carbon Consulting Indonesia Cabang Berau",
+        "alamat": "Jl. Harm Ayoeb No. 200, Tanjung Redeb, Berau ",
+        "telepon": "(0554) 2020099",
+        "lingkup": "Batubara"
+    },
+    {
+        "Akreditasi": "LP-837-IDN",
+        "masa_berlaku_akreditasi": "9/18/22",
+        "nama_Lab": "PT Surveyor Carbon Consulting Indonesia Cabang Palembang",
+        "alamat": "Komplek Ruko & Pergudangan , Jl. Tembus Alang-alang Lebar Blok AB 9-10 Talang Kelapa, Palembang ",
+        "telepon": "(0711) 5645155",
+        "lingkup": "Batubara"
+    },
+    {
+        "Akreditasi": "LP-844-IDN",
+        "masa_berlaku_akreditasi": "2/26/23",
+        "nama_Lab": "PT Anindya Wiraputra Banjarbaru",
+        "alamat": "Jl. Jend. Ahmad Yani Km 21 RT 02/02, Kel. Liang Anggang Banjarbaru",
+        "telepon": "(0511) 4706093",
+        "lingkup": "Batubara"
+    },
+    {
+        "Akreditasi": "LP-857-IDN",
+        "masa_berlaku_akreditasi": " 31/02/2024",
+        "nama_Lab": "PT Nipress Energi Otomotif",
+        "alamat": "Jl. Raya Narogong Km. 26, Kp. Klapanunggal RT 004 RW 001, Klapanunggal, Bogor",
+        "telepon": "(021) 8230968",
+        "lingkup": "Aki, baterai asam timbal untuk kendaraan roda empat (mobil)"
+    },
+    {
+        "Akreditasi": "LP-007-IDN",
+        "masa_berlaku_akreditasi": "28/08/2022",
+        "nama_Lab": "Balai Besar Bahan dan Barang Teknik",
+        "alamat": "Jl. Sangkuriang No. 14, Bandung",
+        "telepon": "(022) 2504828; 2504088",
+        "lingkup": "PVC, Tabung LPG, Pelek, Nonmetallic Materials (Geotextile, Bahan Plastik, dll), Cat Tembok Emulsi, Cat Anti Fouling, Kaca spion kendaraan bermotor roda 2 (Kategori L), Kaca spion kendaraan bermotor roda 4 (Kategori M dan N), Mainan Anak (kecuali berbahan grease, oil), Komponen Elektronik, Komponen Listrik, Komponen Otomotif, Mainan, Cat, Produk elektronika dan listrik, Air limbah, air bersih , Baja Tahan Karat / Stainless Steel, Minyak lumas motor bensin 4 langkah sepeda motor, Minyak lumas motor bensin 2 langkah dengan pendingin udara, Minyak lumas motor bensin 2 langkah dengan pendingin air, Minyak lumas motor diesel putaran tinggi, Minyak lumas roda gigi transmisi manual dan gardan, Minyak lumas roda gigi transmisi otomatis, Minyak lumas hidrolik industri jenis anti aus, Minyak Lumas roda gigi industri tertutup, Minyak rem (brake fluid) untuk kendaraan bermotor, BJLS / pipa / lembaran /  roll / baut dan mur / baja tuangan dan tempaan, BJLS / pipa / lembaran / kawat / roll / baut dan mur / baja tuangan dan tempaan, Baja karbon, Besi cor, Semen Portland Tipe I-V, Semen Portland Komposit, Semen Portland Pozolan, Semen Portland Campur, Semen Portland Putih, Semen Portland Slag, Semen Portland Tipe I-V, Semen Portland Komposit, Semen Portland Pozolan, Semen Portland Campur, Semen Portland Putih, Semen Portland Slag, Semen Pemboran, Semen Portland Tipe I-V, Semen Portland Komposit, Semen Portland Pozolan, Semen Portland Campur, Semen Portland Putih, Semen Portland Slag, Semen Pemboran, Semen Portland Tipe I-V, Semen Portland Komposit, Semen Portland Pozolan, Semen Portland Campur, Semen Portland Putih, Semen Portland Slag, Semen Pemboran, Semen Portland Tipe I-V, Semen Portland Komposit, Semen Portland Pozolan, Semen Portland Campur, Semen Portland Putih, Semen Portland Slag, Semen Pemboran, Pasir, Ban Sepeda Motor, Ban Mobil Penumpang, Ban truk ringan, Ban truk dan bus, Pelek kendaraan bermotor roda dua (kategori L) Baja, Pelek kendaraan bermotor roda dua (kategori L) Logam Paduan Ringan, Pelek kendaraan bermotor roda 4 (kategori M, N, dan O), Kampas rem kendaraan bermotor, Kaca Spion Kendaraan Bermotor Roda Dua (Kategori L), Kaca Spion Kendaraan Bermotor Roda Empat (Kategori M dan N), Pipa Baja (Kampuh) Spiral, Pipa baja karbon, paduan besi dan baja austenit, Pipa ketel uap super heater yang bersambung, las dan tanpa sambungan las, Pipa baja temperatur tinggi yang bersambung las dan tanpa, Pipa ketel uap dan super heater yang di las dengan las tahan listrik, Line pipe API 5L (pipa penyalur), Pipa baja dengan atau tanpa lapis seng untuk saluran air, Pipa dan pelat las, Baja lembaran lapis seng (BJLS), Baja lembaran, pelat dan gulungan canai panas untuk tabung gas (Bj TG), Baja lembaran dan gulungan canai dingin (BjD), Baja tulangan beton dalam bentuk gulungan, Baja lembaran pelat dan gulungan canai panas (BjP), Baja lembaran dan gulungan lapis paduan aluminium dan seng (BjLAS), Baja tulangan beton, Tabung baja LPG, Baja profil I-Beam proses canai panas (Bj.P I-Beam), Baja profil kanal U proses canai panas (BjP kanal U), Baja profil siku sama kaki proses canai panas (BjP siku sama kaki), Baja profil WF Beam proses canai panas (BjP WF Beam), Baja tulangan beton hasil canai panas ulang, Tali kawat baja, Tali kawat baja untuk industri minyak dan gas bumi, Penyambung pipa berulir dari besi cor maleable hitam, Baja profil - H pengelasan dengan filler untuk konstruksi umum, CNG Cylinder, Kawat baja tanpa lapisan dipilin untuk konstruksi beton pratekan (PC Strand/KBjP-P7), Kawat baja tanpa lapisan untuk konstruksi beton pratekan (PC  wire/KBjP), Kawat baja kuens (quench) untuk konstruksi beton pratekan (PC bar/KBjP-Q), Baja tahan karat (Stainless Steel) canai dingin bentuk lembaran dan gulungan, Pipa baja karbon untuk konstruksi umum, Karet perapat (rubber seal) pada katup tabung LPG, Kursi baja untuk kantor, Kursi lipat kerangka baja, Tangki air, Regulator tekanan rendah untuk tabung baja LPG, Katup tabung baja LPG, Selang karet untuk kompor gas LPG, Kompor gas bahan bakar LPG satu  tungku dengan sistem pemantik  mekanik, Helm pengendara kendaraan bermotor roda dua, Pipa PVC untuk saluran air minum , Geotextile, Ban dalam kendaraan , Helm Industri, Vulkanisat karet kompon bantalan dermaga, Selang plastik elastomer untuk kompor gas LPG, Tangki Air Silinder Vertikal PE, Kompor gas tekanan rendah jenis dua dan tiga tungku dengan sistem pemantik, Baja batangan untuk keperluan umum (Bj KU) , Silinder Beton, Kubus Beton, Kubus Beton, Agregat Halus, Agregat Kasar, Logam dan paduan, Lampu swa-balast untuk pelayanan pencahayaan umum Persyaratan keselamatan, Lampu swa-balast untuk pelayanan pencahayaan umum Persyaratan unjuk kerja, Baterai Primer, Bagian 1 : umum, Bagian 2 : spesifikasi fisik, Aki untuk kendaraan bermotor roda  empat atau lebih , Aki untuk kendaraan bermotor kategori L, Baterai Sepeda Motor, Lead-Acid Starter Battery, Lampu LED swa-balast untuk pelayanan pencahayaan umum - Persyaratan kinerja, Lampu LED Swa-Balast untuk Layanan Pencahayaan Umum dengan Tegangan > 50 V - Spesifikasi Keselamatan, Pengisi Baterai, Setrika Listrik, Pompa Listrik, Pompa kalor listrik, pengkondisi udara dan pengering udara, Audio video, Peralatan pendingin, peralatan es krim dan pembuat es, Mesin cuci , Pelembab udara yang akan digunakan pada sistem pemanas, ventilasi atau pengkondisi udara, Household Appliances/ Peralatan listrik Rumah Tangga (Mesin cuci, Peralatan pendingin, peralatan es krim dan pembuat es), Audio video (TV, DVD player, audio amplifier, radio, set top box), Information Technology Equipment / ITE (Monitor, Notebook, PC, printer, scanner), Lampu/Luminaire, Peralatan Dapur, Mainan Elektrik, Peralatan Pemanas Cairan, Kipas Angin, Alat cukur, alat pangkas rambut dan peranti sejenis, Peranti perawatan kulit dan rambut, Multimedia Equipment (Smart TV), Medical Equipment (Operation Table), Pemanggang kontak, pemanggang roti, pemasak portabel, Peralatan teknologi informasi"
+    },
+    {
+        "Akreditasi": "LP-929-IDN",
+        "masa_berlaku_akreditasi": "4/23/24",
+        "nama_Lab": "PT Citra Tubindo, Tbk - Metallurgical Laboratory",
+        "alamat": "Jl. Hang Kesturi, Km. 4, Kawasan Industri Terpadu Kabil, Kel Batu Besar, Kec Nongsa, Bata,",
+        "telepon": "(0778) 711888",
+        "lingkup": "Steel Tubular Product"
+    },
+    {
+        "Akreditasi": "LP-865-IDN",
+        "masa_berlaku_akreditasi": "11/18/22",
+        "nama_Lab": "PT Carsurin Palembang",
+        "alamat": "Jl. Tanjung api-api, No. 2 RT 045, RW 01, kecamatan Sukarami, Palembang",
+        "telepon": "(0711) 415283",
+        "lingkup": "Batubara, wood charcoal"
+    },
+    {
+        "Akreditasi": "LP-708-IDN",
+        "masa_berlaku_akreditasi": "4/3/21",
+        "nama_Lab": "PT. Qualis Indonesia",
+        "alamat": "Jl. Padjajaran No.17 Desa Ganda Sari Kec. Jatiuwung, Tangerang",
+        "telepon": "(021) 55652583",
+        "lingkup": "Leather, textiles and other related products, metal, plastic, electrical compound and other related product, pakaian bayi,  toys, plastic and other related product, handuk, tekstil - pakaian jadi, kopi instan, mi instan, biskuit, susu kental manis, susu bubuk, tepung terigu sebagai bahan makanan, gula kristal rafinasi, kakao bubuk, minyak goreng sawit, garam konsumsi beryodium, air minum dalam kemasan (AMDK), kosmetik dan produk sejenisnya (bedak, krem wajah, lipstik dan lain-lain), udang, susu, biskuit dan produknya, produk komponen otomatif (plastik, kain, dan karet), Polyvynil chloride insulated cables of rated voltages up to and a including 450/ 750 V, Power cables with extruded insulation and their accessories for rated voltage from 1 kV (Um = 1.2 kV) up to 30 kV (Um= 36 kV) Plastics- determination of burning behaviour by oxygen index- ambient temperature test, Non metallic Materials, Electrical wires, cables and flexible cords, Instrumentation cables, Power cables with extruded insulation and their accessories for rated voltages above 30 kV) up to 150 kV (Um=170 kV), Kabel Serat Optik - Bagian 1 Single Mode Berkonstruksi Loose Tube Untuk Aplikasi Tanam Langsung, Kabel Serat Optik, perangkat kabel hybrid serat optik, sakelar untuk instalasi listrik magun rumah tangga dan sejenis (Switches for household and similar fixed-electrical installations), Tusuk kotak dan kotak kontak untuk keperluan rumah tangga dan sejenisnya (Plugs and socket-outlets for household and similar purposes), Lengkapan listrik - Pemutus-sirkit untuk proteksi arus-lebih untuk instalasi rumah tangga dan yang sejenisnya, Round wire concentric lay overhead electrical stranded conductors AAAC, ACSR, ACCC, Aluminium conductors and aluminium conductors, steel-reinforced - For overhead power transmissim, Zinc-Coated (Galvanized) steel Core Wire for Use in Overhead Electrical Conductors, Fitting lampu sekrup Edison, Fitting lampu arus bolak balik, Test on electric an optical fibre cables under fire conditions, Test for vertical flame spread of vertically-mounted bunched wires or cables, Degrees of protection provided by enclosures (IP Code), Reference Standard for Electrical Wires, Cables, and Flexible Cords, Metal-Clad Cables, Automotive parts - Unscreened low voltage cables, Metal-oxide surge arresters without gaps for a.c. systems, Pendingin, peralatan es krim dan pembuat es, Pompa kalor listrik, pengkondisi udara dan pengering udara, Mesin Cuci, Pompa Air, Kipas Angin, Seterika Listrik, Pemanggang, pemanggang roti dan pemasak portabel sejenis, Pengisi baterai, Pemanas Cairan, Peralatan perawatan kulit dan rambut, Peralatan Dapur, OPGW = Optical Ground Wire,  ADSS = All Dielectric Self Supporting Cable, Insulator Accessories, Residual current operated circuit-breakers with integral overcurrent protection for household and similar uses (RCBO's), Residual current operated circuit-breakers without integral overcurrent protection for household and similar uses (RCCBs), Requirements and tests for, fittings, Connector, All Product  Electrical and Electronic Equipment, General Lighting, Metering Equipment, Household and Similar Electrical Appliances, Information Technology Equipment, All Product  Electrical and Electronic Equipment, Household and Similar Electrical Appliance, General Lighting , Polyvinyl chloride insulated cables of rated voltage up to including 450/750 V part 6 : Lift cables and cables for flexible connections, Polyvinyl chloride insulated cables of rated voltage up to including 450/750 V part 7 :  Screened Flexible cables and unscreened Flexible cables with two cores or more, Polyvinyl chloride insulated cables of rated voltage up to including 450/750 V part 6 : Lift cables and cables for flexible conections, Power cables with extruded insulation and their accessories for rated voltages above 30 kV (Um=36 kV) up to 150 kV (Um=170 kV), Aerial Bundled Cables rated voltage 0,6/1 kV , Code type : NFA2X-T/NFA2X/NF2X/NFY, Aluminium Clad Steel Wire (AS Wire), Aluminium-magnesium-silicon alloy wire for overhead line conductor (AAAC), Hard-drawn aluminium wire for overhead line conductor, BCC 1/2H (Bare copper conductors - 1/2 Hard), BCC H (Bare copper conductors - Hard), Round wire concentric lay overhead electrical stranded conductor, Carbon Fiber Composite Core (CFCC), Audio, video equipment and similar electronics apparatus, Non-ducted air conditioners and heat pumps, Textile, seprai, sarung bantal, bedcover, saputangan, selimut, handuk, karpet, kasur, kulit, sepatu olahraga, sol luar (karet), kulit imitasi, sepatu wanita, sepatu pria, air minum dan air bersih, food and beverage, penghisap debu, oven gelombang micro, piranti pijat listrik, pemansa rendam portabel, bor listrik, gerinda, serut, gergaji timbal balik, circular saw, chain saw, band saw, RF test"
+    },
+    {
+        "Akreditasi": "LP-890-IDN",
+        "masa_berlaku_akreditasi": "3/24/19",
+        "nama_Lab": "Pusat Penelitian Tenaga Listrik dan Mekatronik (TELIMEK)-LIPI",
+        "alamat": "Komplek LIPI, Jl. Cisitu No. 2ll 154 D Bandung",
+        "telepon": "(022) 2503055",
+        "lingkup": "Motor bakar"
+    },
+    {
+        "Akreditasi": "LP-933-IDN",
+        "masa_berlaku_akreditasi": "9/24/24",
+        "nama_Lab": "Tire Laboratory PT TUV Rheinland Indonesia",
+        "alamat": "Kawasan Industrial Taman Tekno Bumi Serpong Damai Blok H3 No. 07, Tangerang",
+        "telepon": "(021) 57944579",
+        "lingkup": "Ban mobil penumpang, ban truk ringan, ban truk dan bus, ban sepeda motor, ban vulkanisir (Ban mobil penumpang, ban truk ringan, ban truk dan bus, ban sepeda motor)"
+    },
+    {
+        "Akreditasi": "LP-958-IDN",
+        "masa_berlaku_akreditasi": "12/28/24",
+        "nama_Lab": "PT Krakatau Posco - Laboratorium Uji Mekanik dan Kimia",
+        "alamat": "Jl. Afrika No. 2, Kawasan Industri Krakatau, Cilegon",
+        "telepon": "(0254) 369700",
+        "lingkup": "Baja, Baja Karbon, Baja Paduan Rendah, Besi Tuang, Bijih Besi, Batu Kapur, Ari Limbah, Air Pasokan, Batubara"
+    },
+    {
+        "Akreditasi": "LP-964-IDN",
+        "masa_berlaku_akreditasi": "1/19/2020",
+        "nama_Lab": "Laboratorium Uji Kimia dan Mekanik, PT Krakatau Steel (Persero) Tbk.",
+        "alamat": "Jl. Coil - Komplek Pabrik PT Krakatau Steel (Persero) Tbk., Cilegon",
+        "telepon": "(0254) 371274",
+        "lingkup": "Baja lembaran dan gulungan canai dingin, Baja lembaran dan gulungan canai panas, baja, aluminium Ingot, aluminium pellet, aluminium short, aluminium wire, minyak nabati, pelumas"
+    },
+    {
+        "Akreditasi": "LP-981-IDN",
+        "masa_berlaku_akreditasi": "3/15/20",
+        "nama_Lab": "Quality Laboratory Test & Metrology - Unit Jaminan Mutu, PT Dirgantara Indonesia",
+        "alamat": "Jl. Pajajaran No. 154, Bandung",
+        "telepon": "(022) 6054630, (022) 6054212",
+        "lingkup": "Aluminium alloys and steel alloys, metaallic coating"
+    },
+    {
+        "Akreditasi": "LP-1071-IDN",
+        "masa_berlaku_akreditasi": "12/13/2020",
+        "nama_Lab": "PT Jakarta Cakratunggal Steel Mills",
+        "alamat": "Jl. Raya Bekasi Km 21-22, Pulogadung, Jakarta Timur",
+        "telepon": "(021) 4604230",
+        "lingkup": "Baja tulangan beton, low alloy steel mild"
+    },
+    {
+        "Akreditasi": "LP-005-IDN",
+        "masa_berlaku_akreditasi": "23/04/2024",
+        "nama_Lab": "Bidang Penelitian Sistem Transmisi Distribusi (BTND)-PT PLN (Persero) Pusat Penelitian dan Pengembangan Ketenagalistrikan (PLN PUSLITBANG)",
+        "alamat": "Jl. Duren Tiga No. 102, Kalibata, Jakarta Selatan\n",
+        "telepon": "(021) 7940428",
+        "lingkup": "Blok terminal, indeks pengamanan (IP), KWh meter, pemutus tenaga mini (MCB), kabel berinsulasi PVC dengan tegangan pengenal 450/750 V bag.3: kabel tanpa selubung untuk pemasangan tetap (magun), kabel berinsulasi PVC dengan tegangan pengenal 450/750 V bag.4: kabel berselubung untuk pemasangan tetap (magun), kabel daya dengan insulasi terekstruksi dengan tegangan pengenal 1 kV s/d 30 kV bag.1: kabel untuk tegangan pengenal 1 kV s/d 3 kV, kabel daya dengan insulasi terekstruksi dengan tegangan pengenal 1 kV s/d 30 kV bag.2: kabel untuk tegangan pengenal 6 kV s/d 30 kV, kabel pilin udara: NF2X/NFA2X, NF2X-T, isolator, stick isolasi, protective cover, blanket, PHB TR, PHB TM, lengkapan kabel tegangan pengenal 6 kV s/d 30 kV, trafo distribusi, transformator arus (CT), transformator tegangan (PT), relai jarak, relai diferensial kawat pilot, relai arus lebih, relai tegangan lebih/kurang, relai arah, relai cek sinkron, relai gangguan tanah terbatas (REF), relai penutup balik, relai diferensial trafo tenaga, relai tunda waktu, relai penguat medan hilang, relai thermal overload, transformator tenaga, transformator tegangan (PT), transformator arus (CT), penangkap petir"
+    },
+    {
+        "Akreditasi": "LP-1085-IDN",
+        "masa_berlaku_akreditasi": "2/15/2021",
+        "nama_Lab": "PT Putra Baja Deli Banten",
+        "alamat": "Kawasan Industri Terpadu Wilmar, Bojonegara, Kramatwatu, Serang, Banten",
+        "telepon": "(087) 886000402",
+        "lingkup": "Baja tulangan beton sirip, baja tulangan beton polos, baja karbon dan paduan "
+    },
+    {
+        "Akreditasi": "LP-1142-IDN",
+        "masa_berlaku_akreditasi": "5/9/21",
+        "nama_Lab": "Laboratorium Pusat Penelitian Fisika LIPI",
+        "alamat": "Kawasan PUSPIPTEK Serpong, Gd. 440-442, Tangerang Selatan",
+        "telepon": "(021) 7560570 ",
+        "lingkup": "Logam, polimer, keramik atau komposit, logam dan paduan, material organic dan poimer, material polikristal dan amorf"
+    },
+    {
+        "Akreditasi": "LP-011-IDN",
+        "masa_berlaku_akreditasi": "1/9/24",
+        "nama_Lab": "Unit Industri Bahan dan Barang Teknik Provinsi DKI Jakarta",
+        "alamat": "Jl. Letjen Suprapto Kav 3, Cempaka Putih, Jakarta Pusat",
+        "telepon": " (021) 4209179",
+        "lingkup": "Baja tulang beton bersirip, baja tulangan  polos, baja tulangan beton dalam bentuk gulungan, baja tulangan beton hasil canai panas ulang, baja batangan untuk keperluan umum (BjKU), baja lembaran, pelat dan gulungan canai panas (BjP), baja lembaran dan gulungan canai dingin (BjD), baja lembaran dan gulungan lapis paduan aluminium-seng (BjLAS), baja profil WF-beam proses canai panas (BjPWF-beam), baja profil kanal U canai panas (BjP kanal U), baja profil I-beam proses canai panas (BJ P I-beam),  baja profil siku sama kaki proses canai panas (Bj siku sama kaki), baja profil H (Bj PH-beam), kawat baja kuens (quench) temper untuk konstruksi beton pratekan (PC-Bar/KBjP-Q), tujuh kawat baja tanpa lapisan dipilin untuk konstruksi beton pratekan (PC strand/KBjP-P7), kawat baja tanpa lapisan konstruksi beton pra tekan (PC Wire/KBjP), jaringan kawat baja las untuk tulangan beton dari kawat baja sirip, jaringan kawat baja las untuk tulangan beton dari kawat baja polos, silinder beton, lembaran serat krisotil semen rata, lembaran serat krisotil semen bergelombang simetris, kubus beton, lembaran semen rata, lembaran  semen gelombang simetris, baja lembaran lapis seng, pipa PVC untuk saluran air minum, genteng beton, genteng keramik berglazur, bata beton (paving block), pipa baja saluran air dengan atau tanpa lapisan seng, genteng baja berlapis butiran batu, agregat untuk aduk dan beton, pipa baja konstruksi umum, material logam, pipad PVC untuk saluran air minum, sambungan pipda PVC untuk saluran air minum, kloset duduk, keramik berglasir-tableware-alat makan dan minum, ubin keramik, cat tembok emulsi, sistem perpipaan plastik untuk penyaluran bahan bakar gas – polietilena (PE) – bagian 2: pipa, sistem perpipaan plastik untuk instalasi air panas dan dingin – polipropilena (PP) – bagian 2: pipa, profil rangka baja ringan, pipa baja untuk pancang"
+    },
+    {
+        "Akreditasi": "LP-1102-IDN",
+        "masa_berlaku_akreditasi": "4/5/21",
+        "nama_Lab": "PT Mega Andalan Kalasan",
+        "alamat": "Jl. Solo KM. 13, Tanjungtirto, Tirtomani, Kab. Sleman",
+        "telepon": "(0274) 4398404",
+        "lingkup": "Kastor/roda"
+    },
+    {
+        "Akreditasi": "LP-024-IDN",
+        "masa_berlaku_akreditasi": "24/9/2024",
+        "nama_Lab": "PT Sucofindo (Persero) SBU Laboratory",
+        "alamat": "Jl. Arteri Tol Cibitung No. 1, Cikarang Barat, Bekasi",
+        "telepon": "(021) 88321176 ",
+        "lingkup": "Gula kristal mentah (raw sugar), gula kristal rafinasi, tepung terigu sebagai bahan makanan, hasil pertanian dan perkebunan, beras, garam konsumsi beryodium, minyak masak dan turunannya, RBD palm olein, minyak kelapa virgin (VCO), biji kakao, minyak goreng sawit, makanan dan minuman, cemaran mikroba dalam daging telur dan susu serta hasil olahannya, pangan, kopi instan, mie instan, kosmetik, gliserin, sabun mandi, deterjen serbuk, sabun mandi cair, sabun cuci, pembalut wanita, deterjen cuci cair, pupuk Tripel Super Fosfat (TSP), pupuk fosfat alam untuk pertanian, pupuk borat, pupuk SP-36 plus Zn, pupuk SP-36,pupuk Diamonium Phospat/DAP, pupuk urea amonium phospat, pupuk mono amonium phosphat, pupuk kalium klorida, pupuk dolomit, pupuk NPK padat, pupuk Tripel Superphospat plus Zn, pupuk amonium klorida, pupuk amonium sulfat,  pupuk (organik dan anorganik), pupuk urea, pupuk super fosfat, herbisida, aluminium sulfat, asam sulfat teknis, seng oksida, sodium tripolifosfat teknis, plastik, tekstil dan produk tekstil, kulit dan tekstil, eletrical dan electronic part, mainan anak-anak, keramik, produk melamin-perlengkapan makanan minuman, wadah air mineral dari keramik, keramik berglasir-tableware-alat makan dan minum, plastik-wadah makanan dan minuman-polystyrene foam, lubricating oils for 4 stroke gasoline engines of motorized vehicles,  lubricating oils for 2 stroke gasoline engines of motorized vehicles, lubricating oils of high rotation diesel engines, lubricating oils of gears, lubricating oils of automatics transmisions, lubricating oils, fuel oil, pelumas (lube oil), bahan bakar minyak, biodiesel, gas alam, oil trafo, minyak mentah, air dan air limbah, air permukaan, soil/sludge (dari limbah B3), air minum dalam kemasan (AMDK), air minum, air bersih,  air laut, air dan tanah, udara (ambien), industrial hygiene dan kualitas udara dalam ruangan, udara emisi sumber tidak bergerak, udara emisi sumber bergerak (berbahan bakar solar), kipas angin, vacum cleaner, setrika listrik, mesin cuci, pemanggang dapur (grill, pemanggang roti, pemasak portable), toaster, mesin dapur, pemanas air/heating liquid, refrigerator/pendingin/kulkas, ice maker, AC, perawatan kulit dan rambut/hair and skin care appliances, pompa air/water pump, alat cukur dan pemangkas rambut, alat pencukur rambut, microwave, kompor listrik, ricommercial electric cooking ranges, ovens, hobs dan hob element, compressor, pengisi baterei, peralatan pembunuh serangga/insect killer, self-ballast lamp, tusuk kontak/kotak kontak (plug and socket outlet for household and similar),saklar/switches for household and similar purposes, audio video & similar electronic apparatus-safety, kabel berinsulasi PVC dengan tegangan pengenal 450/750V - Bagian I : persyaratan umum; bagian 2 : metode uji; bagian 3 : kabel nirselubung untuk perkawatan magun; bagian 4 : kabel berselubung untuk perkawatan magun; bagian 5 : kabel fleksibel (kabel senur);kabel berinsulasi karet dengan tegangan 450/750 V bagian 1: persyaratan umum; bagian 8 : Cord for application requiring high flexibility, rice bx/sarana penyimpanan beras, kompor gas 1 tungku, kompor gas 2 tungku, luminer, luminer magun kegunaan umum, luminer tanam, luminer pencahayaan jalan umum, perlengkapana kendali lampu, electronic ballast,  RCCB (residual current circuit braker), MCB (miniatur circuit braker), baterai primer, lampu pijar, korek api gas, kabel daya dengan insulasi terekstrusi dan lengkapannya, kWh meter, mainan listrik, kloset duduk, crude palm kernel oil, hand wash, contraceptive pills, contraceptive injections, drugs (solid), mosquito repellent, talc, biscuit, meat and its processed products, cereals and its processed products, sugar, candy, chocolate, powder drink, olefin plastic, paper and board, plastic, biodiesel/biosolar, weights, castor, sphygmomanometer non-otomatis, medical electronic equipment, infant incubator, medical bed, safety of information technology equioment- part 1, luminaires, recessed luminaires, street light luminaires, portable luminaires, floodlights, self-ballasted LED lamps, indect protection (Kode IP), instantaneous water heaters, massage appliance, concrete, metal rubber film plastic metal material, switch electronic, lamp cap, soil/sludge, mineral water, demineral water, natural minieral water, raw water, clean water, industrial water, surface water, drinking water, clean water"
+    },
+    {
+        "Akreditasi": "LP-1126-IDN",
+        "masa_berlaku_akreditasi": "7/25/2021",
+        "nama_Lab": "PT Wiraswata Gemilang Indonesia",
+        "alamat": "Desa Gandamekar Km. 24, Cibitung, Bekasi",
+        "telepon": "(021) 8831241",
+        "lingkup": "Pelumas baru, pelumas bekas"
+    },
+    {
+        "Akreditasi": "LP-029-IDN",
+        "masa_berlaku_akreditasi": "15/10/2024",
+        "nama_Lab": "Pusat Penelitian Karet",
+        "alamat": "Jl. Salak No. 1, Bogor",
+        "telepon": "(0251) 8319817",
+        "lingkup": "Lateks alam, vulkanisat/kompon, selang karet untuk kompor gas LPG, ban mobil penumpang, ban truk ringan, ban sepeda motor, rol karet pengupas gabah, vulkanisat karet pompa air tangan, karet mentah, karet pegangan selang (grip handle) sepeda motor, lis karet pintu lemari es, karet perapat (rubber seal) pada katup tabung LPG, spesifikasi bantalan elastomer tipe polos dan tiper berlapis untuk perletakan jembatan, karet spesifikasi teknis, ban dalam kendaraan bermotor, selang termoplastik elastomer untuk kompor gas, ban dalam sepeda, vulkanist karet kompon bantalan dermaga, sarung tangan karet steril untuk keperluan bedah sekali pakai, sarung tangan untuk pemeriksaan medis sekali pakai - bagian 1: spesifikasi untuk sarung tangan terbuat dari lateks atau larutan karet, ban vulkanisir (ban truk ringan)"
+    },
+    {
+        "Akreditasi": "LP-1185-IDN",
+        "masa_berlaku_akreditasi": "3/20/2022",
+        "nama_Lab": "Balai Besar Pengembangan Mekanisasi Pertanian",
+        "alamat": "Situgadung PO Box 2, Serpong, Tangerang 15310",
+        "telepon": "(08)119936787",
+        "lingkup": "Traktor Pertanian Roda Dua, Traktor Pertanian Roda Empat Gandar Ganda, Pompa air sentrifugal untuk irigasi, Mesin penggiling gabah sekali umpan, Mesin pengering tipe bak datar, Mesin perontok padi tipe pelemparan jerami, Mesin pemipil jagung , Mesin pengering gabah tipe sirkulasi, Mesin tanam bibit padi tipe dorong, Sprayer gendong semi-otomatis , Mesin penghancur (crusher) bahan baku pupuk organik, Mesin pencacah hijauan pakan ternak , Mesin sangrai kopi dan kakao tipe silinder datar berputar, Pengabut gendong bermotor, Mesin perontok multi komoditi untuk padi, jagung dan kedelai, Mesin panen padi tipe kombinasi, Mesin pengasap jinjing (fogging machine) sistem pulsa jet"
+    },
+    {
+        "Akreditasi": "LP-108-IDN",
+        "masa_berlaku_akreditasi": "19/09/2021",
+        "nama_Lab": "Balai Besar Teknologi Aerodinamika, Aeroelastika dan Aeroakustika - Badang Pengkajian dan Penerapan Teknologi (BPPT)",
+        "alamat": "Komplek Puspiptek Gedung No. 240, Setu, Kota Tangerang Selatan ",
+        "telepon": "(021) 7560902",
+        "lingkup": "Model pesawat terbang, mesin-mesin rotasi, anemometer, Produk yang berputar dan menghasilkan suara / kebisingan (contoh : vacum cleaner, genset, mixer, kipas angin, blender dan sejenisnya), Area pemukiman, industri dan transportasi, Model jembatan bentang panjang, Mesin rotasi, bangunan gedung"
+    },
+    {
+        "Akreditasi": "LP-1186-IDN ",
+        "masa_berlaku_akreditasi": "3/20/2022",
+        "nama_Lab": " PT Bintang Inspeksindo Indonesia",
+        "alamat": " Pergudangan EHA Blok B2, Jl. Legok Raya Km.6 No. 77, Kp. Carang Pulang RT. 002/01,\nKel. Bojong Nangka, Kab. Tangerang",
+        "telepon": "(021) 22227029 ",
+        "lingkup": "Material Logam dan Produk Logam (Pelat Baja: Baja karbon rendah, Baja karbon menengah, Baja karbon tinggi, Baja paduan,  Baja tahan karat, (sambungan las, Pelat Baja: Baja karbon rendah, Baja karbon menengah, Baja karbon tinggi, Baja paduan, Baja tahan karat), Baja Paduan Rendah Carbon Steel and Low Alloys Steel, Baja Tahan Karat "
+    },
+    {
+        "Akreditasi": "LP-075-IDN",
+        "masa_berlaku_akreditasi": "28/02/2020",
+        "nama_Lab": "aboratorium Mekanika Tanah, PT. Tambang Batubara Bukit Asam (Persero), Tbk. Unit Pertambangan Tanjung Enim",
+        "alamat": "Kantor Eksplorasi & Geoteknik, Muara Tiga Besar, Kab. Lahat",
+        "telepon": "(0734) 451096 ext. 2526, 2523",
+        "lingkup": "Tanah, beton"
+    },
+    {
+        "Akreditasi": "LP-1206-IDN",
+        "masa_berlaku_akreditasi": "4/6/22",
+        "nama_Lab": "Divisi Engineering Development Centre, PT Astra Otoparts, Tbk",
+        "alamat": "Kawasan Industri Greenland Internationa Industrial Center, Jl. Anggrek Raya No. 25, Kota Deltamas, Kab. Bekasi",
+        "telepon": "(021) 22157920",
+        "lingkup": "Fe dan Al based metal"
+    },
+    {
+        "Akreditasi": "LP-061-IDN",
+        "masa_berlaku_akreditasi": "17/04/2022",
+        "nama_Lab": "PT. Panasonic Manufacturing Indonesia",
+        "alamat": "Jl. Raya Bogor Km. 29, Pekayon – Pasar Rebo, Jakarta Timur",
+        "telepon": "(021) 8710221 ext. 2713",
+        "lingkup": "Air conditioner, Non-ducted air conditioner, kipas angin listrik, pompa air listrik,  mesin cuci, lemari es, home theater, materi isolasi, materi plastik pada produk elektronik, material logam pada produk elektronik, air limbah industri dan air limbah domestik"
+    },
+    {
+        "Akreditasi": "LP-1217-IDN",
+        "masa_berlaku_akreditasi": "7/17/2022",
+        "nama_Lab": " PT Timah Persero (Tbk) Unit Metalurgi",
+        "alamat": "Jl. Raya Timah No.1 Muntok- Bangka Barat",
+        "telepon": "(0717) 425800 ext.413 ",
+        "lingkup": "Biji timah, logam timah ekspor"
+    },
+    {
+        "Akreditasi": "LP-077-IDN",
+        "masa_berlaku_akreditasi": "31/01/2020",
+        "nama_Lab": "Balai Besar Teknologi Kekuatan Struktur (B2TKS), Badan Pengkajian dan Penerapan Teknologi (BPPT) (EXPIRED)",
+        "alamat": "Kawasan PUSPIPTEK Gedung 220, Setu, Tangerang Selatan",
+        "telepon": "(021) 7560930 ",
+        "lingkup": "Baja tulangan beton, baja lembaran lapis seng, kawat baja karbon rendah, baja profil siku sama kaki proses canai panas (Bj P siku sama kaki), baja profil kanal U proses canai panas, batang kawat baja karbon rendah, baja tulangan beton hasil canai ulang (rerolling), baja siku sama kaki bertepi bulat canai panas hasil rerolling, baja tulangan beton dalam bentuk gulungan, baja profil I - beam proses canai panas, baja batangan untuk keperluan umum, baja profil H hasil pengelasan dengan filter untuk konstruksi umum, kawat baja kuens (quench) temper untuk konstruksi beton praten (PC Bar/KBjP-Q), baja profil WF beam proses canai panas (Bj P WF-Beam), baja lembaran dan gulungan canai dingin, baja lembaran pelat dan gulungan canai panas, baja lembaran dan gulungan canai panas, baja lembaran dan gulungan paduan aluminium-seng, billet baja tuang kontinyu, tali kawat baja, kawat baja tanpa lapisan untuk konstruksi beton pratekan (PC wire/KBj P), pipa baja untuk konstruksi umum, pipa baja karbon untuk konstruksi mesin, pipa baja lapis seng untuk saluran air, penyambung pipa berulir dari besi cor maleabel hitam, pipa baja saluran air, pipa union (konduit), helm pengendara kendaraan bermotor roda dua, tabung gas bumi bertekanan (compressed natural gas/CNG) untuk kendaraan bermotor, beton, logam, low alloy Cr Ni (stainless steel), Al dan paduannya, low alloy, titanium alloy, ban truk ringan, ban truk dan bus, ban vulkanisir, peredam kejut teleskopik, valve (katup air), selang hidrolik, pipa besi, pipa PVC, konstruksi, bangunan/struktur/pemesinan/jembatan, rotor (permesinan), generator AC dengan penggerak motor bakar torak, tali kawat baja untuk minyak dan gas bumi, tujuh kawat baja tanpa lapisan untuk konstruksi beton pratekan (PC wire/KBj P), tujuh kawat baja tanpa lapisan dipilin  untuk konstruksi beton pratekan (PC strand/KBjP-P7), pipa dan pelat baja bergelombang lapis seng, profil aluminium ekstruksi untuk keperluan konstruksi umum, pipa baja saluran air dengan atau tanpa lapisan seng, elektroda las terbungkus baja karbon rendah, mutu, dan cara uji, batang kawat baja karbon rendah untuk inti kawat las listrik, ban dalam untuk kendaraan bermotor, bantalan beton monoblok, tiang pancang penambang bulat berongga pratarik (spun pile), tiang pancang penampang perseg pratarik (aquare pile)"
+    },
+    {
+        "Akreditasi": "LP-1228-IDN",
+        "masa_berlaku_akreditasi": "8/28/2022",
+        "nama_Lab": "PT TIMAH (Persero) Tbk Cabang Pangkalpinang",
+        "alamat": "Jl. Jend. Sudirman No 51 Pangkalpinang",
+        "telepon": "(0717) 4258000",
+        "lingkup": "Bijih timah"
+    },
+    {
+        "Akreditasi": "LP-081-IDN",
+        "masa_berlaku_akreditasi": "17/04/2022",
+        "nama_Lab": "Laboratorium Aplikasi Pusat Penelitian dan Pengembangan Teknologi Minyak dan Gas bumi ‘LEMIGAS”",
+        "alamat": "Jl. Ciledug Raya, Kav. 109, Cipulir, Kebayoran Lama",
+        "telepon": "(021) 7398278",
+        "lingkup": "Minyak lumas motor bensin: empat langkah kendaraan bermotor (baru dan bekas pakai), empat langkah kendaraan sepeda motor (baru dan bekas pakai), dua langkah berpendingan udara (baru dan bekas pakai), dua langkah berpendingin air (baru dan bekas pakai); Minyak lumas motor diesel: putaran tinggi (baru dan bekas pakai), putaran menengah (baru dan bekas pakai); Minyak lumas silinder motor diesel putaran rendah untuk industri dan kapal (baru dan bekas pakai); minyak lumas karter putaran rendah untuk industri dan kapal (baru dan bekas pakai); minyak lumas transmisi manual dan gardan minyak lumas transmisi otomatis; minyak lumas hidrolik"
+    },
+    {
+        "Akreditasi": "LP-1288-IDN",
+        "masa_berlaku_akreditasi": "12/18/2022",
+        "nama_Lab": "Laboratorium Uji Bahan - Politeknik Perkapalan Negeri Surabaya",
+        "alamat": "Jl. Teknik Kimia, Kampus ITS Sukolilo - Surabaya",
+        "telepon": "(031) 5947186 ",
+        "lingkup": "Logam"
+    },
+    {
+        "Akreditasi": "LP-116-IDN",
+        "masa_berlaku_akreditasi": "8/7/22",
+        "nama_Lab": "Laboratorium Kilang PT Pertamina (Persero) Unit Pengolahan Unit IV Cilacap ",
+        "alamat": "Jl. MT Haryono 77, Kab. Cilacap",
+        "telepon": "(0282) 508230",
+        "lingkup": "Avtur/jet A-1, premium, kerosine, minyak solar, industrial - diesel fuel (IDF), marine fuel oil (MFO), asphalt, slack wax, lube base oil, minarex, paraffinic oil, LPG, benzene, paraxylene, air limbah"
+    },
+    {
+        "Akreditasi": "LP-1307-IDN",
+        "masa_berlaku_akreditasi": "2/27/2023",
+        "nama_Lab": "Laboratorium TBBM Kotabaru Group-PT Pertamina (Persero)",
+        "alamat": "Jl. H. Hasan Basri Km 4.5, Kotabaru, Pulau Laut",
+        "telepon": "(0518) 21624",
+        "lingkup": "Premium, pertalite, pertamax, solar, biosolar, dexlite, Marine fuel oil"
+    },
+    {
+        "Akreditasi": "LP-130-IDN",
+        "masa_berlaku_akreditasi": "28/08/2022",
+        "nama_Lab": "PT Intertek Utama Services",
+        "alamat": "Jl. Raya Bogor Km.28 Jakarta Timur",
+        "telepon": "(021) 29384454",
+        "lingkup": "Mineral Rocks, Mineral Rocks (Iron ore Extended Suite), Mineral Rocks (Bauxite Ore Suite), Mineral Rocks (Chromite Ore Suite), Mineral Rocks (Manganese Ore Suite), Mineral Rocks (Zircon Suite), Mineral Rocks (Nickel Laterite Ore Extended Suite), Mineral Rocks (Clay or whole rock package), (Clay, Limestone), Carbon, Water, Water and Wastewater, Water, Wastewater and Surface Water, Water, Surface Water, Wastewater and Seawater/ Saline Water, Water, Surface Water & Waste Water, Water, Surface Water and Wastewater, Water and Surface Water, Water, Surface Water, Wastewater and Seawater/Saline Water, Water, Wastewater and Seawater / Saline Water , Water, Wastewater and Saline Water , Water, Surface Water & Waste Water, Liquid waste, Sea water, Tissue, Soil/Sludge/Solid/ Sediment, Soil/Sludge/Solid/ Sediment, Soil/Sludge/Sediment, Soil/sludge/solid/sediment, Solid Waste,  Ambient Air, Air Monitoring, Stationary Stack Emissions, Personal & Working area, Industrial Hygiene Monitoring, Personnal & Working Area Air Monitoring, Indoor Air Quality Monitoring, Gas, Crude Oil & Petroleum Products, Crude Oil, Produk Petroleum, Produk Petroleum (Crude Oil ), Petroleum Products(Liquid Fuels), Petroleum Products, Petroleum Products (Crude Petroleum and Liquid Petroleum Products), Petroleum Products, Lubricating Oils, and Additives , Petroleum Products (Crude Oils and Fuel Oils ), Petroleum Products (Light Hydrocarbons, Spark Ignition Engine Fuel, Diesel Engine Fuel, and Engine Oil), Petroleum Products (Fuel Oils), Oils (Lube Oils, Diesel Fuel, Crude Oils), Canned pineapple, Meat, Meat , Seafood, Hygiene monitoring system in hotel kitchen, restaurant & production area in food industry, Sweeteners, Gula Rafinasi, Chocolate, Syrup, Milk Powder, Cheese, Biscuits, Fresh Fruits, Vegetables (cooked, fresh), Emulsified sauce (salad dressing), Bakery, Liquid Milk, Milk, Mie Instant, Instant Coffee, Wheat Flour, Soft/Hard Candy, Cosmetics, Paper, Refined Sugar, Drinking Water, Cosmetics (Lotion, wipes, soap, shampo, tooth paste, perfume, mouthwash, hair cream, facial cleanser, hair dye, lip color, talc)  , Chemical desinfektan & Antiseptic, Sediaan oral, Sediaan steril, Paper & Paperboard, Biscuit, Complementary feeding, Milk and milk product, Instant Noodle, Cooking Oil, Sugar, Soap, Ceramicware and glassware, Plastic, implementation and article, Plastic, Packaging (plastic/paper), Healthy Water, Alcoholic Beverages, Oil & Fat, Cosmetic, Candy, Medicine, Kacang-kacangan, Madu"
+    },
+    {
+        "Akreditasi": "LP-1312-IDN",
+        "masa_berlaku_akreditasi": " 3/31/2024",
+        "nama_Lab": "PT Refined Bangka Tin",
+        "alamat": "Kawasan Industri Jelitik, Sungailiat, Kabupaten Bangka",
+        "telepon": "(0717) 95444 ",
+        "lingkup": "Logam, timah murni"
+    },
+    {
+        "Akreditasi": "LP-143-IDN",
+        "masa_berlaku_akreditasi": "18/11/2024",
+        "nama_Lab": "PT Pertamina (Persero) Refinery Unit III Plaju - Laboratory Engineering and Development",
+        "alamat": "Jl. Beringin No. 1 , PO BOX No. 1, Plaju, Palembang",
+        "telepon": "(0711) 598805",
+        "lingkup": "Crude oil, premiun, pertamax, avtur, kerosine, solar dan solar plus, medium naphtha, industrial fuel oil, fuel oil, Low sulfur waxy residue (LSWR), Low Aromatics White Spirit (LAWS), Special Boiling Point (SBP), polytam, asam sulfat"
+    },
+    {
+        "Akreditasi": "LP-264-IDN",
+        "masa_berlaku_akreditasi": "23/05/2024",
+        "nama_Lab": "Laboratorium Pengujian Baterai - PT GS Battery.",
+        "alamat": "Kawasan Industri Surya Cipta, Jl. Surya Utama Kav. 13 – 14, Ciampel, Karawang",
+        "telepon": "(0267) 440961-64 Ext. 3310; 3311",
+        "lingkup": "Aki untuk kendaraan bermotor roda empat atau lebih, Aki untuk kendaraan bermotor kategori L"
+    },
+    {
+        "Akreditasi": "LP-134-IDN",
+        "masa_berlaku_akreditasi": "29/12/2024",
+        "nama_Lab": "PT. Pertamina (Persero) Refinery Unit V Balikpapan",
+        "alamat": "Jl. Yos Sudarso No. 1, Balikpapan",
+        "telepon": "(0542) 515080",
+        "lingkup": "Pertamax, pertalite, premium, naphtha, avtur, kerosine, automotive diesel oil (ADO), Industrial Diesel Oil (IDO), Industrial fuel oil (IFO), Low Sulphur Waxy Residue (LSWR) crude oil, Liquefied petroleum gases (LPG), natural gas, air limbah"
+    },
+    {
+        "Akreditasi": "LP-751-IDN",
+        "masa_berlaku_akreditasi": "11/2/21",
+        "nama_Lab": "PT TUV Rheinland Indonesia",
+        "alamat": "Jl. Dr. Saharjo No. 45,B92-93, Kawasan Pergudangan Infinia Park, Manggarai, Jakarta Selatan ",
+        "telepon": "(021) 83795571 ",
+        "lingkup": "Mainan, battery charger, audio video, household and similar electrical appliances, contracr grills, toasters and similar portable cookers (barbecue for indoor use, contract grills, cooker, food dehydrators, portable ovens, raclette grills, radiant grills, roaster, rotary grills, rotisseries, toasters, waffle irons, hotplates), helmet hair dryers, skin & hair care (curling combs, curling irons, curling roller with separate heaters, facial saunas, hand dryers, heaters with detachable curlers, permanent-wave appliances, hair dryer), ice cream maker, food mixer, can opener, food mixing machine, kitchen appliances, refrigerator, medical devices"
+    },
+    {
+        "Akreditasi": "LP-144-IDN",
+        "masa_berlaku_akreditasi": "8/7/22",
+        "nama_Lab": "Laboratorium Unit Pengolahan II Dumai, PT Pertamina Persero",
+        "alamat": "Jl. Raya Kilang Putri Tujuh, Kota Dumai",
+        "telepon": "(0765) 442241; 442251",
+        "lingkup": "Liquid petroleum gases (LPG), green coke, premium, kerosine, solar, Avtur / Jet A - 1, air limbah, air pendingin, air drainase, air bersih"
+    },
+    {
+        "Akreditasi": "LP-263-IDN",
+        "masa_berlaku_akreditasi": "24/09/2024",
+        "nama_Lab": "PT  Goodyear Indonesia, Tbk",
+        "alamat": "Jl. Pemuda No. 27, Bogor",
+        "telepon": "(0251) 8322071    ",
+        "lingkup": "Ban mobil penumpang, ban truk ringan, ban truk dan bus"
+    },
+    {
+        "Akreditasi": "LP-145-IDN",
+        "masa_berlaku_akreditasi": "5/10/21",
+        "nama_Lab": "Laboratorium Unit Produksi PT Pertamina (Persero) Unit Pengolahan VI Balongan ",
+        "alamat": "Jl. Raya Balongan Km. 9 Indramayu, Jawa Barat",
+        "telepon": "(0234) 5256296",
+        "lingkup": "Gasoline (premium, pertalite, pertamax, pertamax plus) solar, decant oil, LPG, propylene, air limbah"
+    },
+    {
+        "Akreditasi": "LP-266-IDN",
+        "masa_berlaku_akreditasi": "9/30/22",
+        "nama_Lab": "PT. Vale Indonesia,Tbk",
+        "alamat": "DP 3 Plant Site, Sorowako",
+        "telepon": "(021) 524 9100 ext. 2507; 2518; 2549; 2550",
+        "lingkup": "Tambang biji nikel (nikel ore/laterite), air dan air limbah, sampel proses (Nikel Calcine), Produk akhir tambang (Nikel Matte)"
+    },
+    {
+        "Akreditasi": "LP-158-IDN",
+        "masa_berlaku_akreditasi": "29/12/2024",
+        "nama_Lab": "Balai Laboratorium Bea dan Cukai Kelas I Jakarta",
+        "alamat": "Jl. Letjen Suprapto 66, Jakarta Pusat",
+        "telepon": " (021) 4246033",
+        "lingkup": "Garam(NaCl), gula kristal mentah (raw sugar), gula kristal putih, gula kristal rafinasi, lubricant oil, minuman mengandung etil alkohol, polimer, tekstil, crude palm oil (CPO), low-alloy steel, konsentrat Cu, mineral logam, Minuman mengandung Etil Alkohol (MMEA)"
+    },
+    {
+        "Akreditasi": "LP-270-IDN",
+        "masa_berlaku_akreditasi": "12/18/22",
+        "nama_Lab": "PT Sumi Rubber Indonesia",
+        "alamat": "Bukit Indah City Blok H Sektor 1A – Indotaisei Industrial Estate, Cikampek",
+        "telepon": "(0264) 351346; 351347  ",
+        "lingkup": "Ban truk ringan, ban sepeda motor, ban mobil penumpang, ban truk dan bus"
+    },
+    {
+        "Akreditasi": "LP-159-IDN",
+        "masa_berlaku_akreditasi": "24/09/2024",
+        "nama_Lab": "PT Selamat Sempurna Tbk.",
+        "alamat": "Jl. Raya LPPU Curug No. 88 – Bitung – Tangerang",
+        "telepon": "(021) 5984388",
+        "lingkup": "Filter, oil filter, fuel filter, spin on filter, air filter, packing filter, spring, paper for filter"
+    },
+    {
+        "Akreditasi": "LP-269-IDN",
+        "masa_berlaku_akreditasi": "9/20/20",
+        "nama_Lab": " Pusat Penelitian dan Pengembangan Jalan dan Jembatan",
+        "alamat": "Jl. A.H. Nasution No. 264, Ujung Berung, Bandung",
+        "telepon": "(022) 7802251",
+        "lingkup": "Campuran aspal, logam (pelat), silinder, kubus, balok beton, bantalan karet, tanah, cat marka, beban lalu lintas, aspal, agregat, baja tulangan polos, ulir"
+    },
+    {
+        "Akreditasi": "LP-213-IDN",
+        "masa_berlaku_akreditasi": "26/02/2023",
+        "nama_Lab": "Balai Riset dan Standardisasi Industri Surabaya",
+        "alamat": "Jl. Jagir Wonokromo No. 360, Surabaya",
+        "telepon": "(031) 8410054",
+        "lingkup": "Pupuk fosfat alam untuk pertanian, pupuk dolomit, aluminium sulfat padat, aluminium sulfat, garam konsumsi beryodium, garam bahan baku, air minum dalam kemasan (AMDK), tepung terigu sebagai bahan makanan, rokok kretek, rokok putih, pupuk NPK, air dan air limbah, air bersih, udara emisi sumber tidak bergerak, baja tulangan beton, baja tulangan beton canai ulang, baja tulangan beton dalam bentuk gulungan, kawat baja karbon rendah, kawat bronjong, bronjong kawat, lembaran serat kritosil semen bergelombang, lembaran serat kritosil semen rata, baja lembaran lapis seng, genteng keramik, baja profil siku sama kaki proses canai panas, baja lembaran dan gulungan canai dingin, baja profil kanal U proses canai panas, baja lembaran, pelat, dan gulungan canai panas, baja lembaran dan gulungan lapis paduan aluminium - seng, baja lembaran tipis lapis timah elektolisa, baja profil I-beam proses canai panas, baja profil kanal WF - beam proses canai panas, regulator tekanan rendah untuk tabung baja LPG, tali kawat baja untuk minyak dan gas bumi, tali kawat baja, kompor gas LPG satu tungku dengan sistem pemantik mekanik khusus untuk usaha mikro, kompor gas dua tungku, kompor gas bahan bakar LPG satu tungku dengan sistem pemantik mekanik, baja batangan untuk keperluan umum, regulator tekanan tinggi untuk tabung baja LPG, tujuh kawat baja tanpa lapisan dipilin untuk konstruksi beton pratekan (PC strand/KBJP-P7), kawat baja tanpa lapisan untuk konstruksi beton pratekan (PC wire/KBJP), kawat baja kuens temper untuk konstruksi beton pratekan (PC bar/KBJP-Q), kompor gas bahan bakar LPG satu tungku dengan sistem pemantik, regulator tekanan rendah untuk tabung baja LPG, baja lembaran tipis lapis timah elektrolisa, baja profil H (Bj P H-beam), setrika listrik, pompa air listrik, kipas angin, lampu swabalast (uji keselamatan, uji performasi), mesin dapur, pemanas cairan, mesin cuci, lemari pendingin, mainan anak, handphone, peralatan teknologi industri (information technology equipment), kompor gas tekanan rendah jenis dua dan tiga tungku dengan sistem pemantik, baja tulangan beton, pipa baja saluran air dengan atau tanpa lapisan seng, biskuit, mie instan, asam sulfat, air mineral, air demineral,  lingkungan kerja, air sungai, udara ambien, genteng beton, bata beton, auto video, produk listrik rumah tangga (household appliances), produk pencahayaan listrik (electrical lighting), produk multimedia (multimedia equipment), produk pembunuh serangga (insect killer product), LED swabalast"
+    },
+    {
+        "Akreditasi": "LP-283-IDN",
+        "masa_berlaku_akreditasi": "1/2/22",
+        "nama_Lab": " PT Industri Karet Deli",
+        "alamat": " Jl. K. L Yos Sudarso Km. 8.3, Medan",
+        "telepon": "(061) 6612611",
+        "lingkup": "Ban mobil penumpang; ban sepeda motor; ban truk ringan; ban truk dan bus; ban dalam kendaraan bermotor, ban dalam sepeda, ban pertanian, ban industri, ban sepeda"
+    },
+    {
+        "Akreditasi": "LP-206-IDN",
+        "masa_berlaku_akreditasi": "24/04/2021",
+        "nama_Lab": "Pusat Teknologi Keselamatan dan Metrologi Radiasi - BATAN",
+        "alamat": "Jl. Lebak Bulus Raya No. 49 Jakarta",
+        "telepon": "(021) 7513906",
+        "lingkup": "Radioaktif pada: Bahan pangan, radiasi, biota, rumput, tanaman, sayuran, susu, tanah dan sedimen, bahan bangunan, NORM/TENORM, benda uji dan daerah kerja, benda terkontaminasi radioaktif, dosimeter termoluminesensi (TLD), bungkusan zat radioaktif tipe A, bungkusan zat radioaktif tipe B, pesawat sinar x radiografi (umum/mobile, gigi intraoral, gigi, mammografi, fluoroskopi, CT-scan"
+    },
+    {
+        "Akreditasi": "LP-272-IDN",
+        "masa_berlaku_akreditasi": "6/26/24",
+        "nama_Lab": "PT Elangperdana Tyre Industry",
+        "alamat": " Jl. Elang, Kawasan Industri Indokodstra, Citeureup, Bogor",
+        "telepon": "(021) 8759940",
+        "lingkup": "Ban mobil penumpang, ban truk ringan, ban niaga, ban truk dan bus "
+    },
+    {
+        "Akreditasi": "LP-238-IDN",
+        "masa_berlaku_akreditasi": "10/20/19",
+        "nama_Lab": "Balai Teknologi Termodinamika Motor dan Propulsi - BPPT",
+        "alamat": "Kawasan PUSPIPTEK, Gedung 230, Serpong, Tangerang",
+        "telepon": "(021) 7560539",
+        "lingkup": "Mesin motor bakar, kendaraan bermotor roda empat"
+    },
+    {
+        "Akreditasi": "LP-306-IDN",
+        "masa_berlaku_akreditasi": "6/13/21",
+        "nama_Lab": "Laboratorium  Pengujian - PT PLN (Persero) Pusat Penelitian dan Pengembangan Ketenagalistrikan",
+        "alamat": "Jl. Duren Tiga No. 102, Jakarta",
+        "telepon": "(021) 7973774; 798019",
+        "lingkup": "Vibrasi, tanah, minyak insulasi pakai dan baru, batubara, tube"
+    },
+    {
+        "Akreditasi": "LP-250-IDN",
+        "masa_berlaku_akreditasi": "4/29/22",
+        "nama_Lab": "PT Bridgestone Tire Indonesia",
+        "alamat": "Jl. Raya Bekasi Km. 27, Pondok Ungu, Bekasi",
+        "telepon": "(021) 8840828",
+        "lingkup": "Ban mobil penumpang (Rim: 10\", 12\", 13\", 14\", 15\", 16\", 17\", 18\", 19\"), ban truk ringan (Rim: 10\", 12\", 13\", 14\", 15\", 16\", 17\", 18\"), ban truk dan bus (Rim: 20\", 22.5\", 24\"), ban dalam kendaraan bermotor"
+    },
+    {
+        "Akreditasi": "LP-294-IDN",
+        "masa_berlaku_akreditasi": "5/23/24",
+        "nama_Lab": "PT Gajah Tunggal, Tbk.",
+        "alamat": "Lokasi 1 : Jl. Gatot Subroto Km.7, Tangerang\n\nLokasi 2 : Jl. Transheksa Km. 2.3 Kawasan KJIE (Konsorsium) Karawang Barat",
+        "telepon": "(021) 5901309/12 ext. 124/115 ",
+        "lingkup": "Ban mobil penumpang, ban truk ringan, ban truk dan bus, ban sepeda motor, ban dalam kendaraan bermotor. (Lokasi 1);\n\nBan mobil penumpang, ban truk ringan (Lokasi 2)"
+    },
+    {
+        "Akreditasi": "LP-253-IDN",
+        "masa_berlaku_akreditasi": " 15/10/2024",
+        "nama_Lab": "UPT Pengelola Penyelidikan, Pengujian dan Pengukuran Bina Marga,  Dinas Bina Marga Provinsi DKI Jakarta",
+        "alamat": "Jl. D.I. Panjaitan Kav. 583, Cawang, Jakarta Timur",
+        "telepon": "(021) 8194559 ",
+        "lingkup": "Tanah, beton, jalan, aspal cement/aspal padat, agregat kasar (spleet, macadam, screening), agregat halus (abu batu), pasir (sand beeding), pasir pasang, hotmix (aspal beton), jalan, jembatan, sirtu, makadam"
+    },
+    {
+        "Akreditasi": "LP-299-IDN",
+        "masa_berlaku_akreditasi": "4/19/20",
+        "nama_Lab": "Pusat Penelitian dan Pengembangan Perumahan dan Permukiman, Kementerian Pekerjaan Umum dan Perumahan Rakyat",
+        "alamat": "Jl. Panyaungan, Cileunyi Wetan, Kabupaten Bandung",
+        "telepon": "(022) 7798393",
+        "lingkup": "Tiang pancang penampang bulat berongga pratarik (spun pile), tiang pancang penampang persegi pratarik (square pile), turap beton prategang bergelombang (sheet pile/CCSP), sistem rangka kuda-kuda baja ringan, panel beton ringan berserat, pasangan dinding bata merah, kayu konstruksi berukuran struktural, baja tulangan beton, bata ringan, beton, kayu, agregat, air bersih, air tanah, air permukaan, air limbah, pipa PVC, meter air, pipa PE, partisi bangunan (dinding, pintu, jendela), bahan penyerap bunyi, bahan bangunan, komponen bangunan (dinding, plat lantai, kolom, balok, pintu), bahan penghambat api, lemari besi, lemari arsip tahan api"
+    },
+    {
+        "Akreditasi": "LP-681-IDN",
+        "masa_berlaku_akreditasi": "1/17/21",
+        "nama_Lab": "PT Geoservices Sangatta",
+        "alamat": "Jl. Poros Kabo No. 136 Swarga Bara, Sangatta Kutai Timur, ",
+        "telepon": "(0549) 22192",
+        "lingkup": "Batubara"
+    },
+    {
+        "Akreditasi": "LP-313-IDN",
+        "masa_berlaku_akreditasi": "9/6/22",
+        "nama_Lab": "PT. Yamaha Indonesia Motor Manufacturing",
+        "alamat": " Jl. Dr. KRT. Radjiman Widyodiningrat, Pulogadung, Jakarta Timur",
+        "telepon": "(021) 4612222",
+        "lingkup": "Sepeda motor"
+    },
+    {
+        "Akreditasi": "LP-697-IDN",
+        "masa_berlaku_akreditasi": "4/24/21",
+        "nama_Lab": "PT. Geoservice Kelanis",
+        "alamat": "Jl. Houling  Road km 0. Via PT Adaro lndonesia Site, Desa Kelanis, Kec. Mengkatip, Kab. Barito Selatan",
+        "telepon": "(0256) 2091326",
+        "lingkup": "Batubara"
+    },
+    {
+        "Akreditasi": "LP-320-IDN",
+        "masa_berlaku_akreditasi": "8/21/24",
+        "nama_Lab": "PT. Asahimas Flat Glass, Tbk.",
+        "alamat": "Bukit Indah Industrial Park, Sektor IA Blok J – L, Cikampek",
+        "telepon": "(0264) 351711 ext. 6409",
+        "lingkup": "Kaca pengaman berlapis (laminated glass), kaca pengaman diperkeras"
+    },
+    {
+        "Akreditasi": "LP-682-IDN",
+        "masa_berlaku_akreditasi": "1/17/21",
+        "nama_Lab": "PT Geoservices Palembang",
+        "alamat": "Jl. Letjen Harun Sohar, Tanjung Api-api Blok F8 RT 030, RW 011 Kel. Kebun Bunga, Kec. Sukarami Palembang",
+        "telepon": "(0711) 418614",
+        "lingkup": "Batubara"
+    },
+    {
+        "Akreditasi": "LP-322-IDN",
+        "masa_berlaku_akreditasi": "11/18/22",
+        "nama_Lab": "PT. Multistrada Arah Sarana, Tbk.",
+        "alamat": "Jl. Raya Lemahabang Km.58,3, Desa Karangsari, Kec. Cikarang Timur, Bekasi",
+        "telepon": "(021) 89140333",
+        "lingkup": "Ban mobil penumpang, ban truk ringan, ban truk dan bus, ban sepeda motor"
+    },
+    {
+        "Akreditasi": "LP-690-IDN",
+        "masa_berlaku_akreditasi": "11/22/20",
+        "nama_Lab": "PT. Antam (Persero) Tbk UBPN Maluku Utara",
+        "alamat": "Jl. Pantai Indah No.1, Buli, Maba, Halmahera Timur",
+        "telepon": "(021) 7812736",
+        "lingkup": "Nikel ore"
+    },
+    {
+        "Akreditasi": "LP-701-IDN",
+        "masa_berlaku_akreditasi": "7/2/21",
+        "nama_Lab": "Balai Pengujian Alat Ukur, Takar, Timbang dan Perlengkapannya - Direktorat Metrologi Bandung",
+        "alamat": "Jl. Pasteur No.27 Bandung ",
+        "telepon": "(022) 4203597",
+        "lingkup": "Timbangan elektronik, meter air"
+    }
+]
