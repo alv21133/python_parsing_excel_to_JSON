@@ -1,0 +1,11 @@
+{
+  "name": "cleaningjs",
+  "version": "1.0.0",
+  "description": "cleaning fo json",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sasori.inc",
+  "license": "ISC"
+}

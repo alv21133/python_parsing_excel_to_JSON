@@ -4,7 +4,7 @@ import numpy as np
 import ast
 
 print("> genjutsu importing file...")
-jsonFile = open("Testing_rev1.json", "r", encoding="utf-8-sig")
+jsonFile = open("pengujianFinal.json", "r", encoding="utf-8-sig")
 testingData = json.load(jsonFile)
 jsonFile.close()
 print("> genjutsu making JSON...")
@@ -21,50 +21,28 @@ class noAkre:
 
 
 class merge:
-    def __init__(self,  no, alamat, name, telp, email, lingkup):
-        self.Akreditasi = no
-        self.masa_berlaku_akreditasi = email
+    def __init__(self,  no, alamat, name, telp, berlaku, lingkup, email, propinsi, negara, bidangUji):
+        self.akreditasi = no
+        self.masa_berlaku_akreditasi = berlaku
         self.nama_Lab = name
         self.alamat = alamat
         self.telepon = telp
+        self.propinsi = propinsi
+        self.negara = negara
+        self.email = email
         self.lingkup = lingkup
+        self.bidangUji = bidangUji
+
+
+class makeBidang:
+    def __init__(self, bidang):
+        self.namaBidang = bidang
 
 
 class MainData:
-    def __init__(self, alladdress):
-        self.semuaAlamat = alladdress
-
-
-#print(json.dumps(testingData, indent=8, ensure_ascii=False))
-# alamat
-tempheadList = []
-headList = []
-mainList = []
-alamat = []
-i = 1
-key = "default"
-for kk in testingData["OTO"]:
-    temp = kk["ALAMAT "]
-    noAkreditasi = kk["NO. AKREDITASI"]
-    name = kk["NAMA LABORATORIUM"]
-    telp = kk["TELEPON"]
-    berlaku = kk["MASA BERLAKU AKREDITASI"]
-    lingkup = kk["LINGKUP"]
-
-    if key != temp:
-        tempheadList.append(
-            merge(noAkreditasi, temp, name, telp, berlaku, lingkup))
-        print(name, i)
-        i += 1
-        key = temp
-# remove duplicate
-
-
-filterData = list(set(tempheadList))
-
-# namabah induk json
-# koko = {}
-# koko["jajal"] = filterData
+    def __init__(self, nama,  bidang):
+        self.Perusahaan = nama
+        self.bidang = bidang
 
 
 class MyEncoder(JSONEncoder):
@@ -72,13 +50,66 @@ class MyEncoder(JSONEncoder):
         return o.__dict__
 
 
-def replace(kk):
-    kk.replace("\n", "")
+def custom_replace(kk):
+    kk.replace("\\", "")
     return kk
 
 
+#print(json.dumps(testingData, indent=8, ensure_ascii=False))
+# alamat
+tempheadList = []
+headList = []
+mainList = []
+bidangPengujian = []
+i = 1
+ii = 1
+key = "default"
+keyBidang = "mekanik"
+for kk in testingData["OTO"]:
+    temp = kk["ALAMAT "]
+    noAkreditasi = kk["NO. AKREDITASI"]
+    name = kk["NAMA LABORATORIUM"]
+    telp = kk["TELEPON"]
+    berlaku = kk["MASA BERLAKU AKREDITASI"]
+    lingkup = kk["LINGKUP"]
+    email = kk["EMAIL"]
+    propinsi = kk["PROPINSI"]
+    negara = kk["NEGARA"]
+    bidangObjek = kk["BIDANG PENGUJIAN"]
+
+    if temp != key:
+        print("Perusahaan: ", ii, name)
+        print("jumlah bidang =", len(bidangPengujian))
+
+        headList.append(merge(noAkreditasi, temp, name, telp, berlaku,
+                              lingkup, email, propinsi, negara, bidangPengujian))
+
+        ii += 1
+        bidangPengujian.clear()
+
+    if keyBidang != bidangObjek:
+        bidangPengujian.append(makeBidang(bidangObjek))
+        keyBidang = bidangObjek
+        print("dalam List", i)
+        i += 1
+    key = temp
+    # primary data ok
+    # if key != temp:
+    #     tempheadList.append(
+    #         merge(noAkreditasi, temp, name, telp, berlaku, lingkup, email, propinsi, negara, bidangPengujian))
+    #     i += 1
+    #     key = temp
+# remove duplicate
+
+
+filterData = list(set(headList))
+
+# namabah induk json
+# koko = {}
+# koko["jajal"] = filterData
+
 # make array on object
-mainList.append(MainData(tempheadList))
+# mainList.append(MainData(tempheadList))
 # map(lambda x: replace(x), mainList)
 # make serialible json
 makeJSON = MyEncoder().encode(filterData)
