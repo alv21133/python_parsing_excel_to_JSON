@@ -1,11 +1,12 @@
 var fs = require("fs");
 let jsonData = require("./pengujianOtomotif.json");
-let i = 1;
+let sparatorJson = require("./sparator.json");
+let i = 0;
 
 var sasoriObject = [];
 var bidangObject = [];
 var metodeObject = [];
-var bidangObjectold = [];
+var positionObejct = [];
 let valuePertama = "";
 let globalkey = "";
 let metodeKey = "";
@@ -29,17 +30,6 @@ function mapping() {
     jenisUji = key["JENIS PENGUJIAN ATAU SIFAT-SIFAT YANG DIUKUR"];
     metodeUji = key["METODE PENGUJIAN, TEKNIK YANG DIGUNAKAN"];
     keterangan = key["KETERANGAN"];
-
-    // mapping fisrt value
-    // if (globalkey != noAkre) {
-    //   let bidanngArray = {};
-    //   bidanngArray.Bidang = bidangPengukuran;
-    //   bidanngArray.perusahaan = nameLab;
-    //   bidangObject.push(bidanngArray);
-    //   valuePertama = bidangPengukuran;
-    // }
-
-    // MAIN DATA FOR JSON
     if (keterangan == "--") {
       DataArray.nomorAkreditasi = noAkre;
       DataArray.namaLaboratorium = nameLab;
@@ -51,41 +41,19 @@ function mapping() {
       DataArray.lingkup = lingkup;
       DataArray.BidangPengujian = bidangObject;
       sasoriObject.push(DataArray);
-      i++;
       bidangObject = [];
       DataArray = {};
     }
-
-    // if (bidangKey != bidangPengukuran) {
-    //   if (valuePertama != bidangPengukuran) {
-    //     let bidanngArray = {};
-    //     bidanngArray.Bidang = bidangPengukuran;
-    //     bidanngArray.perusahaan = nameLab;
-    //     bidangObject.push(bidanngArray);
-    //   }
-    // }
-
     function dataPengukuran() {
+      i += 1;
       let myArray = {};
       myArray.jenisPengujian = jenisUji;
       myArray.MetodePengujian = metodeUji;
       metodeObject.push(myArray);
     }
-
-    if (i <= 6) {
-      console.log(i);
-      if ((i = 6)) {
-        if (bidangKey != bahanUji) {
-          let myArray = {};
-          myArray.Bidang = bidangPengukuran;
-          myArray.bahanYangdiUji = bahanUji;
-          myArray.MetodePengujian = metodeObject;
-          bidangObject.push(myArray);
-          metodeObject = [];
-        }
-      }
-    } else {
-      if (bidangKey != bahanUji) {
+    dataPengukuran();
+    sparatorJson.forEach((value) => {
+      if (i == value["posisipembeda"]) {
         let myArray = {};
         myArray.Bidang = bidangPengukuran;
         myArray.bahanYangdiUji = bahanUji;
@@ -93,16 +61,13 @@ function mapping() {
         bidangObject.push(myArray);
         metodeObject = [];
       }
-    }
-
-    dataPengukuran();
+    });
     bidangKey = bahanUji;
     metodeKey = metodeUji;
     globalkey = noAkre;
-    i++;
   });
 }
 
 mapping();
 console.log(sasoriObject[0]);
-fs.writeFileSync("result2.json", JSON.stringify(sasoriObject));
+fs.writeFileSync("resultfix.json", JSON.stringify(sasoriObject));
