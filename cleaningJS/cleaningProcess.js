@@ -2,6 +2,7 @@ var fs = require("fs");
 let jsonData = require("./pengujianOtomotif.json");
 let sparatorJson = require("./sparator.json");
 let i = 0;
+let ii = 1;
 
 var sasoriObject = [];
 var bidangObject = [];
@@ -30,20 +31,16 @@ function mapping() {
     jenisUji = key["JENIS PENGUJIAN ATAU SIFAT-SIFAT YANG DIUKUR"];
     metodeUji = key["METODE PENGUJIAN, TEKNIK YANG DIGUNAKAN"];
     keterangan = key["KETERANGAN"];
-    if (keterangan == "--") {
-      DataArray.nomorAkreditasi = noAkre;
-      DataArray.namaLaboratorium = nameLab;
-      DataArray.alamat = alamat;
-      DataArray.propinsi = propinsi;
-      DataArray.negara = negara;
-      DataArray.telepon = telp;
-      DataArray.email = email;
-      DataArray.lingkup = lingkup;
-      DataArray.BidangPengujian = bidangObject;
-      sasoriObject.push(DataArray);
-      bidangObject = [];
-      DataArray = {};
-    }
+
+    // mapping fisrt value
+    // if (globalkey != noAkre) {
+    //   let bidanngArray = {};
+    //   bidanngArray.Bidang = bidangPengukuran;
+    //   bidanngArray.perusahaan = nameLab;
+    //   bidangObject.push(bidanngArray);
+    //   valuePertama = bidangPengukuran;
+    // }
+
     function dataPengukuran() {
       i += 1;
       let myArray = {};
@@ -62,6 +59,64 @@ function mapping() {
         metodeObject = [];
       }
     });
+
+    // MAIN DATA FOR JSON
+    if (keterangan == "--") {
+      console.log(ii);
+
+      DataArray.nomorAkreditasi = noAkre;
+      DataArray.namaLaboratorium = nameLab;
+      DataArray.alamat = alamat;
+      DataArray.propinsi = propinsi;
+      DataArray.negara = negara;
+      DataArray.telepon = telp;
+      DataArray.email = email;
+      DataArray.lingkup = lingkup;
+      DataArray.BidangPengujian = bidangObject;
+      sasoriObject.push(DataArray);
+      bidangObject = [];
+      DataArray = {};
+
+      ii += 1;
+    }
+
+    // if (bidangKey != bidangPengukuran) {
+    //   if (valuePertama != bidangPengukuran) {
+    //     let bidanngArray = {};
+    //     bidanngArray.Bidang = bidangPengukuran;
+    //     bidanngArray.perusahaan = nameLab;
+    //     bidangObject.push(bidanngArray);
+    //   }
+    // }
+
+    // if (i > 4) {
+    //   if (bidangKey != bahanUji) {
+    //     positionArray = {};
+    //     positionArray.posisipembeda = i-1;
+    //     positionArray.namaBahan = bahanUji;
+    //     positionArray.nomer = noAkre;
+    //     positionArray.nameLab = nameLab;
+    //     positionObejct.push(positionArray);
+    //     let myArray = {};
+    //     myArray.Bidang = bidangPengukuran;
+    //     myArray.bahanYangdiUji = bahanUji;
+    //     myArray.MetodePengujian = metodeObject;
+    //     bidangObject.push(myArray);
+    //     metodeObject = [];
+    //   }
+    // }
+
+    // if (i > 6) {
+    //   dataPengukuran();
+    // }
+    // if (bidangKey != bahanUji) {
+    //   let myArray = {};
+    //   myArray.Bidang = bidangPengukuran;
+    //   myArray.bahanYangdiUji = bahanUji;
+    //   myArray.MetodePengujian = metodeObject;
+    //   bidangObject.push(myArray);
+    //   metodeObject = [];
+    // }
     bidangKey = bahanUji;
     metodeKey = metodeUji;
     globalkey = noAkre;
@@ -69,5 +124,4 @@ function mapping() {
 }
 
 mapping();
-console.log(sasoriObject[0]);
-fs.writeFileSync("resultfix.json", JSON.stringify(sasoriObject));
+fs.writeFileSync("cleaningStep2.json", JSON.stringify(sasoriObject));

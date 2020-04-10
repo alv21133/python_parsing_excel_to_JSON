@@ -1,0 +1,5498 @@
+[
+  {
+    "posisipembeda": 6,
+    "namaBahan": "Minyak insulasi pakai dan baru",
+    "nomer": "LP-005-IDN",
+    "nameLab": "Bidang Penelitian Sistem Transmisi Distribusi (BTND)-PT PLN (Persero) Pusat Penelitian dan Pengembangan Ketenagalistrikan (PLN PUSLITBANG)"
+  },
+  {
+    "posisipembeda": 9,
+    "namaBahan": "Batubara",
+    "nomer": "LP-005-IDN",
+    "nameLab": "Bidang Penelitian Sistem Transmisi Distribusi (BTND)-PT PLN (Persero) Pusat Penelitian dan Pengembangan Ketenagalistrikan (PLN PUSLITBANG)"
+  },
+  {
+    "posisipembeda": 18,
+    "namaBahan": "Tube",
+    "nomer": "LP-005-IDN",
+    "nameLab": "Bidang Penelitian Sistem Transmisi Distribusi (BTND)-PT PLN (Persero) Pusat Penelitian dan Pengembangan Ketenagalistrikan (PLN PUSLITBANG)"
+  },
+  {
+    "posisipembeda": 20,
+    "namaBahan": "kWh Meter",
+    "nomer": "LP-005-IDN",
+    "nameLab": "Bidang Penelitian Sistem Transmisi Distribusi (BTND)-PT PLN (Persero) Pusat Penelitian dan Pengembangan Ketenagalistrikan (PLN PUSLITBANG)"
+  },
+  {
+    "posisipembeda": 127,
+    "namaBahan": "Indek Pengaman (IP)",
+    "nomer": "LP-005-IDN",
+    "nameLab": "Bidang Penelitian Sistem Transmisi Distribusi (BTND)-PT PLN (Persero) Pusat Penelitian dan Pengembangan Ketenagalistrikan (PLN PUSLITBANG)"
+  },
+  {
+    "posisipembeda": 131,
+    "namaBahan": "Pemutus tenaga mini (MCB)",
+    "nomer": "LP-005-IDN",
+    "nameLab": "Bidang Penelitian Sistem Transmisi Distribusi (BTND)-PT PLN (Persero) Pusat Penelitian dan Pengembangan Ketenagalistrikan (PLN PUSLITBANG)"
+  },
+  {
+    "posisipembeda": 161,
+    "namaBahan": "kabel berinsulasi pVC degan tegangan pengenal 450/750 V bag3 : kabel tanpa selubung untuk pemasangan tetap (magun)",
+    "nomer": "LP-005-IDN",
+    "nameLab": "Bidang Penelitian Sistem Transmisi Distribusi (BTND)-PT PLN (Persero) Pusat Penelitian dan Pengembangan Ketenagalistrikan (PLN PUSLITBANG)"
+  },
+  {
+    "posisipembeda": 191,
+    "namaBahan": "kabel berinsulasi PVC degan tegangan pengenal 450/750 V bag 4 : kabel tanpa selubung untuk pemasangan tetap (magun)",
+    "nomer": "LP-005-IDN",
+    "nameLab": "Bidang Penelitian Sistem Transmisi Distribusi (BTND)-PT PLN (Persero) Pusat Penelitian dan Pengembangan Ketenagalistrikan (PLN PUSLITBANG)"
+  },
+  {
+    "posisipembeda": 234,
+    "namaBahan": "Kabel daya dengan insulasi teresktrusi dengan tegangan pengenal 1 kV s/d 30 kVbag1 : kabel untuk tegangan pengenal 1 kV s/d 3 kV",
+    "nomer": "LP-005-IDN",
+    "nameLab": "Bidang Penelitian Sistem Transmisi Distribusi (BTND)-PT PLN (Persero) Pusat Penelitian dan Pengembangan Ketenagalistrikan (PLN PUSLITBANG)"
+  },
+  {
+    "posisipembeda": 268,
+    "namaBahan": "Kabel pilin udara NF2X/NFA2X, NFA2X-T",
+    "nomer": "LP-005-IDN",
+    "nameLab": "Bidang Penelitian Sistem Transmisi Distribusi (BTND)-PT PLN (Persero) Pusat Penelitian dan Pengembangan Ketenagalistrikan (PLN PUSLITBANG)"
+  },
+  {
+    "posisipembeda": 287,
+    "namaBahan": "Isolator",
+    "nomer": "LP-005-IDN",
+    "nameLab": "Bidang Penelitian Sistem Transmisi Distribusi (BTND)-PT PLN (Persero) Pusat Penelitian dan Pengembangan Ketenagalistrikan (PLN PUSLITBANG)"
+  },
+  {
+    "posisipembeda": 297,
+    "namaBahan": "Stik isolasi",
+    "nomer": "LP-005-IDN",
+    "nameLab": "Bidang Penelitian Sistem Transmisi Distribusi (BTND)-PT PLN (Persero) Pusat Penelitian dan Pengembangan Ketenagalistrikan (PLN PUSLITBANG)"
+  },
+  {
+    "posisipembeda": 299,
+    "namaBahan": "PHB TR",
+    "nomer": "LP-005-IDN",
+    "nameLab": "Bidang Penelitian Sistem Transmisi Distribusi (BTND)-PT PLN (Persero) Pusat Penelitian dan Pengembangan Ketenagalistrikan (PLN PUSLITBANG)"
+  },
+  {
+    "posisipembeda": 314,
+    "namaBahan": "PHB TM",
+    "nomer": "LP-005-IDN",
+    "nameLab": "Bidang Penelitian Sistem Transmisi Distribusi (BTND)-PT PLN (Persero) Pusat Penelitian dan Pengembangan Ketenagalistrikan (PLN PUSLITBANG)"
+  },
+  {
+    "posisipembeda": 322,
+    "namaBahan": "Lengkapan Kabel",
+    "nomer": "LP-005-IDN",
+    "nameLab": "Bidang Penelitian Sistem Transmisi Distribusi (BTND)-PT PLN (Persero) Pusat Penelitian dan Pengembangan Ketenagalistrikan (PLN PUSLITBANG)"
+  },
+  {
+    "posisipembeda": 333,
+    "namaBahan": "Trafo distribusi",
+    "nomer": "LP-005-IDN",
+    "nameLab": "Bidang Penelitian Sistem Transmisi Distribusi (BTND)-PT PLN (Persero) Pusat Penelitian dan Pengembangan Ketenagalistrikan (PLN PUSLITBANG)"
+  },
+  {
+    "posisipembeda": 347,
+    "namaBahan": "Transformator arus (CT)",
+    "nomer": "LP-005-IDN",
+    "nameLab": "Bidang Penelitian Sistem Transmisi Distribusi (BTND)-PT PLN (Persero) Pusat Penelitian dan Pengembangan Ketenagalistrikan (PLN PUSLITBANG)"
+  },
+  {
+    "posisipembeda": 356,
+    "namaBahan": "Transformator tegangan (PT)",
+    "nomer": "LP-005-IDN",
+    "nameLab": "Bidang Penelitian Sistem Transmisi Distribusi (BTND)-PT PLN (Persero) Pusat Penelitian dan Pengembangan Ketenagalistrikan (PLN PUSLITBANG)"
+  },
+  {
+    "posisipembeda": 364,
+    "namaBahan": "Relai jarak",
+    "nomer": "LP-005-IDN",
+    "nameLab": "Bidang Penelitian Sistem Transmisi Distribusi (BTND)-PT PLN (Persero) Pusat Penelitian dan Pengembangan Ketenagalistrikan (PLN PUSLITBANG)"
+  },
+  {
+    "posisipembeda": 386,
+    "namaBahan": "Relai diferensial kawat pilot",
+    "nomer": "LP-005-IDN",
+    "nameLab": "Bidang Penelitian Sistem Transmisi Distribusi (BTND)-PT PLN (Persero) Pusat Penelitian dan Pengembangan Ketenagalistrikan (PLN PUSLITBANG)"
+  },
+  {
+    "posisipembeda": 401,
+    "namaBahan": "Relai arus lebih",
+    "nomer": "LP-005-IDN",
+    "nameLab": "Bidang Penelitian Sistem Transmisi Distribusi (BTND)-PT PLN (Persero) Pusat Penelitian dan Pengembangan Ketenagalistrikan (PLN PUSLITBANG)"
+  },
+  {
+    "posisipembeda": 411,
+    "namaBahan": "Relai tegangan lebih/kurang",
+    "nomer": "LP-005-IDN",
+    "nameLab": "Bidang Penelitian Sistem Transmisi Distribusi (BTND)-PT PLN (Persero) Pusat Penelitian dan Pengembangan Ketenagalistrikan (PLN PUSLITBANG)"
+  },
+  {
+    "posisipembeda": 416,
+    "namaBahan": "Relai arah",
+    "nomer": "LP-005-IDN",
+    "nameLab": "Bidang Penelitian Sistem Transmisi Distribusi (BTND)-PT PLN (Persero) Pusat Penelitian dan Pengembangan Ketenagalistrikan (PLN PUSLITBANG)"
+  },
+  {
+    "posisipembeda": 423,
+    "namaBahan": "Relai cek sinkron",
+    "nomer": "LP-005-IDN",
+    "nameLab": "Bidang Penelitian Sistem Transmisi Distribusi (BTND)-PT PLN (Persero) Pusat Penelitian dan Pengembangan Ketenagalistrikan (PLN PUSLITBANG)"
+  },
+  {
+    "posisipembeda": 429,
+    "namaBahan": "Relai gangguan tanah terbatas (REF)",
+    "nomer": "LP-005-IDN",
+    "nameLab": "Bidang Penelitian Sistem Transmisi Distribusi (BTND)-PT PLN (Persero) Pusat Penelitian dan Pengembangan Ketenagalistrikan (PLN PUSLITBANG)"
+  },
+  {
+    "posisipembeda": 433,
+    "namaBahan": "Relai Gangguan tanah terbatas (REF)",
+    "nomer": "LP-005-IDN",
+    "nameLab": "Bidang Penelitian Sistem Transmisi Distribusi (BTND)-PT PLN (Persero) Pusat Penelitian dan Pengembangan Ketenagalistrikan (PLN PUSLITBANG)"
+  },
+  {
+    "posisipembeda": 435,
+    "namaBahan": "Relai penutup balik",
+    "nomer": "LP-005-IDN",
+    "nameLab": "Bidang Penelitian Sistem Transmisi Distribusi (BTND)-PT PLN (Persero) Pusat Penelitian dan Pengembangan Ketenagalistrikan (PLN PUSLITBANG)"
+  },
+  {
+    "posisipembeda": 439,
+    "namaBahan": "Relai diferensial trafo tenaga",
+    "nomer": "LP-005-IDN",
+    "nameLab": "Bidang Penelitian Sistem Transmisi Distribusi (BTND)-PT PLN (Persero) Pusat Penelitian dan Pengembangan Ketenagalistrikan (PLN PUSLITBANG)"
+  },
+  {
+    "posisipembeda": 447,
+    "namaBahan": "Relai tunda waktu",
+    "nomer": "LP-005-IDN",
+    "nameLab": "Bidang Penelitian Sistem Transmisi Distribusi (BTND)-PT PLN (Persero) Pusat Penelitian dan Pengembangan Ketenagalistrikan (PLN PUSLITBANG)"
+  },
+  {
+    "posisipembeda": 451,
+    "namaBahan": "Relai penguat medan hilang",
+    "nomer": "LP-005-IDN",
+    "nameLab": "Bidang Penelitian Sistem Transmisi Distribusi (BTND)-PT PLN (Persero) Pusat Penelitian dan Pengembangan Ketenagalistrikan (PLN PUSLITBANG)"
+  },
+  {
+    "posisipembeda": 455,
+    "namaBahan": "Relai thermal overload",
+    "nomer": "LP-005-IDN",
+    "nameLab": "Bidang Penelitian Sistem Transmisi Distribusi (BTND)-PT PLN (Persero) Pusat Penelitian dan Pengembangan Ketenagalistrikan (PLN PUSLITBANG)"
+  },
+  {
+    "posisipembeda": 460,
+    "namaBahan": "Transformator tenaga",
+    "nomer": "LP-005-IDN",
+    "nameLab": "Bidang Penelitian Sistem Transmisi Distribusi (BTND)-PT PLN (Persero) Pusat Penelitian dan Pengembangan Ketenagalistrikan (PLN PUSLITBANG)"
+  },
+  {
+    "posisipembeda": 490,
+    "namaBahan": "Transformator tegangan (PT)",
+    "nomer": "LP-005-IDN",
+    "nameLab": "Bidang Penelitian Sistem Transmisi Distribusi (BTND)-PT PLN (Persero) Pusat Penelitian dan Pengembangan Ketenagalistrikan (PLN PUSLITBANG)"
+  },
+  {
+    "posisipembeda": 504,
+    "namaBahan": "Transformator arus (CT)",
+    "nomer": "LP-005-IDN",
+    "nameLab": "Bidang Penelitian Sistem Transmisi Distribusi (BTND)-PT PLN (Persero) Pusat Penelitian dan Pengembangan Ketenagalistrikan (PLN PUSLITBANG)"
+  },
+  {
+    "posisipembeda": 520,
+    "namaBahan": "Penangkap peti/Arrester",
+    "nomer": "LP-005-IDN",
+    "nameLab": "Bidang Penelitian Sistem Transmisi Distribusi (BTND)-PT PLN (Persero) Pusat Penelitian dan Pengembangan Ketenagalistrikan (PLN PUSLITBANG)"
+  },
+  {
+    "posisipembeda": 528,
+    "namaBahan": "PVC",
+    "nomer": "LP-007-IDN",
+    "nameLab": "Balai Besar Bahan dan Barang Teknik"
+  },
+  {
+    "posisipembeda": 529,
+    "namaBahan": "LPG Steel Tube",
+    "nomer": "LP-007-IDN",
+    "nameLab": "Balai Besar Bahan dan Barang Teknik"
+  },
+  {
+    "posisipembeda": 532,
+    "namaBahan": "Rim",
+    "nomer": "LP-007-IDN",
+    "nameLab": "Balai Besar Bahan dan Barang Teknik"
+  },
+  {
+    "posisipembeda": 535,
+    "namaBahan": "Nonmetallic material (Geotextile, Plastics, etc.)",
+    "nomer": "LP-007-IDN",
+    "nameLab": "Balai Besar Bahan dan Barang Teknik"
+  },
+  {
+    "posisipembeda": 536,
+    "namaBahan": "Emulsion Wall Paints",
+    "nomer": "LP-007-IDN",
+    "nameLab": "Balai Besar Bahan dan Barang Teknik"
+  },
+  {
+    "posisipembeda": 548,
+    "namaBahan": "Rear view mirror for 2 wheels vehicle",
+    "nomer": "LP-007-IDN",
+    "nameLab": "Balai Besar Bahan dan Barang Teknik"
+  },
+  {
+    "posisipembeda": 549,
+    "namaBahan": "Rear view mirror for 4 wheels vehicle",
+    "nomer": "LP-007-IDN",
+    "nameLab": "Balai Besar Bahan dan Barang Teknik"
+  },
+  {
+    "posisipembeda": 550,
+    "namaBahan": "Toys (except for grease, oil)",
+    "nomer": "LP-007-IDN",
+    "nameLab": "Balai Besar Bahan dan Barang Teknik"
+  },
+  {
+    "posisipembeda": 558,
+    "namaBahan": "Electronic components, Electrical components, automotive components, Toys, paint",
+    "nomer": "LP-007-IDN",
+    "nameLab": "Balai Besar Bahan dan Barang Teknik"
+  },
+  {
+    "posisipembeda": 559,
+    "namaBahan": "Electrical product",
+    "nomer": "LP-007-IDN",
+    "nameLab": "Balai Besar Bahan dan Barang Teknik"
+  },
+  {
+    "posisipembeda": 563,
+    "namaBahan": "Waste Water",
+    "nomer": "LP-007-IDN",
+    "nameLab": "Balai Besar Bahan dan Barang Teknik"
+  },
+  {
+    "posisipembeda": 571,
+    "namaBahan": "Clean Water",
+    "nomer": "LP-007-IDN",
+    "nameLab": "Balai Besar Bahan dan Barang Teknik"
+  },
+  {
+    "posisipembeda": 575,
+    "namaBahan": "Stainless Steel",
+    "nomer": "LP-007-IDN",
+    "nameLab": "Balai Besar Bahan dan Barang Teknik"
+  },
+  {
+    "posisipembeda": 583,
+    "namaBahan": "4 stroke gasoline motor lubricants for vehicle (SNI 06-7069.1:2012)",
+    "nomer": "LP-007-IDN",
+    "nameLab": "Balai Besar Bahan dan Barang Teknik"
+  },
+  {
+    "posisipembeda": 584,
+    "namaBahan": "5 stroke gasoline motor lubricants for vehicle (SNI 06-7069.1:2012)",
+    "nomer": "LP-007-IDN",
+    "nameLab": "Balai Besar Bahan dan Barang Teknik"
+  },
+  {
+    "posisipembeda": 585,
+    "namaBahan": "6 stroke gasoline motor lubricants for vehicle (SNI 06-7069.1:2012)",
+    "nomer": "LP-007-IDN",
+    "nameLab": "Balai Besar Bahan dan Barang Teknik"
+  },
+  {
+    "posisipembeda": 586,
+    "namaBahan": "7 stroke gasoline motor lubricants for vehicle (SNI 06-7069.1:2012)",
+    "nomer": "LP-007-IDN",
+    "nameLab": "Balai Besar Bahan dan Barang Teknik"
+  },
+  {
+    "posisipembeda": 587,
+    "namaBahan": "8 stroke gasoline motor lubricants for vehicle (SNI 06-7069.1:2012)",
+    "nomer": "LP-007-IDN",
+    "nameLab": "Balai Besar Bahan dan Barang Teknik"
+  },
+  {
+    "posisipembeda": 588,
+    "namaBahan": "9 stroke gasoline motor lubricants for vehicle (SNI 06-7069.1:2012)",
+    "nomer": "LP-007-IDN",
+    "nameLab": "Balai Besar Bahan dan Barang Teknik"
+  },
+  {
+    "posisipembeda": 589,
+    "namaBahan": "10 stroke gasoline motor lubricants for vehicle (SNI 06-7069.1:2012)",
+    "nomer": "LP-007-IDN",
+    "nameLab": "Balai Besar Bahan dan Barang Teknik"
+  },
+  {
+    "posisipembeda": 590,
+    "namaBahan": "11 stroke gasoline motor lubricants for vehicle (SNI 06-7069.1:2012)",
+    "nomer": "LP-007-IDN",
+    "nameLab": "Balai Besar Bahan dan Barang Teknik"
+  },
+  {
+    "posisipembeda": 591,
+    "namaBahan": "12 stroke gasoline motor lubricants for vehicle (SNI 06-7069.1:2012)",
+    "nomer": "LP-007-IDN",
+    "nameLab": "Balai Besar Bahan dan Barang Teknik"
+  },
+  {
+    "posisipembeda": 592,
+    "namaBahan": "13 stroke gasoline motor lubricants for vehicle (SNI 06-7069.1:2012)",
+    "nomer": "LP-007-IDN",
+    "nameLab": "Balai Besar Bahan dan Barang Teknik"
+  },
+  {
+    "posisipembeda": 593,
+    "namaBahan": "4 stroke gasoline motor lubricants for motorcycle (SNI 06-7069.2:2012)",
+    "nomer": "LP-007-IDN",
+    "nameLab": "Balai Besar Bahan dan Barang Teknik"
+  },
+  {
+    "posisipembeda": 594,
+    "namaBahan": "5 stroke gasoline motor lubricants for motorcycle (SNI 06-7069.2:2012)",
+    "nomer": "LP-007-IDN",
+    "nameLab": "Balai Besar Bahan dan Barang Teknik"
+  },
+  {
+    "posisipembeda": 595,
+    "namaBahan": "6 stroke gasoline motor lubricants for motorcycle (SNI 06-7069.2:2012)",
+    "nomer": "LP-007-IDN",
+    "nameLab": "Balai Besar Bahan dan Barang Teknik"
+  },
+  {
+    "posisipembeda": 596,
+    "namaBahan": "7 stroke gasoline motor lubricants for motorcycle (SNI 06-7069.2:2012)",
+    "nomer": "LP-007-IDN",
+    "nameLab": "Balai Besar Bahan dan Barang Teknik"
+  },
+  {
+    "posisipembeda": 597,
+    "namaBahan": "8 stroke gasoline motor lubricants for motorcycle (SNI 06-7069.2:2012)",
+    "nomer": "LP-007-IDN",
+    "nameLab": "Balai Besar Bahan dan Barang Teknik"
+  },
+  {
+    "posisipembeda": 598,
+    "namaBahan": "9 stroke gasoline motor lubricants for motorcycle (SNI 06-7069.2:2012)",
+    "nomer": "LP-007-IDN",
+    "nameLab": "Balai Besar Bahan dan Barang Teknik"
+  },
+  {
+    "posisipembeda": 599,
+    "namaBahan": "10 stroke gasoline motor lubricants for motorcycle (SNI 06-7069.2:2012)",
+    "nomer": "LP-007-IDN",
+    "nameLab": "Balai Besar Bahan dan Barang Teknik"
+  },
+  {
+    "posisipembeda": 600,
+    "namaBahan": "11 stroke gasoline motor lubricants for motorcycle (SNI 06-7069.2:2012)",
+    "nomer": "LP-007-IDN",
+    "nameLab": "Balai Besar Bahan dan Barang Teknik"
+  },
+  {
+    "posisipembeda": 601,
+    "namaBahan": "12 stroke gasoline motor lubricants for motorcycle (SNI 06-7069.2:2012)",
+    "nomer": "LP-007-IDN",
+    "nameLab": "Balai Besar Bahan dan Barang Teknik"
+  },
+  {
+    "posisipembeda": 602,
+    "namaBahan": "13 stroke gasoline motor lubricants for motorcycle (SNI 06-7069.2:2012)",
+    "nomer": "LP-007-IDN",
+    "nameLab": "Balai Besar Bahan dan Barang Teknik"
+  },
+  {
+    "posisipembeda": 603,
+    "namaBahan": "2 stroke gasoline motor lubricants air conditioner (SNI 06-7069.3:2016)",
+    "nomer": "LP-007-IDN",
+    "nameLab": "Balai Besar Bahan dan Barang Teknik"
+  },
+  {
+    "posisipembeda": 604,
+    "namaBahan": "3 stroke gasoline motor lubricants air conditioner (SNI 06-7069.3:2016)",
+    "nomer": "LP-007-IDN",
+    "nameLab": "Balai Besar Bahan dan Barang Teknik"
+  },
+  {
+    "posisipembeda": 605,
+    "namaBahan": "4 stroke gasoline motor lubricants air conditioner (SNI 06-7069.3:2016)",
+    "nomer": "LP-007-IDN",
+    "nameLab": "Balai Besar Bahan dan Barang Teknik"
+  },
+  {
+    "posisipembeda": 606,
+    "namaBahan": "5 stroke gasoline motor lubricants air conditioner (SNI 06-7069.3:2016)",
+    "nomer": "LP-007-IDN",
+    "nameLab": "Balai Besar Bahan dan Barang Teknik"
+  },
+  {
+    "posisipembeda": 607,
+    "namaBahan": "6 stroke gasoline motor lubricants air conditioner (SNI 06-7069.3:2016)",
+    "nomer": "LP-007-IDN",
+    "nameLab": "Balai Besar Bahan dan Barang Teknik"
+  },
+  {
+    "posisipembeda": 608,
+    "namaBahan": "2 stroke gasoline motor lubricants with  water cooling  (SNI 06-7069.4:2017)",
+    "nomer": "LP-007-IDN",
+    "nameLab": "Balai Besar Bahan dan Barang Teknik"
+  },
+  {
+    "posisipembeda": 609,
+    "namaBahan": "3 stroke gasoline motor lubricants with  water cooling  (SNI 06-7069.4:2017)",
+    "nomer": "LP-007-IDN",
+    "nameLab": "Balai Besar Bahan dan Barang Teknik"
+  },
+  {
+    "posisipembeda": 610,
+    "namaBahan": "4 stroke gasoline motor lubricants with  water cooling  (SNI 06-7069.4:2017)",
+    "nomer": "LP-007-IDN",
+    "nameLab": "Balai Besar Bahan dan Barang Teknik"
+  },
+  {
+    "posisipembeda": 611,
+    "namaBahan": "5 stroke gasoline motor lubricants with  water cooling  (SNI 06-7069.4:2017)",
+    "nomer": "LP-007-IDN",
+    "nameLab": "Balai Besar Bahan dan Barang Teknik"
+  },
+  {
+    "posisipembeda": 612,
+    "namaBahan": "6 stroke gasoline motor lubricants with  water cooling  (SNI 06-7069.4:2017)",
+    "nomer": "LP-007-IDN",
+    "nameLab": "Balai Besar Bahan dan Barang Teknik"
+  },
+  {
+    "posisipembeda": 613,
+    "namaBahan": "7 stroke gasoline motor lubricants with  water cooling  (SNI 06-7069.4:2017)",
+    "nomer": "LP-007-IDN",
+    "nameLab": "Balai Besar Bahan dan Barang Teknik"
+  },
+  {
+    "posisipembeda": 614,
+    "namaBahan": "Oil lubricate high-speed diesel motors (SNI -06-7069.5:2012)",
+    "nomer": "LP-007-IDN",
+    "nameLab": "Balai Besar Bahan dan Barang Teknik"
+  },
+  {
+    "posisipembeda": 622,
+    "namaBahan": "Oil lubricated manual and axle transmission gears (SNI 06-7069.6:2017)",
+    "nomer": "LP-007-IDN",
+    "nameLab": "Balai Besar Bahan dan Barang Teknik"
+  },
+  {
+    "posisipembeda": 628,
+    "namaBahan": "Oil lubricated automatic transmission gears (SNI 06-7069.7  2017)",
+    "nomer": "LP-007-IDN",
+    "nameLab": "Balai Besar Bahan dan Barang Teknik"
+  },
+  {
+    "posisipembeda": 634,
+    "namaBahan": "Anti-wear type industrial hydraulic oil (SNI 06-7069.9:2016)",
+    "nomer": "LP-007-IDN",
+    "nameLab": "Balai Besar Bahan dan Barang Teknik"
+  },
+  {
+    "posisipembeda": 639,
+    "namaBahan": "Oil lubricate closed indutrial gears (SNI 06-7069.10:2017)",
+    "nomer": "LP-007-IDN",
+    "nameLab": "Balai Besar Bahan dan Barang Teknik"
+  },
+  {
+    "posisipembeda": 643,
+    "namaBahan": "Brake fluid for vehicles (SNI 2769 :2012)",
+    "nomer": "LP-007-IDN",
+    "nameLab": "Balai Besar Bahan dan Barang Teknik"
+  },
+  {
+    "posisipembeda": 653,
+    "namaBahan": "PVC",
+    "nomer": "LP-007-IDN",
+    "nameLab": "Balai Besar Bahan dan Barang Teknik"
+  },
+  {
+    "posisipembeda": 656,
+    "namaBahan": "Zinc coated steel sheet / Pipe / sheet / roll / bolt and nut / cast iron",
+    "nomer": "LP-007-IDN",
+    "nameLab": "Balai Besar Bahan dan Barang Teknik"
+  },
+  {
+    "posisipembeda": 663,
+    "namaBahan": "Carbon Steel",
+    "nomer": "LP-007-IDN",
+    "nameLab": "Balai Besar Bahan dan Barang Teknik"
+  },
+  {
+    "posisipembeda": 668,
+    "namaBahan": "Cast Iron",
+    "nomer": "LP-007-IDN",
+    "nameLab": "Balai Besar Bahan dan Barang Teknik"
+  },
+  {
+    "posisipembeda": 673,
+    "namaBahan": "Portland Cement Type I -V   Portland composite cement    Portland pozolan cement     Portland mixed cement     Portland white cement     Portland slag cement",
+    "nomer": "LP-007-IDN",
+    "nameLab": "Balai Besar Bahan dan Barang Teknik"
+  },
+  {
+    "posisipembeda": 697,
+    "namaBahan": "Oil well cement",
+    "nomer": "LP-007-IDN",
+    "nameLab": "Balai Besar Bahan dan Barang Teknik"
+  },
+  {
+    "posisipembeda": 701,
+    "namaBahan": "Portland Cement Type I-V Portland  composite cement  portland pozolan cement    Portland mixed cement   Portland slag cement    Oil well cement",
+    "nomer": "LP-007-IDN",
+    "nameLab": "Balai Besar Bahan dan Barang Teknik"
+  },
+  {
+    "posisipembeda": 736,
+    "namaBahan": "Sand",
+    "nomer": "LP-007-IDN",
+    "nameLab": "Balai Besar Bahan dan Barang Teknik"
+  },
+  {
+    "posisipembeda": 748,
+    "namaBahan": "Motorcycle tire",
+    "nomer": "LP-007-IDN",
+    "nameLab": "Balai Besar Bahan dan Barang Teknik"
+  },
+  {
+    "posisipembeda": 755,
+    "namaBahan": "Passenger car tire",
+    "nomer": "LP-007-IDN",
+    "nameLab": "Balai Besar Bahan dan Barang Teknik"
+  },
+  {
+    "posisipembeda": 764,
+    "namaBahan": "Light Truck Tire",
+    "nomer": "LP-007-IDN",
+    "nameLab": "Balai Besar Bahan dan Barang Teknik"
+  },
+  {
+    "posisipembeda": 771,
+    "namaBahan": "Truck and bus tire",
+    "nomer": "LP-007-IDN",
+    "nameLab": "Balai Besar Bahan dan Barang Teknik"
+  },
+  {
+    "posisipembeda": 777,
+    "namaBahan": "Wheels rims for automobiles catergory L-steel",
+    "nomer": "LP-007-IDN",
+    "nameLab": "Balai Besar Bahan dan Barang Teknik"
+  },
+  {
+    "posisipembeda": 788,
+    "namaBahan": "Wheels rims for automobiles category L-alloy",
+    "nomer": "LP-007-IDN",
+    "nameLab": "Balai Besar Bahan dan Barang Teknik"
+  },
+  {
+    "posisipembeda": 797,
+    "namaBahan": "Wheels rims for automobiles catergory M, N and O",
+    "nomer": "LP-007-IDN",
+    "nameLab": "Balai Besar Bahan dan Barang Teknik"
+  },
+  {
+    "posisipembeda": 807,
+    "namaBahan": "Brake lining for automobiles",
+    "nomer": "LP-007-IDN",
+    "nameLab": "Balai Besar Bahan dan Barang Teknik"
+  },
+  {
+    "posisipembeda": 811,
+    "namaBahan": "Mirrors for automobiles category L",
+    "nomer": "LP-007-IDN",
+    "nameLab": "Balai Besar Bahan dan Barang Teknik"
+  },
+  {
+    "posisipembeda": 820,
+    "namaBahan": "Mirrors for automobiles category M and N",
+    "nomer": "LP-007-IDN",
+    "nameLab": "Balai Besar Bahan dan Barang Teknik"
+  },
+  {
+    "posisipembeda": 829,
+    "namaBahan": "Spiral welded steel pipes",
+    "nomer": "LP-007-IDN",
+    "nameLab": "Balai Besar Bahan dan Barang Teknik"
+  },
+  {
+    "posisipembeda": 836,
+    "namaBahan": "Carbon Steel, Alloy Steel, and Austentic Steel Pipe",
+    "nomer": "LP-007-IDN",
+    "nameLab": "Balai Besar Bahan dan Barang Teknik"
+  },
+  {
+    "posisipembeda": 839,
+    "namaBahan": "Welded and Seamiess Boiler Superheater Pipe",
+    "nomer": "LP-007-IDN",
+    "nameLab": "Balai Besar Bahan dan Barang Teknik"
+  },
+  {
+    "posisipembeda": 842,
+    "namaBahan": "Welded and Seamiess Boiler High Temperature steel  Pipe",
+    "nomer": "LP-007-IDN",
+    "nameLab": "Balai Besar Bahan dan Barang Teknik"
+  },
+  {
+    "posisipembeda": 844,
+    "namaBahan": "Welded Boiler and superheated Pipe by ectric resistance welding",
+    "nomer": "LP-007-IDN",
+    "nameLab": "Balai Besar Bahan dan Barang Teknik"
+  },
+  {
+    "posisipembeda": 846,
+    "namaBahan": "Pipe Line API 5L",
+    "nomer": "LP-007-IDN",
+    "nameLab": "Balai Besar Bahan dan Barang Teknik"
+  },
+  {
+    "posisipembeda": 849,
+    "namaBahan": "Zinc Coated Steel Pipe for Channel Water",
+    "nomer": "LP-007-IDN",
+    "nameLab": "Balai Besar Bahan dan Barang Teknik"
+  },
+  {
+    "posisipembeda": 856,
+    "namaBahan": "Welded pipe and plate",
+    "nomer": "LP-007-IDN",
+    "nameLab": "Balai Besar Bahan dan Barang Teknik"
+  },
+  {
+    "posisipembeda": 875,
+    "namaBahan": "Zinc Coated Steel sheets",
+    "nomer": "LP-007-IDN",
+    "nameLab": "Balai Besar Bahan dan Barang Teknik"
+  },
+  {
+    "posisipembeda": 881,
+    "namaBahan": "Hot rolled steel sheets, plate and coils for LPG cylinder gas",
+    "nomer": "LP-007-IDN",
+    "nameLab": "Balai Besar Bahan dan Barang Teknik"
+  },
+  {
+    "posisipembeda": 885,
+    "namaBahan": "Cold Rolled steel sheets, plate and coil",
+    "nomer": "LP-007-IDN",
+    "nameLab": "Balai Besar Bahan dan Barang Teknik"
+  },
+  {
+    "posisipembeda": 890,
+    "namaBahan": "Rolled Steel Bar for Cement Reinforcement",
+    "nomer": "LP-007-IDN",
+    "nameLab": "Balai Besar Bahan dan Barang Teknik"
+  },
+  {
+    "posisipembeda": 893,
+    "namaBahan": "hot rolled steel sheets, plate and coils ",
+    "nomer": "LP-007-IDN",
+    "nameLab": "Balai Besar Bahan dan Barang Teknik"
+  },
+  {
+    "posisipembeda": 897,
+    "namaBahan": "Zinc aluminium Alloy Coated Steel Sheet and Coils",
+    "nomer": "LP-007-IDN",
+    "nameLab": "Balai Besar Bahan dan Barang Teknik"
+  },
+  {
+    "posisipembeda": 901,
+    "namaBahan": "Steel Bar for Conrete Reinforcement",
+    "nomer": "LP-007-IDN",
+    "nameLab": "Balai Besar Bahan dan Barang Teknik"
+  },
+  {
+    "posisipembeda": 907,
+    "namaBahan": "LPG Steel Cylinder",
+    "nomer": "LP-007-IDN",
+    "nameLab": "Balai Besar Bahan dan Barang Teknik"
+  },
+  {
+    "posisipembeda": 917,
+    "namaBahan": "Hot Rolling Mill I-Bean Profile Steel",
+    "nomer": "LP-007-IDN",
+    "nameLab": "Balai Besar Bahan dan Barang Teknik"
+  },
+  {
+    "posisipembeda": 922,
+    "namaBahan": "Hot Rolled Channel-U Steel Profile",
+    "nomer": "LP-007-IDN",
+    "nameLab": "Balai Besar Bahan dan Barang Teknik"
+  },
+  {
+    "posisipembeda": 927,
+    "namaBahan": "Hot Rolled Right Angle Profile Steels",
+    "nomer": "LP-007-IDN",
+    "nameLab": "Balai Besar Bahan dan Barang Teknik"
+  },
+  {
+    "posisipembeda": 932,
+    "namaBahan": "Hot Rolling Mill WF-Beam Profile Steel",
+    "nomer": "LP-007-IDN",
+    "nameLab": "Balai Besar Bahan dan Barang Teknik"
+  },
+  {
+    "posisipembeda": 937,
+    "namaBahan": "Hot Rolled Steel Bar for Concrete Reinforcement",
+    "nomer": "LP-007-IDN",
+    "nameLab": "Balai Besar Bahan dan Barang Teknik"
+  },
+  {
+    "posisipembeda": 946,
+    "namaBahan": "Steel Wire Rope",
+    "nomer": "LP-007-IDN",
+    "nameLab": "Balai Besar Bahan dan Barang Teknik"
+  },
+  {
+    "posisipembeda": 954,
+    "namaBahan": "Steel Wire Rope for Petroleum and Gas Industry",
+    "nomer": "LP-007-IDN",
+    "nameLab": "Balai Besar Bahan dan Barang Teknik"
+  },
+  {
+    "posisipembeda": 962,
+    "namaBahan": "Black Maleable Cast Iron Threaded pipe Fitting",
+    "nomer": "LP-007-IDN",
+    "nameLab": "Balai Besar Bahan dan Barang Teknik"
+  },
+  {
+    "posisipembeda": 970,
+    "namaBahan": "Hot Rolled H-Beam Steel Profiles",
+    "nomer": "LP-007-IDN",
+    "nameLab": "Balai Besar Bahan dan Barang Teknik"
+  },
+  {
+    "posisipembeda": 975,
+    "namaBahan": "CNG Steel Cylinder",
+    "nomer": "LP-007-IDN",
+    "nameLab": "Balai Besar Bahan dan Barang Teknik"
+  },
+  {
+    "posisipembeda": 981,
+    "namaBahan": "Seven layers of twisted steel wire for prestressed concrete",
+    "nomer": "LP-007-IDN",
+    "nameLab": "Balai Besar Bahan dan Barang Teknik"
+  },
+  {
+    "posisipembeda": 989,
+    "namaBahan": "Uncoated strainless steel wire for prestressed concrete",
+    "nomer": "LP-007-IDN",
+    "nameLab": "Balai Besar Bahan dan Barang Teknik"
+  },
+  {
+    "posisipembeda": 997,
+    "namaBahan": "Quenched Steel wire for prestessed concrete",
+    "nomer": "LP-007-IDN",
+    "nameLab": "Balai Besar Bahan dan Barang Teknik"
+  },
+  {
+    "posisipembeda": 1005,
+    "namaBahan": "Cold Rolled Stainless steel Sheet and coil",
+    "nomer": "LP-007-IDN",
+    "nameLab": "Balai Besar Bahan dan Barang Teknik"
+  },
+  {
+    "posisipembeda": 1009,
+    "namaBahan": "Steel Pipe for General Construction",
+    "nomer": "LP-007-IDN",
+    "nameLab": "Balai Besar Bahan dan Barang Teknik"
+  },
+  {
+    "posisipembeda": 1015,
+    "namaBahan": "Hexagonal Wire Netting",
+    "nomer": "LP-007-IDN",
+    "nameLab": "Balai Besar Bahan dan Barang Teknik"
+  },
+  {
+    "posisipembeda": 1017,
+    "namaBahan": "Rubber seal on the LPG tube valve",
+    "nomer": "LP-007-IDN",
+    "nameLab": "Balai Besar Bahan dan Barang Teknik"
+  },
+  {
+    "posisipembeda": 1035,
+    "namaBahan": "Steel chairs for office",
+    "nomer": "LP-007-IDN",
+    "nameLab": "Balai Besar Bahan dan Barang Teknik"
+  },
+  {
+    "posisipembeda": 1039,
+    "namaBahan": "Steel frame folding chair",
+    "nomer": "LP-007-IDN",
+    "nameLab": "Balai Besar Bahan dan Barang Teknik"
+  },
+  {
+    "posisipembeda": 1046,
+    "namaBahan": "Water tank",
+    "nomer": "LP-007-IDN",
+    "nameLab": "Balai Besar Bahan dan Barang Teknik"
+  },
+  {
+    "posisipembeda": 1055,
+    "namaBahan": "Low pressure regulators of LPG steel cylinder",
+    "nomer": "LP-007-IDN",
+    "nameLab": "Balai Besar Bahan dan Barang Teknik"
+  },
+  {
+    "posisipembeda": 1064,
+    "namaBahan": "LPG steel cylinder valves",
+    "nomer": "LP-007-IDN",
+    "nameLab": "Balai Besar Bahan dan Barang Teknik"
+  },
+  {
+    "posisipembeda": 1082,
+    "namaBahan": "Rubber hoses for LPG gas stoves",
+    "nomer": "LP-007-IDN",
+    "nameLab": "Balai Besar Bahan dan Barang Teknik"
+  },
+  {
+    "posisipembeda": 1092,
+    "namaBahan": "Single heart LPG fuel gas stoves using mechanical fire lighter systems",
+    "nomer": "LP-007-IDN",
+    "nameLab": "Balai Besar Bahan dan Barang Teknik"
+  },
+  {
+    "posisipembeda": 1102,
+    "namaBahan": "Helmets for road vehicle riders",
+    "nomer": "LP-007-IDN",
+    "nameLab": "Balai Besar Bahan dan Barang Teknik"
+  },
+  {
+    "posisipembeda": 1111,
+    "namaBahan": "PVC pipe for drinking water pipeline",
+    "nomer": "LP-007-IDN",
+    "nameLab": "Balai Besar Bahan dan Barang Teknik"
+  },
+  {
+    "posisipembeda": 1120,
+    "namaBahan": "Geotextile",
+    "nomer": "LP-007-IDN",
+    "nameLab": "Balai Besar Bahan dan Barang Teknik"
+  },
+  {
+    "posisipembeda": 1132,
+    "namaBahan": "Inner tires for automobile",
+    "nomer": "LP-007-IDN",
+    "nameLab": "Balai Besar Bahan dan Barang Teknik"
+  },
+  {
+    "posisipembeda": 1135,
+    "namaBahan": "Industrial helm",
+    "nomer": "LP-007-IDN",
+    "nameLab": "Balai Besar Bahan dan Barang Teknik"
+  },
+  {
+    "posisipembeda": 1151,
+    "namaBahan": "Compound rubber vulcanization bearing the dock",
+    "nomer": "LP-007-IDN",
+    "nameLab": "Balai Besar Bahan dan Barang Teknik"
+  },
+  {
+    "posisipembeda": 1161,
+    "namaBahan": "Elastomeric plastic hose for LPG gas stove",
+    "nomer": "LP-007-IDN",
+    "nameLab": "Balai Besar Bahan dan Barang Teknik"
+  },
+  {
+    "posisipembeda": 1177,
+    "namaBahan": "PE Vertical Cylinder Water Tank (SNI 7276 :2014)",
+    "nomer": "LP-007-IDN",
+    "nameLab": "Balai Besar Bahan dan Barang Teknik"
+  },
+  {
+    "posisipembeda": 1184,
+    "namaBahan": "Rubber hoses for LPG gas stoves",
+    "nomer": "LP-007-IDN",
+    "nameLab": "Balai Besar Bahan dan Barang Teknik"
+  },
+  {
+    "posisipembeda": 1196,
+    "namaBahan": "Two and three furnace low pressure gas stoves with a lighter system",
+    "nomer": "LP-007-IDN",
+    "nameLab": "Balai Besar Bahan dan Barang Teknik"
+  },
+  {
+    "posisipembeda": 1205,
+    "namaBahan": "Steel Rod for General Pupose",
+    "nomer": "LP-007-IDN",
+    "nameLab": "Balai Besar Bahan dan Barang Teknik"
+  },
+  {
+    "posisipembeda": 1209,
+    "namaBahan": "Cylindrical concrete, Cubical concrete",
+    "nomer": "LP-007-IDN",
+    "nameLab": "Balai Besar Bahan dan Barang Teknik"
+  },
+  {
+    "posisipembeda": 1210,
+    "namaBahan": "Prism concrete",
+    "nomer": "LP-007-IDN",
+    "nameLab": "Balai Besar Bahan dan Barang Teknik"
+  },
+  {
+    "posisipembeda": 1212,
+    "namaBahan": "Fine aggregate (ASTM C33) SNI 8321:2016",
+    "nomer": "LP-007-IDN",
+    "nameLab": "Balai Besar Bahan dan Barang Teknik"
+  },
+  {
+    "posisipembeda": 1213,
+    "namaBahan": "Fine aggregate (ASTM C33) SNI 8321:2017",
+    "nomer": "LP-007-IDN",
+    "nameLab": "Balai Besar Bahan dan Barang Teknik"
+  },
+  {
+    "posisipembeda": 1214,
+    "namaBahan": "Fine aggregate (ASTM C33) SNI 8321:2018",
+    "nomer": "LP-007-IDN",
+    "nameLab": "Balai Besar Bahan dan Barang Teknik"
+  },
+  {
+    "posisipembeda": 1215,
+    "namaBahan": "Fine aggregate (ASTM C33) SNI 8321:2019",
+    "nomer": "LP-007-IDN",
+    "nameLab": "Balai Besar Bahan dan Barang Teknik"
+  },
+  {
+    "posisipembeda": 1216,
+    "namaBahan": "Fine aggregate (ASTM C33) SNI 8321:2020",
+    "nomer": "LP-007-IDN",
+    "nameLab": "Balai Besar Bahan dan Barang Teknik"
+  },
+  {
+    "posisipembeda": 1217,
+    "namaBahan": "Fine aggregate (ASTM C33) SNI 8321:2021",
+    "nomer": "LP-007-IDN",
+    "nameLab": "Balai Besar Bahan dan Barang Teknik"
+  },
+  {
+    "posisipembeda": 1218,
+    "namaBahan": "Fine aggregate (ASTM C33) SNI 8321:2022",
+    "nomer": "LP-007-IDN",
+    "nameLab": "Balai Besar Bahan dan Barang Teknik"
+  },
+  {
+    "posisipembeda": 1219,
+    "namaBahan": "Fine aggregate (ASTM C33) SNI 8321:2023",
+    "nomer": "LP-007-IDN",
+    "nameLab": "Balai Besar Bahan dan Barang Teknik"
+  },
+  {
+    "posisipembeda": 1220,
+    "namaBahan": "Coarse aggregate (ASTM C33) SNI 8321:2016",
+    "nomer": "LP-007-IDN",
+    "nameLab": "Balai Besar Bahan dan Barang Teknik"
+  },
+  {
+    "posisipembeda": 1221,
+    "namaBahan": "Coarse aggregate (ASTM C33) SNI 8321:2017",
+    "nomer": "LP-007-IDN",
+    "nameLab": "Balai Besar Bahan dan Barang Teknik"
+  },
+  {
+    "posisipembeda": 1222,
+    "namaBahan": "Coarse aggregate (ASTM C33) SNI 8321:2018",
+    "nomer": "LP-007-IDN",
+    "nameLab": "Balai Besar Bahan dan Barang Teknik"
+  },
+  {
+    "posisipembeda": 1223,
+    "namaBahan": "Coarse aggregate (ASTM C33) SNI 8321:2019",
+    "nomer": "LP-007-IDN",
+    "nameLab": "Balai Besar Bahan dan Barang Teknik"
+  },
+  {
+    "posisipembeda": 1224,
+    "namaBahan": "Coarse aggregate (ASTM C33) SNI 8321:2020",
+    "nomer": "LP-007-IDN",
+    "nameLab": "Balai Besar Bahan dan Barang Teknik"
+  },
+  {
+    "posisipembeda": 1225,
+    "namaBahan": "Coarse aggregate (ASTM C33) SNI 8321:2021",
+    "nomer": "LP-007-IDN",
+    "nameLab": "Balai Besar Bahan dan Barang Teknik"
+  },
+  {
+    "posisipembeda": 1226,
+    "namaBahan": "Coarse aggregate (ASTM C33) SNI 8321:2022",
+    "nomer": "LP-007-IDN",
+    "nameLab": "Balai Besar Bahan dan Barang Teknik"
+  },
+  {
+    "posisipembeda": 1227,
+    "namaBahan": "Coarse aggregate (ASTM C33) SNI 8321:2023",
+    "nomer": "LP-007-IDN",
+    "nameLab": "Balai Besar Bahan dan Barang Teknik"
+  },
+  {
+    "posisipembeda": 1228,
+    "namaBahan": "Metal and Alloy",
+    "nomer": "LP-007-IDN",
+    "nameLab": "Balai Besar Bahan dan Barang Teknik"
+  },
+  {
+    "posisipembeda": 1246,
+    "namaBahan": "LPG Steel Tube",
+    "nomer": "LP-007-IDN",
+    "nameLab": "Balai Besar Bahan dan Barang Teknik"
+  },
+  {
+    "posisipembeda": 1250,
+    "namaBahan": "Self-ballasted lamps for general lighting services - Safety requirements",
+    "nomer": "LP-007-IDN",
+    "nameLab": "Balai Besar Bahan dan Barang Teknik"
+  },
+  {
+    "posisipembeda": 1252,
+    "namaBahan": "Self-ballasted lamps for general lighting services - Performance requirements",
+    "nomer": "LP-007-IDN",
+    "nameLab": "Balai Besar Bahan dan Barang Teknik"
+  },
+  {
+    "posisipembeda": 1254,
+    "namaBahan": "Primary batteries Part 1 : General",
+    "nomer": "LP-007-IDN",
+    "nameLab": "Balai Besar Bahan dan Barang Teknik"
+  },
+  {
+    "posisipembeda": 1256,
+    "namaBahan": "Part 2 : Physical and electrical specification",
+    "nomer": "LP-007-IDN",
+    "nameLab": "Balai Besar Bahan dan Barang Teknik"
+  },
+  {
+    "posisipembeda": 1261,
+    "namaBahan": "Lead-Acid Batteries for Four Wheels Vehicle or More (Lead Acid starter Batteries)",
+    "nomer": "LP-007-IDN",
+    "nameLab": "Balai Besar Bahan dan Barang Teknik"
+  },
+  {
+    "posisipembeda": 1262,
+    "namaBahan": "Spesification for lead-acid satrter Batteries. Part 1. General Requirements and Methods of test (first revision)",
+    "nomer": "LP-007-IDN",
+    "nameLab": "Balai Besar Bahan dan Barang Teknik"
+  },
+  {
+    "posisipembeda": 1267,
+    "namaBahan": "Lead-acid storage batteries- Spesification",
+    "nomer": "LP-007-IDN",
+    "nameLab": "Balai Besar Bahan dan Barang Teknik"
+  },
+  {
+    "posisipembeda": 1271,
+    "namaBahan": "Lead-acid starter batteries- Part 1: General requirements and methods of test",
+    "nomer": "LP-007-IDN",
+    "nameLab": "Balai Besar Bahan dan Barang Teknik"
+  },
+  {
+    "posisipembeda": 1276,
+    "namaBahan": "Lead-acid batteries for vehicle L category",
+    "nomer": "LP-007-IDN",
+    "nameLab": "Balai Besar Bahan dan Barang Teknik"
+  },
+  {
+    "posisipembeda": 1284,
+    "namaBahan": "Lead-acid storage batteries- Spesification for motorcycle",
+    "nomer": "LP-007-IDN",
+    "nameLab": "Balai Besar Bahan dan Barang Teknik"
+  },
+  {
+    "posisipembeda": 1289,
+    "namaBahan": "Lead Acud Starter Batteries used for motors vehicles and internal combustion engines",
+    "nomer": "LP-007-IDN",
+    "nameLab": "Balai Besar Bahan dan Barang Teknik"
+  },
+  {
+    "posisipembeda": 1296,
+    "namaBahan": "Self-ballasted LED-lampsfor general lighting services - Performance requirements",
+    "nomer": "LP-007-IDN",
+    "nameLab": "Balai Besar Bahan dan Barang Teknik"
+  },
+  {
+    "posisipembeda": 1298,
+    "namaBahan": "Self-ballasted LED-lamp for general lighting services by voltage > 50 V - Safety spesification",
+    "nomer": "LP-007-IDN",
+    "nameLab": "Balai Besar Bahan dan Barang Teknik"
+  },
+  {
+    "posisipembeda": 1300,
+    "namaBahan": "Battery chargers",
+    "nomer": "LP-007-IDN",
+    "nameLab": "Balai Besar Bahan dan Barang Teknik"
+  },
+  {
+    "posisipembeda": 1305,
+    "namaBahan": "Electronic irons",
+    "nomer": "LP-007-IDN",
+    "nameLab": "Balai Besar Bahan dan Barang Teknik"
+  },
+  {
+    "posisipembeda": 1311,
+    "namaBahan": "Pumps",
+    "nomer": "LP-007-IDN",
+    "nameLab": "Balai Besar Bahan dan Barang Teknik"
+  },
+  {
+    "posisipembeda": 1318,
+    "namaBahan": "Electrical heat pumsp, air conditioners and dehumidifiers",
+    "nomer": "LP-007-IDN",
+    "nameLab": "Balai Besar Bahan dan Barang Teknik"
+  },
+  {
+    "posisipembeda": 1326,
+    "namaBahan": "Audio video",
+    "nomer": "LP-007-IDN",
+    "nameLab": "Balai Besar Bahan dan Barang Teknik"
+  },
+  {
+    "posisipembeda": 1328,
+    "namaBahan": "Refrigerating appliances, ice-cream appliances and ice-makers",
+    "nomer": "LP-007-IDN",
+    "nameLab": "Balai Besar Bahan dan Barang Teknik"
+  },
+  {
+    "posisipembeda": 1334,
+    "namaBahan": "Washing machines",
+    "nomer": "LP-007-IDN",
+    "nameLab": "Balai Besar Bahan dan Barang Teknik"
+  },
+  {
+    "posisipembeda": 1340,
+    "namaBahan": "Humidifiefs intended for use with heating, ventilation, or air-conditioning systems",
+    "nomer": "LP-007-IDN",
+    "nameLab": "Balai Besar Bahan dan Barang Teknik"
+  },
+  {
+    "posisipembeda": 1344,
+    "namaBahan": "Household Appliances (Washing Machines, Refrigerating appliance, ice-cream appliances and ice-makers)",
+    "nomer": "LP-007-IDN",
+    "nameLab": "Balai Besar Bahan dan Barang Teknik"
+  },
+  {
+    "posisipembeda": 1360,
+    "namaBahan": "Audio video (TV, DVD player, audio amplifier, radio, set top box)",
+    "nomer": "LP-007-IDN",
+    "nameLab": "Balai Besar Bahan dan Barang Teknik"
+  },
+  {
+    "posisipembeda": 1370,
+    "namaBahan": "Information Technology Equipment / ITE (Monitor, Notebook, PC, printer, scanner)",
+    "nomer": "LP-007-IDN",
+    "nameLab": "Balai Besar Bahan dan Barang Teknik"
+  },
+  {
+    "posisipembeda": 1385,
+    "namaBahan": "Luminaire",
+    "nomer": "LP-007-IDN",
+    "nameLab": "Balai Besar Bahan dan Barang Teknik"
+  },
+  {
+    "posisipembeda": 1401,
+    "namaBahan": "Kitchen machines",
+    "nomer": "LP-007-IDN",
+    "nameLab": "Balai Besar Bahan dan Barang Teknik"
+  },
+  {
+    "posisipembeda": 1406,
+    "namaBahan": "Electric toys",
+    "nomer": "LP-007-IDN",
+    "nameLab": "Balai Besar Bahan dan Barang Teknik"
+  },
+  {
+    "posisipembeda": 1407,
+    "namaBahan": "Appliances for heating liquids",
+    "nomer": "LP-007-IDN",
+    "nameLab": "Balai Besar Bahan dan Barang Teknik"
+  },
+  {
+    "posisipembeda": 1412,
+    "namaBahan": "Fans",
+    "nomer": "LP-007-IDN",
+    "nameLab": "Balai Besar Bahan dan Barang Teknik"
+  },
+  {
+    "posisipembeda": 1421,
+    "namaBahan": "Shavers, hair clippers and similar appliances",
+    "nomer": "LP-007-IDN",
+    "nameLab": "Balai Besar Bahan dan Barang Teknik"
+  },
+  {
+    "posisipembeda": 1426,
+    "namaBahan": "Skin or hair care",
+    "nomer": "LP-007-IDN",
+    "nameLab": "Balai Besar Bahan dan Barang Teknik"
+  },
+  {
+    "posisipembeda": 1431,
+    "namaBahan": "Mutimedia Equipment (Smart TV)",
+    "nomer": "LP-007-IDN",
+    "nameLab": "Balai Besar Bahan dan Barang Teknik"
+  },
+  {
+    "posisipembeda": 1432,
+    "namaBahan": "Medical Equipment (Operation Table)",
+    "nomer": "LP-007-IDN",
+    "nameLab": "Balai Besar Bahan dan Barang Teknik"
+  },
+  {
+    "posisipembeda": 1440,
+    "namaBahan": "Grills, toasters and similar portable cooking appliances",
+    "nomer": "LP-007-IDN",
+    "nameLab": "Balai Besar Bahan dan Barang Teknik"
+  },
+  {
+    "posisipembeda": 1444,
+    "namaBahan": "Information Technology Equipment ",
+    "nomer": "LP-007-IDN",
+    "nameLab": "Balai Besar Bahan dan Barang Teknik"
+  },
+  {
+    "posisipembeda": 1446,
+    "namaBahan": "Penanak Nasi (Ricecooker )",
+    "nomer": "LP-007-IDN",
+    "nameLab": "Balai Besar Bahan dan Barang Teknik"
+  },
+  {
+    "posisipembeda": 1447,
+    "namaBahan": "Kipas Angin (Table/Cabin fans, Pedestal fans)",
+    "nomer": "LP-007-IDN",
+    "nameLab": "Balai Besar Bahan dan Barang Teknik"
+  },
+  {
+    "posisipembeda": 1449,
+    "namaBahan": "Multimedia Equipment - Immunity Requirement",
+    "nomer": "LP-007-IDN",
+    "nameLab": "Balai Besar Bahan dan Barang Teknik"
+  },
+  {
+    "posisipembeda": 1450,
+    "namaBahan": "Pembersih Vakum dan Pembersih Sedot Air ",
+    "nomer": "LP-007-IDN",
+    "nameLab": "Balai Besar Bahan dan Barang Teknik"
+  },
+  {
+    "posisipembeda": 1455,
+    "namaBahan": "Oven Gelombang Mikro, Termasuk Oven Gelombang Mikro Kombinasi",
+    "nomer": "LP-007-IDN",
+    "nameLab": "Balai Besar Bahan dan Barang Teknik"
+  },
+  {
+    "posisipembeda": 1460,
+    "namaBahan": "Pengekstrasi Putar",
+    "nomer": "LP-007-IDN",
+    "nameLab": "Balai Besar Bahan dan Barang Teknik"
+  },
+  {
+    "posisipembeda": 1465,
+    "namaBahan": "Semen",
+    "nomer": "LP-007-IDN",
+    "nameLab": "Balai Besar Bahan dan Barang Teknik"
+  },
+  {
+    "posisipembeda": 1467,
+    "namaBahan": "Bahan baku semen",
+    "nomer": "LP-007-IDN",
+    "nameLab": "Balai Besar Bahan dan Barang Teknik"
+  },
+  {
+    "posisipembeda": 1473,
+    "namaBahan": "Plastik / polimer",
+    "nomer": "LP-007-IDN",
+    "nameLab": "Balai Besar Bahan dan Barang Teknik"
+  },
+  {
+    "posisipembeda": 1474,
+    "namaBahan": "Deterjen Serbuk",
+    "nomer": "LP-007-IDN",
+    "nameLab": "Balai Besar Bahan dan Barang Teknik"
+  },
+  {
+    "posisipembeda": 1476,
+    "namaBahan": "Baja tulangan beton",
+    "nomer": "LP-011-IDN",
+    "nameLab": "Unit Industri Bahan dan Barang Teknik Provinsi DKI Jakarta"
+  },
+  {
+    "posisipembeda": 1483,
+    "namaBahan": "Jaringan kawat baja untuk tulangan beton",
+    "nomer": "LP-011-IDN",
+    "nameLab": "Unit Industri Bahan dan Barang Teknik Provinsi DKI Jakarta"
+  },
+  {
+    "posisipembeda": 1487,
+    "namaBahan": "Baja lembaran lapis seng",
+    "nomer": "LP-011-IDN",
+    "nameLab": "Unit Industri Bahan dan Barang Teknik Provinsi DKI Jakarta"
+  },
+  {
+    "posisipembeda": 1491,
+    "namaBahan": "Pipa baja saluran air denganatau tanpa lapisan seng",
+    "nomer": "LP-011-IDN",
+    "nameLab": "Unit Industri Bahan dan Barang Teknik Provinsi DKI Jakarta"
+  },
+  {
+    "posisipembeda": 1501,
+    "namaBahan": "Pipa Baja Untuk Konstruksi Umum",
+    "nomer": "LP-011-IDN",
+    "nameLab": "Unit Industri Bahan dan Barang Teknik Provinsi DKI Jakarta"
+  },
+  {
+    "posisipembeda": 1507,
+    "namaBahan": "Material Logam",
+    "nomer": "LP-011-IDN",
+    "nameLab": "Unit Industri Bahan dan Barang Teknik Provinsi DKI Jakarta"
+  },
+  {
+    "posisipembeda": 1509,
+    "namaBahan": "Baja batangan untuk keperluan umum (BjKU)",
+    "nomer": "LP-011-IDN",
+    "nameLab": "Unit Industri Bahan dan Barang Teknik Provinsi DKI Jakarta"
+  },
+  {
+    "posisipembeda": 1513,
+    "namaBahan": "Baja lembaran, pelat dan gulungan canai panas (BjP)",
+    "nomer": "LP-011-IDN",
+    "nameLab": "Unit Industri Bahan dan Barang Teknik Provinsi DKI Jakarta"
+  },
+  {
+    "posisipembeda": 1519,
+    "namaBahan": "Baja lembaran dan gulungan canai dingin (BjD)",
+    "nomer": "LP-011-IDN",
+    "nameLab": "Unit Industri Bahan dan Barang Teknik Provinsi DKI Jakarta"
+  },
+  {
+    "posisipembeda": 1525,
+    "namaBahan": "Baja lembaran dan gulungan lapis paduan alumunium-seng (BjLAS)",
+    "nomer": "LP-011-IDN",
+    "nameLab": "Unit Industri Bahan dan Barang Teknik Provinsi DKI Jakarta"
+  },
+  {
+    "posisipembeda": 1530,
+    "namaBahan": "Baja profil WF-beam proses canai panas (Bj P WF-Beam)",
+    "nomer": "LP-011-IDN",
+    "nameLab": "Unit Industri Bahan dan Barang Teknik Provinsi DKI Jakarta"
+  },
+  {
+    "posisipembeda": 1536,
+    "namaBahan": "Baja profil kanal U  proses canai panas (Bj P Kanal)",
+    "nomer": "LP-011-IDN",
+    "nameLab": "Unit Industri Bahan dan Barang Teknik Provinsi DKI Jakarta"
+  },
+  {
+    "posisipembeda": 1542,
+    "namaBahan": "Baja profil I-beam proses canai panas (Bj P I-Beam)",
+    "nomer": "LP-011-IDN",
+    "nameLab": "Unit Industri Bahan dan Barang Teknik Provinsi DKI Jakarta"
+  },
+  {
+    "posisipembeda": 1548,
+    "namaBahan": "Baja profil siku sama kaki  proses canai panas (Bj siku sama kaki)",
+    "nomer": "LP-011-IDN",
+    "nameLab": "Unit Industri Bahan dan Barang Teknik Provinsi DKI Jakarta"
+  },
+  {
+    "posisipembeda": 1554,
+    "namaBahan": "Baja profil H (Bj P H-Beam)",
+    "nomer": "LP-011-IDN",
+    "nameLab": "Unit Industri Bahan dan Barang Teknik Provinsi DKI Jakarta"
+  },
+  {
+    "posisipembeda": 1560,
+    "namaBahan": "Kawat baja kuens (quench) temper untuk konstruksi beton praktekan (PC-Bar / KBjP-Q)",
+    "nomer": "LP-011-IDN",
+    "nameLab": "Unit Industri Bahan dan Barang Teknik Provinsi DKI Jakarta"
+  },
+  {
+    "posisipembeda": 1564,
+    "namaBahan": "Tujuh kawat baja tanpa lapisan  dipilin untuk konstruksi beton praktekan (PC Strand / KBjP-P7)",
+    "nomer": "LP-011-IDN",
+    "nameLab": "Unit Industri Bahan dan Barang Teknik Provinsi DKI Jakarta"
+  },
+  {
+    "posisipembeda": 1568,
+    "namaBahan": "Kawat baja tanpa lapisan untuk konstruksi beton praktekan (PC Wire / KBjP)",
+    "nomer": "LP-011-IDN",
+    "nameLab": "Unit Industri Bahan dan Barang Teknik Provinsi DKI Jakarta"
+  },
+  {
+    "posisipembeda": 1571,
+    "namaBahan": "Kawat baja tanpa lapisan  untuk konstruksi beton ",
+    "nomer": "LP-011-IDN",
+    "nameLab": "Unit Industri Bahan dan Barang Teknik Provinsi DKI Jakarta"
+  },
+  {
+    "posisipembeda": 1572,
+    "namaBahan": "Penyambung  pipa berulir besi cor maleable hitam",
+    "nomer": "LP-011-IDN",
+    "nameLab": "Unit Industri Bahan dan Barang Teknik Provinsi DKI Jakarta"
+  },
+  {
+    "posisipembeda": 1578,
+    "namaBahan": "Bronjong kawat",
+    "nomer": "LP-011-IDN",
+    "nameLab": "Unit Industri Bahan dan Barang Teknik Provinsi DKI Jakarta"
+  },
+  {
+    "posisipembeda": 1580,
+    "namaBahan": "Kawat bronjong",
+    "nomer": "LP-011-IDN",
+    "nameLab": "Unit Industri Bahan dan Barang Teknik Provinsi DKI Jakarta"
+  },
+  {
+    "posisipembeda": 1585,
+    "namaBahan": "Kawat bronjong dan bronjong berlapis PVC (Polivinil chlorida)",
+    "nomer": "LP-011-IDN",
+    "nameLab": "Unit Industri Bahan dan Barang Teknik Provinsi DKI Jakarta"
+  },
+  {
+    "posisipembeda": 1592,
+    "namaBahan": "Kawat baja karbon rendah",
+    "nomer": "LP-011-IDN",
+    "nameLab": "Unit Industri Bahan dan Barang Teknik Provinsi DKI Jakarta"
+  },
+  {
+    "posisipembeda": 1597,
+    "namaBahan": "Batang kawat baja karbon rendah (SNI 07-0053-2006)",
+    "nomer": "LP-011-IDN",
+    "nameLab": "Unit Industri Bahan dan Barang Teknik Provinsi DKI Jakarta"
+  },
+  {
+    "posisipembeda": 1600,
+    "namaBahan": "Billet baja tuang kontinyu untuk baja tulangan beton dan baja profil ringan (SNI 07-6701-2002)",
+    "nomer": "LP-011-IDN",
+    "nameLab": "Unit Industri Bahan dan Barang Teknik Provinsi DKI Jakarta"
+  },
+  {
+    "posisipembeda": 1603,
+    "namaBahan": "Silinder Beton",
+    "nomer": "LP-011-IDN",
+    "nameLab": "Unit Industri Bahan dan Barang Teknik Provinsi DKI Jakarta"
+  },
+  {
+    "posisipembeda": 1604,
+    "namaBahan": "Lembaran semen rata",
+    "nomer": "LP-011-IDN",
+    "nameLab": "Unit Industri Bahan dan Barang Teknik Provinsi DKI Jakarta"
+  },
+  {
+    "posisipembeda": 1609,
+    "namaBahan": "Lembaran Semen Bergelombang Simetris ",
+    "nomer": "LP-011-IDN",
+    "nameLab": "Unit Industri Bahan dan Barang Teknik Provinsi DKI Jakarta"
+  },
+  {
+    "posisipembeda": 1613,
+    "namaBahan": "Genteng Beton",
+    "nomer": "LP-011-IDN",
+    "nameLab": "Unit Industri Bahan dan Barang Teknik Provinsi DKI Jakarta"
+  },
+  {
+    "posisipembeda": 1617,
+    "namaBahan": "Genteng Keramik Berglazur (SNI 03-2095-1998)",
+    "nomer": "LP-011-IDN",
+    "nameLab": "Unit Industri Bahan dan Barang Teknik Provinsi DKI Jakarta"
+  },
+  {
+    "posisipembeda": 1622,
+    "namaBahan": "Bata Beton (Paving Block) (SNI 03-0691-1996)",
+    "nomer": "LP-011-IDN",
+    "nameLab": "Unit Industri Bahan dan Barang Teknik Provinsi DKI Jakarta"
+  },
+  {
+    "posisipembeda": 1628,
+    "namaBahan": "Kloset Duduk (SNI 03-0797-2006)",
+    "nomer": "LP-011-IDN",
+    "nameLab": "Unit Industri Bahan dan Barang Teknik Provinsi DKI Jakarta"
+  },
+  {
+    "posisipembeda": 1645,
+    "namaBahan": "Keramik berglasir - Tableware - Alat makan dan minum (SNI ISO 13006 : 2010)",
+    "nomer": "LP-011-IDN",
+    "nameLab": "Unit Industri Bahan dan Barang Teknik Provinsi DKI Jakarta"
+  },
+  {
+    "posisipembeda": 1650,
+    "namaBahan": "Ubin keramik (SNI ISO 13006:2010)",
+    "nomer": "LP-011-IDN",
+    "nameLab": "Unit Industri Bahan dan Barang Teknik Provinsi DKI Jakarta"
+  },
+  {
+    "posisipembeda": 1658,
+    "namaBahan": "Pipa PVC untuk saluran air minum",
+    "nomer": "LP-011-IDN",
+    "nameLab": "Unit Industri Bahan dan Barang Teknik Provinsi DKI Jakarta"
+  },
+  {
+    "posisipembeda": 1669,
+    "namaBahan": "Pipa PVC untuk saluran air buangan  di dalam dan di luar bangunan",
+    "nomer": "LP-011-IDN",
+    "nameLab": "Unit Industri Bahan dan Barang Teknik Provinsi DKI Jakarta"
+  },
+  {
+    "posisipembeda": 1679,
+    "namaBahan": "Sambungan pipa PVC untuk saluran air minum",
+    "nomer": "LP-011-IDN",
+    "nameLab": "Unit Industri Bahan dan Barang Teknik Provinsi DKI Jakarta"
+  },
+  {
+    "posisipembeda": 1689,
+    "namaBahan": "Sistem perpipaan plastik-Pipa Polietilena (PE) dan Fitting untuk sistem penyediaan air minum - Bagian 1: Umum (SNI 4829-1:2015)",
+    "nomer": "LP-011-IDN",
+    "nameLab": "Unit Industri Bahan dan Barang Teknik Provinsi DKI Jakarta"
+  },
+  {
+    "posisipembeda": 1696,
+    "namaBahan": "Sistem perpipaan plastik - Pipa Polietilena (PE) dan Fitting untuk sistem penyediaan air minum - Bagian 2: Pipa (SNI 4829-2:2015)",
+    "nomer": "LP-011-IDN",
+    "nameLab": "Unit Industri Bahan dan Barang Teknik Provinsi DKI Jakarta"
+  },
+  {
+    "posisipembeda": 1707,
+    "namaBahan": "Cat tembok emulsi",
+    "nomer": "LP-011-IDN",
+    "nameLab": "Unit Industri Bahan dan Barang Teknik Provinsi DKI Jakarta"
+  },
+  {
+    "posisipembeda": 1719,
+    "namaBahan": "Sistem perpipaan plastik untuk sistem penyaluran bahan bakar gas -Polietilena (PE) - Bagian 2: Pipa (SNI 4437-2:2015)",
+    "nomer": "LP-011-IDN",
+    "nameLab": "Unit Industri Bahan dan Barang Teknik Provinsi DKI Jakarta"
+  },
+  {
+    "posisipembeda": 1730,
+    "namaBahan": "Sistem perpipaan plastik untuk instalasi Air Panas dan Dingin -Polipropilnea (PP) - Bagian 2: Pipa (SNI 15874-2:2012)",
+    "nomer": "LP-011-IDN",
+    "nameLab": "Unit Industri Bahan dan Barang Teknik Provinsi DKI Jakarta"
+  },
+  {
+    "posisipembeda": 1737,
+    "namaBahan": "Profil Rangka Baja Ringan (SNI 8399 : 2017)",
+    "nomer": "LP-011-IDN",
+    "nameLab": "Unit Industri Bahan dan Barang Teknik Provinsi DKI Jakarta"
+  },
+  {
+    "posisipembeda": 1741,
+    "namaBahan": "Pipa Baja Untuk Pancang (SNI 8052:2014)",
+    "nomer": "LP-011-IDN",
+    "nameLab": "Unit Industri Bahan dan Barang Teknik Provinsi DKI Jakarta"
+  },
+  {
+    "posisipembeda": 1746,
+    "namaBahan": "Heating liquid",
+    "nomer": "LP-024-IDN",
+    "nameLab": "PT Sucofindo (Persero) SBU Laboratory"
+  },
+  {
+    "posisipembeda": 1759,
+    "namaBahan": "Refrigerator & ice maker",
+    "nomer": "LP-024-IDN",
+    "nameLab": "PT Sucofindo (Persero) SBU Laboratory"
+  },
+  {
+    "posisipembeda": 1773,
+    "namaBahan": "Air Conditioner (AC)",
+    "nomer": "LP-024-IDN",
+    "nameLab": "PT Sucofindo (Persero) SBU Laboratory"
+  },
+  {
+    "posisipembeda": 1784,
+    "namaBahan": "Water pump",
+    "nomer": "LP-024-IDN",
+    "nameLab": "PT Sucofindo (Persero) SBU Laboratory"
+  },
+  {
+    "posisipembeda": 1796,
+    "namaBahan": "Motor compressor",
+    "nomer": "LP-024-IDN",
+    "nameLab": "PT Sucofindo (Persero) SBU Laboratory"
+  },
+  {
+    "posisipembeda": 1808,
+    "namaBahan": "Instantaneous water heaters",
+    "nomer": "LP-024-IDN",
+    "nameLab": "PT Sucofindo (Persero) SBU Laboratory"
+  },
+  {
+    "posisipembeda": 1815,
+    "namaBahan": "Switch electronic",
+    "nomer": "LP-024-IDN",
+    "nameLab": "PT Sucofindo (Persero) SBU Laboratory"
+  },
+  {
+    "posisipembeda": 1823,
+    "namaBahan": "Concrete",
+    "nomer": "LP-024-IDN",
+    "nameLab": "PT Sucofindo (Persero) SBU Laboratory"
+  },
+  {
+    "posisipembeda": 1824,
+    "namaBahan": "Plastic",
+    "nomer": "LP-024-IDN",
+    "nameLab": "PT Sucofindo (Persero) SBU Laboratory"
+  },
+  {
+    "posisipembeda": 1826,
+    "namaBahan": "Rubber",
+    "nomer": "LP-024-IDN",
+    "nameLab": "PT Sucofindo (Persero) SBU Laboratory"
+  },
+  {
+    "posisipembeda": 1828,
+    "namaBahan": "Metal",
+    "nomer": "LP-024-IDN",
+    "nameLab": "PT Sucofindo (Persero) SBU Laboratory"
+  },
+  {
+    "posisipembeda": 1829,
+    "namaBahan": "Film plastic",
+    "nomer": "LP-024-IDN",
+    "nameLab": "PT Sucofindo (Persero) SBU Laboratory"
+  },
+  {
+    "posisipembeda": 1830,
+    "namaBahan": "Metal material",
+    "nomer": "LP-024-IDN",
+    "nameLab": "PT Sucofindo (Persero) SBU Laboratory"
+  },
+  {
+    "posisipembeda": 1831,
+    "namaBahan": "Low pressure regulator for LPG",
+    "nomer": "LP-024-IDN",
+    "nameLab": "PT Sucofindo (Persero) SBU Laboratory"
+  },
+  {
+    "posisipembeda": 1832,
+    "namaBahan": "Hose/pipe/pressurized unit",
+    "nomer": "LP-024-IDN",
+    "nameLab": "PT Sucofindo (Persero) SBU Laboratory"
+  },
+  {
+    "posisipembeda": 1833,
+    "namaBahan": "Material palstic, fabric, rubber, wood, foam",
+    "nomer": "LP-024-IDN",
+    "nameLab": "PT Sucofindo (Persero) SBU Laboratory"
+  },
+  {
+    "posisipembeda": 1834,
+    "namaBahan": "Door & wall",
+    "nomer": "LP-024-IDN",
+    "nameLab": "PT Sucofindo (Persero) SBU Laboratory"
+  },
+  {
+    "posisipembeda": 1835,
+    "namaBahan": "Paving Block",
+    "nomer": "LP-024-IDN",
+    "nameLab": "PT Sucofindo (Persero) SBU Laboratory"
+  },
+  {
+    "posisipembeda": 1836,
+    "namaBahan": "Diesel Genset Stationer <50 kVA for telecomunication",
+    "nomer": "LP-024-IDN",
+    "nameLab": "PT Sucofindo (Persero) SBU Laboratory"
+  },
+  {
+    "posisipembeda": 1837,
+    "namaBahan": "Diesel Genset Stationer 50-500 kVA for telecomunication",
+    "nomer": "LP-024-IDN",
+    "nameLab": "PT Sucofindo (Persero) SBU Laboratory"
+  },
+  {
+    "posisipembeda": 1838,
+    "namaBahan": "Wheelded steel bed for hospital",
+    "nomer": "LP-024-IDN",
+    "nameLab": "PT Sucofindo (Persero) SBU Laboratory"
+  },
+  {
+    "posisipembeda": 1841,
+    "namaBahan": "Ban dalam kendaraan bermotor",
+    "nomer": "LP-025-IDN",
+    "nameLab": "Balai Pengujian Mutu Barang Jakarta  "
+  },
+  {
+    "posisipembeda": 1846,
+    "namaBahan": "Ban sepeda motor",
+    "nomer": "LP-025-IDN",
+    "nameLab": "Balai Pengujian Mutu Barang Jakarta  "
+  },
+  {
+    "posisipembeda": 1852,
+    "namaBahan": "Ban truk dan bus",
+    "nomer": "LP-025-IDN",
+    "nameLab": "Balai Pengujian Mutu Barang Jakarta  "
+  },
+  {
+    "posisipembeda": 1857,
+    "namaBahan": "Ban mobil penumpang",
+    "nomer": "LP-025-IDN",
+    "nameLab": "Balai Pengujian Mutu Barang Jakarta  "
+  },
+  {
+    "posisipembeda": 1865,
+    "namaBahan": "Ban truk ringan",
+    "nomer": "LP-025-IDN",
+    "nameLab": "Balai Pengujian Mutu Barang Jakarta  "
+  },
+  {
+    "posisipembeda": 1871,
+    "namaBahan": "Vulkanisir Ban Mobil Penumpang dan Komersil",
+    "nomer": "LP-025-IDN",
+    "nameLab": "Balai Pengujian Mutu Barang Jakarta  "
+  },
+  {
+    "posisipembeda": 1878,
+    "namaBahan": "Lateks alam",
+    "nomer": "LP-029-IDN",
+    "nameLab": "Pusat Penelitian Karet"
+  },
+  {
+    "posisipembeda": 1891,
+    "namaBahan": "Vukanisat/kompon",
+    "nomer": "LP-029-IDN",
+    "nameLab": "Pusat Penelitian Karet"
+  },
+  {
+    "posisipembeda": 1901,
+    "namaBahan": "Vulkanisat/kompon",
+    "nomer": "LP-029-IDN",
+    "nameLab": "Pusat Penelitian Karet"
+  },
+  {
+    "posisipembeda": 1943,
+    "namaBahan": "Selang karet untuk kompor gas LPG  (SNI 7213 : 2014)",
+    "nomer": "LP-029-IDN",
+    "nameLab": "Pusat Penelitian Karet"
+  },
+  {
+    "posisipembeda": 1954,
+    "namaBahan": "Ban Mobil Penumpang (SNI 0098 : 2012)",
+    "nomer": "LP-029-IDN",
+    "nameLab": "Pusat Penelitian Karet"
+  },
+  {
+    "posisipembeda": 1961,
+    "namaBahan": "Ban truk ringan (SNI 0100 : 2012)",
+    "nomer": "LP-029-IDN",
+    "nameLab": "Pusat Penelitian Karet"
+  },
+  {
+    "posisipembeda": 1966,
+    "namaBahan": "Ban sepeda motor (SNI 0101 : 2012)",
+    "nomer": "LP-029-IDN",
+    "nameLab": "Pusat Penelitian Karet"
+  },
+  {
+    "posisipembeda": 1971,
+    "namaBahan": "Rol karet penguapas gabah (SNI 1843 :2008)",
+    "nomer": "LP-029-IDN",
+    "nameLab": "Pusat Penelitian Karet"
+  },
+  {
+    "posisipembeda": 1976,
+    "namaBahan": "SIR/Karet Mentah/Karet (SNI 1903 : 2017) \r\n(SNI 1903-2000, intended use only / atas permintaan pelanggan)",
+    "nomer": "LP-029-IDN",
+    "nameLab": "Pusat Penelitian Karet"
+  },
+  {
+    "posisipembeda": 1992,
+    "namaBahan": "Karet perapat (rubber seal) pada katup tabung LPG (SNI 7655-2010",
+    "nomer": "LP-029-IDN",
+    "nameLab": "Pusat Penelitian Karet"
+  },
+  {
+    "posisipembeda": 1993,
+    "namaBahan": "Karet perapat (rubber seal) pada katup tabung LPG (SNI 7655-2011",
+    "nomer": "LP-029-IDN",
+    "nameLab": "Pusat Penelitian Karet"
+  },
+  {
+    "posisipembeda": 1994,
+    "namaBahan": "Karet perapat (rubber seal) pada katup tabung LPG (SNI 7655-2012",
+    "nomer": "LP-029-IDN",
+    "nameLab": "Pusat Penelitian Karet"
+  },
+  {
+    "posisipembeda": 1995,
+    "namaBahan": "Karet perapat (rubber seal) pada katup tabung LPG ",
+    "nomer": "LP-029-IDN",
+    "nameLab": "Pusat Penelitian Karet"
+  },
+  {
+    "posisipembeda": 1999,
+    "namaBahan": "Bantalan elastomer tipe polos dan tipe berlapis untuk perletakan jembatan (SNI 3967 : 2008)",
+    "nomer": "LP-029-IDN",
+    "nameLab": "Pusat Penelitian Karet"
+  },
+  {
+    "posisipembeda": 2007,
+    "namaBahan": "Ban dalam kendaraan bermotor (SNI 6700:2012)",
+    "nomer": "LP-029-IDN",
+    "nameLab": "Pusat Penelitian Karet"
+  },
+  {
+    "posisipembeda": 2010,
+    "namaBahan": "Selang termoplastik elastomer untuk kompor gas LPG (SNI 8022 : 2014)",
+    "nomer": "LP-029-IDN",
+    "nameLab": "Pusat Penelitian Karet"
+  },
+  {
+    "posisipembeda": 2021,
+    "namaBahan": "Ban dalam sepeda ",
+    "nomer": "LP-029-IDN",
+    "nameLab": "Pusat Penelitian Karet"
+  },
+  {
+    "posisipembeda": 2027,
+    "namaBahan": "Vulkanisat karet Kompon bantalan dermaga (SNI 06-3568-2006)",
+    "nomer": "LP-029-IDN",
+    "nameLab": "Pusat Penelitian Karet"
+  },
+  {
+    "posisipembeda": 2037,
+    "namaBahan": "Sarung tangan karet steril, untuk keperluan bedah sekali pakai (SNI ISO 10282 : 2010)",
+    "nomer": "LP-029-IDN",
+    "nameLab": "Pusat Penelitian Karet"
+  },
+  {
+    "posisipembeda": 2041,
+    "namaBahan": "Sarung tangan untuk pemeriksaan medis sekali pakai-bagian 1 :",
+    "nomer": "LP-029-IDN",
+    "nameLab": "Pusat Penelitian Karet"
+  },
+  {
+    "posisipembeda": 2042,
+    "namaBahan": "Spesifikasi untuk sarung tangan terbuat dari lateks atau larutan karet  (SNI ISO 11193, 1:2010)",
+    "nomer": "LP-029-IDN",
+    "nameLab": "Pusat Penelitian Karet"
+  },
+  {
+    "posisipembeda": 2044,
+    "namaBahan": "Ban Vulkanisir (Ban Truk Ringan) SNI 3768:2013)",
+    "nomer": "LP-029-IDN",
+    "nameLab": "Pusat Penelitian Karet"
+  },
+  {
+    "posisipembeda": 2049,
+    "namaBahan": "Air conditioner",
+    "nomer": "LP-061-IDN",
+    "nameLab": "PT. Panasonic Manufacturing Indonesia"
+  },
+  {
+    "posisipembeda": 2054,
+    "namaBahan": "Non-ducted Air Conditioner",
+    "nomer": "LP-061-IDN",
+    "nameLab": "PT. Panasonic Manufacturing Indonesia"
+  },
+  {
+    "posisipembeda": 2055,
+    "namaBahan": "Kipas Angin listrik",
+    "nomer": "LP-061-IDN",
+    "nameLab": "PT. Panasonic Manufacturing Indonesia"
+  },
+  {
+    "posisipembeda": 2060,
+    "namaBahan": "Pompa air listrik",
+    "nomer": "LP-061-IDN",
+    "nameLab": "PT. Panasonic Manufacturing Indonesia"
+  },
+  {
+    "posisipembeda": 2064,
+    "namaBahan": "Mesin cuci",
+    "nomer": "LP-061-IDN",
+    "nameLab": "PT. Panasonic Manufacturing Indonesia"
+  },
+  {
+    "posisipembeda": 2069,
+    "namaBahan": "Lemari Es",
+    "nomer": "LP-061-IDN",
+    "nameLab": "PT. Panasonic Manufacturing Indonesia"
+  },
+  {
+    "posisipembeda": 2074,
+    "namaBahan": "Home Theater",
+    "nomer": "LP-061-IDN",
+    "nameLab": "PT. Panasonic Manufacturing Indonesia"
+  },
+  {
+    "posisipembeda": 2075,
+    "namaBahan": "Material Isolasi",
+    "nomer": "LP-061-IDN",
+    "nameLab": "PT. Panasonic Manufacturing Indonesia"
+  },
+  {
+    "posisipembeda": 2077,
+    "namaBahan": "Material Plastik pada Produk elektronik",
+    "nomer": "LP-061-IDN",
+    "nameLab": "PT. Panasonic Manufacturing Indonesia"
+  },
+  {
+    "posisipembeda": 2078,
+    "namaBahan": "Material logam pada produk elektronik",
+    "nomer": "LP-061-IDN",
+    "nameLab": "PT. Panasonic Manufacturing Indonesia"
+  },
+  {
+    "posisipembeda": 2079,
+    "namaBahan": "Air Limbah industri dan air limbah domestik",
+    "nomer": "LP-061-IDN",
+    "nameLab": "PT. Panasonic Manufacturing Indonesia"
+  },
+  {
+    "posisipembeda": 2088,
+    "namaBahan": "Beton",
+    "nomer": "LP-075-IDN",
+    "nameLab": "aboratorium Mekanika Tanah, PT. Tambang Batubara Bukit Asam (Persero), Tbk. Unit Pertambangan Tanjung Enim"
+  },
+  {
+    "posisipembeda": 2090,
+    "namaBahan": "Baja tulangan beton ",
+    "nomer": "LP-077-IDN",
+    "nameLab": "Balai Besar Teknologi Kekuatan Struktur (B2TKS), Badan Pengkajian dan Penerapan Teknologi (BPPT) (EXPIRED)"
+  },
+  {
+    "posisipembeda": 2094,
+    "namaBahan": "Baja lembaran lapis seng ",
+    "nomer": "LP-077-IDN",
+    "nameLab": "Balai Besar Teknologi Kekuatan Struktur (B2TKS), Badan Pengkajian dan Penerapan Teknologi (BPPT) (EXPIRED)"
+  },
+  {
+    "posisipembeda": 2099,
+    "namaBahan": "Kawat baja karbon rendah",
+    "nomer": "LP-077-IDN",
+    "nameLab": "Balai Besar Teknologi Kekuatan Struktur (B2TKS), Badan Pengkajian dan Penerapan Teknologi (BPPT) (EXPIRED)"
+  },
+  {
+    "posisipembeda": 2105,
+    "namaBahan": "Baja profil siku sama kaki proses canai panas (BjP siku sama kaki)",
+    "nomer": "LP-077-IDN",
+    "nameLab": "Balai Besar Teknologi Kekuatan Struktur (B2TKS), Badan Pengkajian dan Penerapan Teknologi (BPPT) (EXPIRED)"
+  },
+  {
+    "posisipembeda": 2112,
+    "namaBahan": "Batang kawat baja karbon rendah",
+    "nomer": "LP-077-IDN",
+    "nameLab": "Balai Besar Teknologi Kekuatan Struktur (B2TKS), Badan Pengkajian dan Penerapan Teknologi (BPPT) (EXPIRED)"
+  },
+  {
+    "posisipembeda": 2116,
+    "namaBahan": "Baja tulangan beton hasil canai ulang (rerolling)",
+    "nomer": "LP-077-IDN",
+    "nameLab": "Balai Besar Teknologi Kekuatan Struktur (B2TKS), Badan Pengkajian dan Penerapan Teknologi (BPPT) (EXPIRED)"
+  },
+  {
+    "posisipembeda": 2120,
+    "namaBahan": "Baja siku sama kaki bertepi bulat canai panas hasil rerolling",
+    "nomer": "LP-077-IDN",
+    "nameLab": "Balai Besar Teknologi Kekuatan Struktur (B2TKS), Badan Pengkajian dan Penerapan Teknologi (BPPT) (EXPIRED)"
+  },
+  {
+    "posisipembeda": 2127,
+    "namaBahan": "Baja tulangan beton dalam bentuk gulungan",
+    "nomer": "LP-077-IDN",
+    "nameLab": "Balai Besar Teknologi Kekuatan Struktur (B2TKS), Badan Pengkajian dan Penerapan Teknologi (BPPT) (EXPIRED)"
+  },
+  {
+    "posisipembeda": 2131,
+    "namaBahan": "Baja profil I-beam proses canai panas",
+    "nomer": "LP-077-IDN",
+    "nameLab": "Balai Besar Teknologi Kekuatan Struktur (B2TKS), Badan Pengkajian dan Penerapan Teknologi (BPPT) (EXPIRED)"
+  },
+  {
+    "posisipembeda": 2138,
+    "namaBahan": "Baja batangan untuk keperluan umum",
+    "nomer": "LP-077-IDN",
+    "nameLab": "Balai Besar Teknologi Kekuatan Struktur (B2TKS), Badan Pengkajian dan Penerapan Teknologi (BPPT) (EXPIRED)"
+  },
+  {
+    "posisipembeda": 2143,
+    "namaBahan": "Baja profil H hasil pengelasan dengan filler untuk konstruksi umum",
+    "nomer": "LP-077-IDN",
+    "nameLab": "Balai Besar Teknologi Kekuatan Struktur (B2TKS), Badan Pengkajian dan Penerapan Teknologi (BPPT) (EXPIRED)"
+  },
+  {
+    "posisipembeda": 2148,
+    "namaBahan": "Kawat baja kuens (quench) untuk konstruksi beton praktekan (PC bar/KBjP-Q)",
+    "nomer": "LP-077-IDN",
+    "nameLab": "Balai Besar Teknologi Kekuatan Struktur (B2TKS), Badan Pengkajian dan Penerapan Teknologi (BPPT) (EXPIRED)"
+  },
+  {
+    "posisipembeda": 2153,
+    "namaBahan": "Baja profil WF Beam proses canai panas (BjP WF Beam)",
+    "nomer": "LP-077-IDN",
+    "nameLab": "Balai Besar Teknologi Kekuatan Struktur (B2TKS), Badan Pengkajian dan Penerapan Teknologi (BPPT) (EXPIRED)"
+  },
+  {
+    "posisipembeda": 2160,
+    "namaBahan": "Baja lembaran dan gulungan canai dingin ",
+    "nomer": "LP-077-IDN",
+    "nameLab": "Balai Besar Teknologi Kekuatan Struktur (B2TKS), Badan Pengkajian dan Penerapan Teknologi (BPPT) (EXPIRED)"
+  },
+  {
+    "posisipembeda": 2167,
+    "namaBahan": "Baja, lembaran, pelat dan gulungan canai panas ",
+    "nomer": "LP-077-IDN",
+    "nameLab": "Balai Besar Teknologi Kekuatan Struktur (B2TKS), Badan Pengkajian dan Penerapan Teknologi (BPPT) (EXPIRED)"
+  },
+  {
+    "posisipembeda": 2171,
+    "namaBahan": "Baja lembaran dan gulungan lapis paduan aluminium dan seng (BjLAS)",
+    "nomer": "LP-077-IDN",
+    "nameLab": "Balai Besar Teknologi Kekuatan Struktur (B2TKS), Badan Pengkajian dan Penerapan Teknologi (BPPT) (EXPIRED)"
+  },
+  {
+    "posisipembeda": 2180,
+    "namaBahan": "Billet baja tuang kontinyu",
+    "nomer": "LP-077-IDN",
+    "nameLab": "Balai Besar Teknologi Kekuatan Struktur (B2TKS), Badan Pengkajian dan Penerapan Teknologi (BPPT) (EXPIRED)"
+  },
+  {
+    "posisipembeda": 2183,
+    "namaBahan": "Tali kawat baja",
+    "nomer": "LP-077-IDN",
+    "nameLab": "Balai Besar Teknologi Kekuatan Struktur (B2TKS), Badan Pengkajian dan Penerapan Teknologi (BPPT) (EXPIRED)"
+  },
+  {
+    "posisipembeda": 2189,
+    "namaBahan": "Kawat baja tanpa lapisan dipilin untuk konstruksi beton pratekan (PC Wire/KBjP)",
+    "nomer": "LP-077-IDN",
+    "nameLab": "Balai Besar Teknologi Kekuatan Struktur (B2TKS), Badan Pengkajian dan Penerapan Teknologi (BPPT) (EXPIRED)"
+  },
+  {
+    "posisipembeda": 2193,
+    "namaBahan": "Pipa baja untuk konstruksi umum",
+    "nomer": "LP-077-IDN",
+    "nameLab": "Balai Besar Teknologi Kekuatan Struktur (B2TKS), Badan Pengkajian dan Penerapan Teknologi (BPPT) (EXPIRED)"
+  },
+  {
+    "posisipembeda": 2198,
+    "namaBahan": "Pipa baja karbon untuk konstruksi mesin",
+    "nomer": "LP-077-IDN",
+    "nameLab": "Balai Besar Teknologi Kekuatan Struktur (B2TKS), Badan Pengkajian dan Penerapan Teknologi (BPPT) (EXPIRED)"
+  },
+  {
+    "posisipembeda": 2202,
+    "namaBahan": "Pipa baja lapis seng untuk saluran air",
+    "nomer": "LP-077-IDN",
+    "nameLab": "Balai Besar Teknologi Kekuatan Struktur (B2TKS), Badan Pengkajian dan Penerapan Teknologi (BPPT) (EXPIRED)"
+  },
+  {
+    "posisipembeda": 2211,
+    "namaBahan": "Penyambung pipa berulir dari besi cor malebel hitam",
+    "nomer": "LP-077-IDN",
+    "nameLab": "Balai Besar Teknologi Kekuatan Struktur (B2TKS), Badan Pengkajian dan Penerapan Teknologi (BPPT) (EXPIRED)"
+  },
+  {
+    "posisipembeda": 2218,
+    "namaBahan": "Pipa baja saluran air",
+    "nomer": "LP-077-IDN",
+    "nameLab": "Balai Besar Teknologi Kekuatan Struktur (B2TKS), Badan Pengkajian dan Penerapan Teknologi (BPPT) (EXPIRED)"
+  },
+  {
+    "posisipembeda": 2220,
+    "namaBahan": "Pipa union (konduit)",
+    "nomer": "LP-077-IDN",
+    "nameLab": "Balai Besar Teknologi Kekuatan Struktur (B2TKS), Badan Pengkajian dan Penerapan Teknologi (BPPT) (EXPIRED)"
+  },
+  {
+    "posisipembeda": 2224,
+    "namaBahan": "Tabung gas bumi bertekanan (Compressed natural gas/CNG) untuk kendaraan bermotor",
+    "nomer": "LP-077-IDN",
+    "nameLab": "Balai Besar Teknologi Kekuatan Struktur (B2TKS), Badan Pengkajian dan Penerapan Teknologi (BPPT) (EXPIRED)"
+  },
+  {
+    "posisipembeda": 2227,
+    "namaBahan": "Logam",
+    "nomer": "LP-077-IDN",
+    "nameLab": "Balai Besar Teknologi Kekuatan Struktur (B2TKS), Badan Pengkajian dan Penerapan Teknologi (BPPT) (EXPIRED)"
+  },
+  {
+    "posisipembeda": 2246,
+    "namaBahan": "Low Alloy",
+    "nomer": "LP-077-IDN",
+    "nameLab": "Balai Besar Teknologi Kekuatan Struktur (B2TKS), Badan Pengkajian dan Penerapan Teknologi (BPPT) (EXPIRED)"
+  },
+  {
+    "posisipembeda": 2247,
+    "namaBahan": "Cr Ni (Stainless steel)",
+    "nomer": "LP-077-IDN",
+    "nameLab": "Balai Besar Teknologi Kekuatan Struktur (B2TKS), Badan Pengkajian dan Penerapan Teknologi (BPPT) (EXPIRED)"
+  },
+  {
+    "posisipembeda": 2248,
+    "namaBahan": "Al dan paduannya",
+    "nomer": "LP-077-IDN",
+    "nameLab": "Balai Besar Teknologi Kekuatan Struktur (B2TKS), Badan Pengkajian dan Penerapan Teknologi (BPPT) (EXPIRED)"
+  },
+  {
+    "posisipembeda": 2249,
+    "namaBahan": "Low Alloy",
+    "nomer": "LP-077-IDN",
+    "nameLab": "Balai Besar Teknologi Kekuatan Struktur (B2TKS), Badan Pengkajian dan Penerapan Teknologi (BPPT) (EXPIRED)"
+  },
+  {
+    "posisipembeda": 2250,
+    "namaBahan": "titanium Alloy",
+    "nomer": "LP-077-IDN",
+    "nameLab": "Balai Besar Teknologi Kekuatan Struktur (B2TKS), Badan Pengkajian dan Penerapan Teknologi (BPPT) (EXPIRED)"
+  },
+  {
+    "posisipembeda": 2251,
+    "namaBahan": "Metalography logam",
+    "nomer": "LP-077-IDN",
+    "nameLab": "Balai Besar Teknologi Kekuatan Struktur (B2TKS), Badan Pengkajian dan Penerapan Teknologi (BPPT) (EXPIRED)"
+  },
+  {
+    "posisipembeda": 2255,
+    "namaBahan": "Ban truk ringan",
+    "nomer": "LP-077-IDN",
+    "nameLab": "Balai Besar Teknologi Kekuatan Struktur (B2TKS), Badan Pengkajian dan Penerapan Teknologi (BPPT) (EXPIRED)"
+  },
+  {
+    "posisipembeda": 2260,
+    "namaBahan": "Ban truk dan bus",
+    "nomer": "LP-077-IDN",
+    "nameLab": "Balai Besar Teknologi Kekuatan Struktur (B2TKS), Badan Pengkajian dan Penerapan Teknologi (BPPT) (EXPIRED)"
+  },
+  {
+    "posisipembeda": 2264,
+    "namaBahan": "Ban vulkanisir",
+    "nomer": "LP-077-IDN",
+    "nameLab": "Balai Besar Teknologi Kekuatan Struktur (B2TKS), Badan Pengkajian dan Penerapan Teknologi (BPPT) (EXPIRED)"
+  },
+  {
+    "posisipembeda": 2268,
+    "namaBahan": "peredam kejut teleskopik",
+    "nomer": "LP-077-IDN",
+    "nameLab": "Balai Besar Teknologi Kekuatan Struktur (B2TKS), Badan Pengkajian dan Penerapan Teknologi (BPPT) (EXPIRED)"
+  },
+  {
+    "posisipembeda": 2272,
+    "namaBahan": "Valve(katup air)",
+    "nomer": "LP-077-IDN",
+    "nameLab": "Balai Besar Teknologi Kekuatan Struktur (B2TKS), Badan Pengkajian dan Penerapan Teknologi (BPPT) (EXPIRED)"
+  },
+  {
+    "posisipembeda": 2273,
+    "namaBahan": "Selang hidrolik",
+    "nomer": "LP-077-IDN",
+    "nameLab": "Balai Besar Teknologi Kekuatan Struktur (B2TKS), Badan Pengkajian dan Penerapan Teknologi (BPPT) (EXPIRED)"
+  },
+  {
+    "posisipembeda": 2274,
+    "namaBahan": "Pipa besi",
+    "nomer": "LP-077-IDN",
+    "nameLab": "Balai Besar Teknologi Kekuatan Struktur (B2TKS), Badan Pengkajian dan Penerapan Teknologi (BPPT) (EXPIRED)"
+  },
+  {
+    "posisipembeda": 2275,
+    "namaBahan": "Pipa PVC",
+    "nomer": "LP-077-IDN",
+    "nameLab": "Balai Besar Teknologi Kekuatan Struktur (B2TKS), Badan Pengkajian dan Penerapan Teknologi (BPPT) (EXPIRED)"
+  },
+  {
+    "posisipembeda": 2276,
+    "namaBahan": "Konstruksi Bangunan/struktur/pemesinan/jembatan",
+    "nomer": "LP-077-IDN",
+    "nameLab": "Balai Besar Teknologi Kekuatan Struktur (B2TKS), Badan Pengkajian dan Penerapan Teknologi (BPPT) (EXPIRED)"
+  },
+  {
+    "posisipembeda": 2277,
+    "namaBahan": "Rotor (pemesinan)",
+    "nomer": "LP-077-IDN",
+    "nameLab": "Balai Besar Teknologi Kekuatan Struktur (B2TKS), Badan Pengkajian dan Penerapan Teknologi (BPPT) (EXPIRED)"
+  },
+  {
+    "posisipembeda": 2278,
+    "namaBahan": "Generator AC dengan penggerak motor bakar Torak",
+    "nomer": "LP-077-IDN",
+    "nameLab": "Balai Besar Teknologi Kekuatan Struktur (B2TKS), Badan Pengkajian dan Penerapan Teknologi (BPPT) (EXPIRED)"
+  },
+  {
+    "posisipembeda": 2279,
+    "namaBahan": "Baja tulangan beton ",
+    "nomer": "LP-077-IDN",
+    "nameLab": "Balai Besar Teknologi Kekuatan Struktur (B2TKS), Badan Pengkajian dan Penerapan Teknologi (BPPT) (EXPIRED)"
+  },
+  {
+    "posisipembeda": 2283,
+    "namaBahan": "Baja profil H hasil pengelasan dengan filler untuk konstruksi umum",
+    "nomer": "LP-077-IDN",
+    "nameLab": "Balai Besar Teknologi Kekuatan Struktur (B2TKS), Badan Pengkajian dan Penerapan Teknologi (BPPT) (EXPIRED)"
+  },
+  {
+    "posisipembeda": 2284,
+    "namaBahan": "Baja profil H hasil pengelasan dengan filler untuk konstruksi umum (BjP H-Beam)",
+    "nomer": "LP-077-IDN",
+    "nameLab": "Balai Besar Teknologi Kekuatan Struktur (B2TKS), Badan Pengkajian dan Penerapan Teknologi (BPPT) (EXPIRED)"
+  },
+  {
+    "posisipembeda": 2289,
+    "namaBahan": "Tali kawat baja untuk minyak dan gas bumi",
+    "nomer": "LP-077-IDN",
+    "nameLab": "Balai Besar Teknologi Kekuatan Struktur (B2TKS), Badan Pengkajian dan Penerapan Teknologi (BPPT) (EXPIRED)"
+  },
+  {
+    "posisipembeda": 2295,
+    "namaBahan": "Kawat baja tanpa lapisan dipilin untuk konstruksi beton pratekan (PC Wire/KBjP)",
+    "nomer": "LP-077-IDN",
+    "nameLab": "Balai Besar Teknologi Kekuatan Struktur (B2TKS), Badan Pengkajian dan Penerapan Teknologi (BPPT) (EXPIRED)"
+  },
+  {
+    "posisipembeda": 2299,
+    "namaBahan": "Tujuh kawat baja tanpa lapisan dipilin untuk konstruksi beton praktekan (PC Strand/KBjP-P7)",
+    "nomer": "LP-077-IDN",
+    "nameLab": "Balai Besar Teknologi Kekuatan Struktur (B2TKS), Badan Pengkajian dan Penerapan Teknologi (BPPT) (EXPIRED)"
+  },
+  {
+    "posisipembeda": 2304,
+    "namaBahan": "Kawat baja kuens (quench) untuk konstruksi beton praktekan (PC bar/KBjP-Q)",
+    "nomer": "LP-077-IDN",
+    "nameLab": "Balai Besar Teknologi Kekuatan Struktur (B2TKS), Badan Pengkajian dan Penerapan Teknologi (BPPT) (EXPIRED)"
+  },
+  {
+    "posisipembeda": 2309,
+    "namaBahan": "Pipa dan pelat baja bergelombang lapis seng",
+    "nomer": "LP-077-IDN",
+    "nameLab": "Balai Besar Teknologi Kekuatan Struktur (B2TKS), Badan Pengkajian dan Penerapan Teknologi (BPPT) (EXPIRED)"
+  },
+  {
+    "posisipembeda": 2313,
+    "namaBahan": "Profil aluminium ekstrusi untuk keperluan konstruksi umum",
+    "nomer": "LP-077-IDN",
+    "nameLab": "Balai Besar Teknologi Kekuatan Struktur (B2TKS), Badan Pengkajian dan Penerapan Teknologi (BPPT) (EXPIRED)"
+  },
+  {
+    "posisipembeda": 2317,
+    "namaBahan": "Pipa baja saluran air dengan atau tanpa lapisan seng",
+    "nomer": "LP-077-IDN",
+    "nameLab": "Balai Besar Teknologi Kekuatan Struktur (B2TKS), Badan Pengkajian dan Penerapan Teknologi (BPPT) (EXPIRED)"
+  },
+  {
+    "posisipembeda": 2321,
+    "namaBahan": "Elektroda las terbungkus baja karbon rendah, mutu dan cara uji",
+    "nomer": "LP-077-IDN",
+    "nameLab": "Balai Besar Teknologi Kekuatan Struktur (B2TKS), Badan Pengkajian dan Penerapan Teknologi (BPPT) (EXPIRED)"
+  },
+  {
+    "posisipembeda": 2329,
+    "namaBahan": "Batang kawat baja karbon rendah untuk  inti kawat las listrik",
+    "nomer": "LP-077-IDN",
+    "nameLab": "Balai Besar Teknologi Kekuatan Struktur (B2TKS), Badan Pengkajian dan Penerapan Teknologi (BPPT) (EXPIRED)"
+  },
+  {
+    "posisipembeda": 2332,
+    "namaBahan": "Ban dalam untuk kndaraan bermotor",
+    "nomer": "LP-077-IDN",
+    "nameLab": "Balai Besar Teknologi Kekuatan Struktur (B2TKS), Badan Pengkajian dan Penerapan Teknologi (BPPT) (EXPIRED)"
+  },
+  {
+    "posisipembeda": 2336,
+    "namaBahan": "Bantalan beton nonblok",
+    "nomer": "LP-077-IDN",
+    "nameLab": "Balai Besar Teknologi Kekuatan Struktur (B2TKS), Badan Pengkajian dan Penerapan Teknologi (BPPT) (EXPIRED)"
+  },
+  {
+    "posisipembeda": 2354,
+    "namaBahan": "Tiang pancang penampang bulat berongga pratarik (spun pile)",
+    "nomer": "LP-077-IDN",
+    "nameLab": "Balai Besar Teknologi Kekuatan Struktur (B2TKS), Badan Pengkajian dan Penerapan Teknologi (BPPT) (EXPIRED)"
+  },
+  {
+    "posisipembeda": 2356,
+    "namaBahan": "Tiang pancang penampang persegi  pratarik (Square pile)",
+    "nomer": "LP-077-IDN",
+    "nameLab": "Balai Besar Teknologi Kekuatan Struktur (B2TKS), Badan Pengkajian dan Penerapan Teknologi (BPPT) (EXPIRED)"
+  },
+  {
+    "posisipembeda": 2358,
+    "namaBahan": "Tiang beton partegang Sheet pile/CCSP, Flat sheet pile",
+    "nomer": "LP-077-IDN",
+    "nameLab": "Balai Besar Teknologi Kekuatan Struktur (B2TKS), Badan Pengkajian dan Penerapan Teknologi (BPPT) (EXPIRED)"
+  },
+  {
+    "posisipembeda": 2360,
+    "namaBahan": "Pole beton prategang (catenary pole)",
+    "nomer": "LP-077-IDN",
+    "nameLab": "Balai Besar Teknologi Kekuatan Struktur (B2TKS), Badan Pengkajian dan Penerapan Teknologi (BPPT) (EXPIRED)"
+  },
+  {
+    "posisipembeda": 2362,
+    "namaBahan": "Baja tulangan beton ",
+    "nomer": "LP-077-IDN",
+    "nameLab": "Balai Besar Teknologi Kekuatan Struktur (B2TKS), Badan Pengkajian dan Penerapan Teknologi (BPPT) (EXPIRED)"
+  },
+  {
+    "posisipembeda": 2367,
+    "namaBahan": "Baja tulangan beton, bahan logam, wire mesh",
+    "nomer": "LP-077-IDN",
+    "nameLab": "Balai Besar Teknologi Kekuatan Struktur (B2TKS), Badan Pengkajian dan Penerapan Teknologi (BPPT) (EXPIRED)"
+  },
+  {
+    "posisipembeda": 2369,
+    "namaBahan": "Bead wire",
+    "nomer": "LP-077-IDN",
+    "nameLab": "Balai Besar Teknologi Kekuatan Struktur (B2TKS), Badan Pengkajian dan Penerapan Teknologi (BPPT) (EXPIRED)"
+  },
+  {
+    "posisipembeda": 2375,
+    "namaBahan": "Wire mesh",
+    "nomer": "LP-077-IDN",
+    "nameLab": "Balai Besar Teknologi Kekuatan Struktur (B2TKS), Badan Pengkajian dan Penerapan Teknologi (BPPT) (EXPIRED)"
+  },
+  {
+    "posisipembeda": 2378,
+    "namaBahan": "Seng dan paduan",
+    "nomer": "LP-077-IDN",
+    "nameLab": "Balai Besar Teknologi Kekuatan Struktur (B2TKS), Badan Pengkajian dan Penerapan Teknologi (BPPT) (EXPIRED)"
+  },
+  {
+    "posisipembeda": 2379,
+    "namaBahan": "Copper dan paduan",
+    "nomer": "LP-077-IDN",
+    "nameLab": "Balai Besar Teknologi Kekuatan Struktur (B2TKS), Badan Pengkajian dan Penerapan Teknologi (BPPT) (EXPIRED)"
+  },
+  {
+    "posisipembeda": 2380,
+    "namaBahan": "Logam stainless steel",
+    "nomer": "LP-077-IDN",
+    "nameLab": "Balai Besar Teknologi Kekuatan Struktur (B2TKS), Badan Pengkajian dan Penerapan Teknologi (BPPT) (EXPIRED)"
+  },
+  {
+    "posisipembeda": 2382,
+    "namaBahan": "Bahan bakar minyak jenis bensin",
+    "nomer": "LP-081-IDN",
+    "nameLab": "Laboratorium Aplikasi Pusat Penelitian dan Pengembangan Teknologi Minyak dan Gas bumi ‘LEMIGAS”"
+  },
+  {
+    "posisipembeda": 2388,
+    "namaBahan": "Bahan bakar minyak jenis minyak solar",
+    "nomer": "LP-081-IDN",
+    "nameLab": "Laboratorium Aplikasi Pusat Penelitian dan Pengembangan Teknologi Minyak dan Gas bumi ‘LEMIGAS”"
+  },
+  {
+    "posisipembeda": 2401,
+    "namaBahan": "Bahan Bakar Minyak",
+    "nomer": "LP-081-IDN",
+    "nameLab": "Laboratorium Aplikasi Pusat Penelitian dan Pengembangan Teknologi Minyak dan Gas bumi ‘LEMIGAS”"
+  },
+  {
+    "posisipembeda": 2406,
+    "namaBahan": "Bahan Bakar Minyak  Jenis Minyak Diesel",
+    "nomer": "LP-081-IDN",
+    "nameLab": "Laboratorium Aplikasi Pusat Penelitian dan Pengembangan Teknologi Minyak dan Gas bumi ‘LEMIGAS”"
+  },
+  {
+    "posisipembeda": 2413,
+    "namaBahan": "Bahan Bakar Minyak Jenis Minyak Bakar",
+    "nomer": "LP-081-IDN",
+    "nameLab": "Laboratorium Aplikasi Pusat Penelitian dan Pengembangan Teknologi Minyak dan Gas bumi ‘LEMIGAS”"
+  },
+  {
+    "posisipembeda": 2418,
+    "namaBahan": "Bahan Bakar Jenis Biodesel",
+    "nomer": "LP-081-IDN",
+    "nameLab": "Laboratorium Aplikasi Pusat Penelitian dan Pengembangan Teknologi Minyak dan Gas bumi ‘LEMIGAS”"
+  },
+  {
+    "posisipembeda": 2425,
+    "namaBahan": "Bahan Bakar Jenis Bioetanol",
+    "nomer": "LP-081-IDN",
+    "nameLab": "Laboratorium Aplikasi Pusat Penelitian dan Pengembangan Teknologi Minyak dan Gas bumi ‘LEMIGAS”"
+  },
+  {
+    "posisipembeda": 2432,
+    "namaBahan": "Model pesawat terbang",
+    "nomer": "LP-108-IDN",
+    "nameLab": "Balai Besar Teknologi Aerodinamika, Aeroelastika dan Aeroakustika - Badang Pengkajian dan Penerapan Teknologi (BPPT)"
+  },
+  {
+    "posisipembeda": 2433,
+    "namaBahan": "Mesin-mesin rotasi",
+    "nomer": "LP-108-IDN",
+    "nameLab": "Balai Besar Teknologi Aerodinamika, Aeroelastika dan Aeroakustika - Badang Pengkajian dan Penerapan Teknologi (BPPT)"
+  },
+  {
+    "posisipembeda": 2434,
+    "namaBahan": "Anemometer",
+    "nomer": "LP-108-IDN",
+    "nameLab": "Balai Besar Teknologi Aerodinamika, Aeroelastika dan Aeroakustika - Badang Pengkajian dan Penerapan Teknologi (BPPT)"
+  },
+  {
+    "posisipembeda": 2435,
+    "namaBahan": "Produk yang berputar dan menghasilkan suara / kebisingan (contoh : vacum cleaner, genset, mixer, kipas angin, blender dan sejenisnya",
+    "nomer": "LP-108-IDN",
+    "nameLab": "Balai Besar Teknologi Aerodinamika, Aeroelastika dan Aeroakustika - Badang Pengkajian dan Penerapan Teknologi (BPPT)"
+  },
+  {
+    "posisipembeda": 2438,
+    "namaBahan": "Area pemukiman, industri dan trasnportasi",
+    "nomer": "LP-108-IDN",
+    "nameLab": "Balai Besar Teknologi Aerodinamika, Aeroelastika dan Aeroakustika - Badang Pengkajian dan Penerapan Teknologi (BPPT)"
+  },
+  {
+    "posisipembeda": 2439,
+    "namaBahan": "Model jembatan bentang panjang",
+    "nomer": "LP-108-IDN",
+    "nameLab": "Balai Besar Teknologi Aerodinamika, Aeroelastika dan Aeroakustika - Badang Pengkajian dan Penerapan Teknologi (BPPT)"
+  },
+  {
+    "posisipembeda": 2444,
+    "namaBahan": "Mesin rotari, bangunan gedung",
+    "nomer": "LP-108-IDN",
+    "nameLab": "Balai Besar Teknologi Aerodinamika, Aeroelastika dan Aeroakustika - Badang Pengkajian dan Penerapan Teknologi (BPPT)"
+  },
+  {
+    "posisipembeda": 2446,
+    "namaBahan": "Avtur Jet A-1",
+    "nomer": "LP-116-IDN",
+    "nameLab": "Laboratorium Kilang PT Pertamina (Persero) Unit Pengolahan Unit IV Cilacap "
+  },
+  {
+    "posisipembeda": 2447,
+    "namaBahan": "Avtur Jet A-2",
+    "nomer": "LP-116-IDN",
+    "nameLab": "Laboratorium Kilang PT Pertamina (Persero) Unit Pengolahan Unit IV Cilacap "
+  },
+  {
+    "posisipembeda": 2448,
+    "namaBahan": "Avtur Jet A-3",
+    "nomer": "LP-116-IDN",
+    "nameLab": "Laboratorium Kilang PT Pertamina (Persero) Unit Pengolahan Unit IV Cilacap "
+  },
+  {
+    "posisipembeda": 2449,
+    "namaBahan": "Avtur Jet A-4",
+    "nomer": "LP-116-IDN",
+    "nameLab": "Laboratorium Kilang PT Pertamina (Persero) Unit Pengolahan Unit IV Cilacap "
+  },
+  {
+    "posisipembeda": 2450,
+    "namaBahan": "Avtur Jet A-5",
+    "nomer": "LP-116-IDN",
+    "nameLab": "Laboratorium Kilang PT Pertamina (Persero) Unit Pengolahan Unit IV Cilacap "
+  },
+  {
+    "posisipembeda": 2451,
+    "namaBahan": "Avtur Jet A-6",
+    "nomer": "LP-116-IDN",
+    "nameLab": "Laboratorium Kilang PT Pertamina (Persero) Unit Pengolahan Unit IV Cilacap "
+  },
+  {
+    "posisipembeda": 2452,
+    "namaBahan": "Avtur Jet A-7",
+    "nomer": "LP-116-IDN",
+    "nameLab": "Laboratorium Kilang PT Pertamina (Persero) Unit Pengolahan Unit IV Cilacap "
+  },
+  {
+    "posisipembeda": 2453,
+    "namaBahan": "Avtur Jet A-8",
+    "nomer": "LP-116-IDN",
+    "nameLab": "Laboratorium Kilang PT Pertamina (Persero) Unit Pengolahan Unit IV Cilacap "
+  },
+  {
+    "posisipembeda": 2454,
+    "namaBahan": "Avtur Jet A-9",
+    "nomer": "LP-116-IDN",
+    "nameLab": "Laboratorium Kilang PT Pertamina (Persero) Unit Pengolahan Unit IV Cilacap "
+  },
+  {
+    "posisipembeda": 2455,
+    "namaBahan": "Avtur Jet A-10",
+    "nomer": "LP-116-IDN",
+    "nameLab": "Laboratorium Kilang PT Pertamina (Persero) Unit Pengolahan Unit IV Cilacap "
+  },
+  {
+    "posisipembeda": 2456,
+    "namaBahan": "Avtur Jet A-11",
+    "nomer": "LP-116-IDN",
+    "nameLab": "Laboratorium Kilang PT Pertamina (Persero) Unit Pengolahan Unit IV Cilacap "
+  },
+  {
+    "posisipembeda": 2457,
+    "namaBahan": "Avtur Jet A-12",
+    "nomer": "LP-116-IDN",
+    "nameLab": "Laboratorium Kilang PT Pertamina (Persero) Unit Pengolahan Unit IV Cilacap "
+  },
+  {
+    "posisipembeda": 2458,
+    "namaBahan": "Avtur Jet A-13",
+    "nomer": "LP-116-IDN",
+    "nameLab": "Laboratorium Kilang PT Pertamina (Persero) Unit Pengolahan Unit IV Cilacap "
+  },
+  {
+    "posisipembeda": 2459,
+    "namaBahan": "Avtur Jet A-14",
+    "nomer": "LP-116-IDN",
+    "nameLab": "Laboratorium Kilang PT Pertamina (Persero) Unit Pengolahan Unit IV Cilacap "
+  },
+  {
+    "posisipembeda": 2460,
+    "namaBahan": "Avtur Jet A-15",
+    "nomer": "LP-116-IDN",
+    "nameLab": "Laboratorium Kilang PT Pertamina (Persero) Unit Pengolahan Unit IV Cilacap "
+  },
+  {
+    "posisipembeda": 2461,
+    "namaBahan": "Avtur Jet A-16",
+    "nomer": "LP-116-IDN",
+    "nameLab": "Laboratorium Kilang PT Pertamina (Persero) Unit Pengolahan Unit IV Cilacap "
+  },
+  {
+    "posisipembeda": 2462,
+    "namaBahan": "Avtur Jet A-17",
+    "nomer": "LP-116-IDN",
+    "nameLab": "Laboratorium Kilang PT Pertamina (Persero) Unit Pengolahan Unit IV Cilacap "
+  },
+  {
+    "posisipembeda": 2463,
+    "namaBahan": "Premium",
+    "nomer": "LP-116-IDN",
+    "nameLab": "Laboratorium Kilang PT Pertamina (Persero) Unit Pengolahan Unit IV Cilacap "
+  },
+  {
+    "posisipembeda": 2471,
+    "namaBahan": "Kerosine",
+    "nomer": "LP-116-IDN",
+    "nameLab": "Laboratorium Kilang PT Pertamina (Persero) Unit Pengolahan Unit IV Cilacap "
+  },
+  {
+    "posisipembeda": 2477,
+    "namaBahan": "Minyak solar",
+    "nomer": "LP-116-IDN",
+    "nameLab": "Laboratorium Kilang PT Pertamina (Persero) Unit Pengolahan Unit IV Cilacap "
+  },
+  {
+    "posisipembeda": 2487,
+    "namaBahan": "Industrial - Diesel Fuel (IDF)",
+    "nomer": "LP-116-IDN",
+    "nameLab": "Laboratorium Kilang PT Pertamina (Persero) Unit Pengolahan Unit IV Cilacap "
+  },
+  {
+    "posisipembeda": 2494,
+    "namaBahan": "Marine fuel Oil (MFO)",
+    "nomer": "LP-116-IDN",
+    "nameLab": "Laboratorium Kilang PT Pertamina (Persero) Unit Pengolahan Unit IV Cilacap "
+  },
+  {
+    "posisipembeda": 2500,
+    "namaBahan": "Crude oil & Petroleum products",
+    "nomer": "LP-130-IDN",
+    "nameLab": "PT Intertek Utama Services"
+  },
+  {
+    "posisipembeda": 2501,
+    "namaBahan": "Crude oil ",
+    "nomer": "LP-130-IDN",
+    "nameLab": "PT Intertek Utama Services"
+  },
+  {
+    "posisipembeda": 2504,
+    "namaBahan": "Petroleum product",
+    "nomer": "LP-130-IDN",
+    "nameLab": "PT Intertek Utama Services"
+  },
+  {
+    "posisipembeda": 2513,
+    "namaBahan": "Petroleum products (Liquid Fuels)",
+    "nomer": "LP-130-IDN",
+    "nameLab": "PT Intertek Utama Services"
+  },
+  {
+    "posisipembeda": 2514,
+    "namaBahan": "Petroleum product, Lubricating Oils, and Additives",
+    "nomer": "LP-130-IDN",
+    "nameLab": "PT Intertek Utama Services"
+  },
+  {
+    "posisipembeda": 2515,
+    "namaBahan": "Petroleum products (Light hidrocarbons, spark ignition Engine fuel, Diesel engine fuel, and Engine oil)",
+    "nomer": "LP-130-IDN",
+    "nameLab": "PT Intertek Utama Services"
+  },
+  {
+    "posisipembeda": 2516,
+    "namaBahan": "Oils (Lube oils, Diesel oils, Crude oils)",
+    "nomer": "LP-130-IDN",
+    "nameLab": "PT Intertek Utama Services"
+  },
+  {
+    "posisipembeda": 2519,
+    "namaBahan": "Pertamax",
+    "nomer": "LP-134-IDN",
+    "nameLab": "PT. Pertamina (Persero) Refinery Unit V Balikpapan"
+  },
+  {
+    "posisipembeda": 2530,
+    "namaBahan": "Pertalite",
+    "nomer": "LP-134-IDN",
+    "nameLab": "PT. Pertamina (Persero) Refinery Unit V Balikpapan"
+  },
+  {
+    "posisipembeda": 2541,
+    "namaBahan": "Premium",
+    "nomer": "LP-134-IDN",
+    "nameLab": "PT. Pertamina (Persero) Refinery Unit V Balikpapan"
+  },
+  {
+    "posisipembeda": 2552,
+    "namaBahan": "Naphtha",
+    "nomer": "LP-134-IDN",
+    "nameLab": "PT. Pertamina (Persero) Refinery Unit V Balikpapan"
+  },
+  {
+    "posisipembeda": 2559,
+    "namaBahan": "Avtur",
+    "nomer": "LP-134-IDN",
+    "nameLab": "PT. Pertamina (Persero) Refinery Unit V Balikpapan"
+  },
+  {
+    "posisipembeda": 2576,
+    "namaBahan": "Kerosine",
+    "nomer": "LP-134-IDN",
+    "nameLab": "PT. Pertamina (Persero) Refinery Unit V Balikpapan"
+  },
+  {
+    "posisipembeda": 2582,
+    "namaBahan": "Automotive Diesel Oil (ADO)",
+    "nomer": "LP-134-IDN",
+    "nameLab": "PT. Pertamina (Persero) Refinery Unit V Balikpapan"
+  },
+  {
+    "posisipembeda": 2596,
+    "namaBahan": "Industrial Diesel Oil (IDO)",
+    "nomer": "LP-134-IDN",
+    "nameLab": "PT. Pertamina (Persero) Refinery Unit V Balikpapan"
+  },
+  {
+    "posisipembeda": 2608,
+    "namaBahan": "Industrial Fuel Oil (IFO)",
+    "nomer": "LP-134-IDN",
+    "nameLab": "PT. Pertamina (Persero) Refinery Unit V Balikpapan"
+  },
+  {
+    "posisipembeda": 2616,
+    "namaBahan": "Medium naphtha",
+    "nomer": "LP-143-IDN",
+    "nameLab": "PT Pertamina (Persero) Refinery Unit III Plaju - Laboratory Engineering and Development"
+  },
+  {
+    "posisipembeda": 2623,
+    "namaBahan": "Premium",
+    "nomer": "LP-143-IDN",
+    "nameLab": "PT Pertamina (Persero) Refinery Unit III Plaju - Laboratory Engineering and Development"
+  },
+  {
+    "posisipembeda": 2632,
+    "namaBahan": "Pertamax",
+    "nomer": "LP-143-IDN",
+    "nameLab": "PT Pertamina (Persero) Refinery Unit III Plaju - Laboratory Engineering and Development"
+  },
+  {
+    "posisipembeda": 2640,
+    "namaBahan": "Avtur",
+    "nomer": "LP-143-IDN",
+    "nameLab": "PT Pertamina (Persero) Refinery Unit III Plaju - Laboratory Engineering and Development"
+  },
+  {
+    "posisipembeda": 2657,
+    "namaBahan": "Kerosine",
+    "nomer": "LP-143-IDN",
+    "nameLab": "PT Pertamina (Persero) Refinery Unit III Plaju - Laboratory Engineering and Development"
+  },
+  {
+    "posisipembeda": 2663,
+    "namaBahan": "Solar & Solar Plus",
+    "nomer": "LP-143-IDN",
+    "nameLab": "PT Pertamina (Persero) Refinery Unit III Plaju - Laboratory Engineering and Development"
+  },
+  {
+    "posisipembeda": 2675,
+    "namaBahan": "Industrial Diesel Fuel",
+    "nomer": "LP-143-IDN",
+    "nameLab": "PT Pertamina (Persero) Refinery Unit III Plaju - Laboratory Engineering and Development"
+  },
+  {
+    "posisipembeda": 2683,
+    "namaBahan": "Premium",
+    "nomer": "LP-144-IDN",
+    "nameLab": "Laboratorium Unit Pengolahan II Dumai, PT Pertamina Persero"
+  },
+  {
+    "posisipembeda": 2694,
+    "namaBahan": "Kerosine",
+    "nomer": "LP-144-IDN",
+    "nameLab": "Laboratorium Unit Pengolahan II Dumai, PT Pertamina Persero"
+  },
+  {
+    "posisipembeda": 2701,
+    "namaBahan": "Solar",
+    "nomer": "LP-144-IDN",
+    "nameLab": "Laboratorium Unit Pengolahan II Dumai, PT Pertamina Persero"
+  },
+  {
+    "posisipembeda": 2712,
+    "namaBahan": "Avtur/ Jet A-1",
+    "nomer": "LP-144-IDN",
+    "nameLab": "Laboratorium Unit Pengolahan II Dumai, PT Pertamina Persero"
+  },
+  {
+    "posisipembeda": 2713,
+    "namaBahan": "Avtur/ Jet A-2",
+    "nomer": "LP-144-IDN",
+    "nameLab": "Laboratorium Unit Pengolahan II Dumai, PT Pertamina Persero"
+  },
+  {
+    "posisipembeda": 2714,
+    "namaBahan": "Avtur/ Jet A-3",
+    "nomer": "LP-144-IDN",
+    "nameLab": "Laboratorium Unit Pengolahan II Dumai, PT Pertamina Persero"
+  },
+  {
+    "posisipembeda": 2715,
+    "namaBahan": "Avtur/ Jet A-4",
+    "nomer": "LP-144-IDN",
+    "nameLab": "Laboratorium Unit Pengolahan II Dumai, PT Pertamina Persero"
+  },
+  {
+    "posisipembeda": 2716,
+    "namaBahan": "Avtur/ Jet A-5",
+    "nomer": "LP-144-IDN",
+    "nameLab": "Laboratorium Unit Pengolahan II Dumai, PT Pertamina Persero"
+  },
+  {
+    "posisipembeda": 2717,
+    "namaBahan": "Avtur/ Jet A-6",
+    "nomer": "LP-144-IDN",
+    "nameLab": "Laboratorium Unit Pengolahan II Dumai, PT Pertamina Persero"
+  },
+  {
+    "posisipembeda": 2718,
+    "namaBahan": "Avtur/ Jet A-7",
+    "nomer": "LP-144-IDN",
+    "nameLab": "Laboratorium Unit Pengolahan II Dumai, PT Pertamina Persero"
+  },
+  {
+    "posisipembeda": 2719,
+    "namaBahan": "Avtur/ Jet A-8",
+    "nomer": "LP-144-IDN",
+    "nameLab": "Laboratorium Unit Pengolahan II Dumai, PT Pertamina Persero"
+  },
+  {
+    "posisipembeda": 2720,
+    "namaBahan": "Avtur/ Jet A-10",
+    "nomer": "LP-144-IDN",
+    "nameLab": "Laboratorium Unit Pengolahan II Dumai, PT Pertamina Persero"
+  },
+  {
+    "posisipembeda": 2721,
+    "namaBahan": " Gasoline (Pertamax)",
+    "nomer": "LP-145-IDN",
+    "nameLab": "Laboratorium Unit Produksi PT Pertamina (Persero) Unit Pengolahan VI Balongan "
+  },
+  {
+    "posisipembeda": 2731,
+    "namaBahan": "Gasoline (Pertamax Plus)",
+    "nomer": "LP-145-IDN",
+    "nameLab": "Laboratorium Unit Produksi PT Pertamina (Persero) Unit Pengolahan VI Balongan "
+  },
+  {
+    "posisipembeda": 2741,
+    "namaBahan": "Solar",
+    "nomer": "LP-145-IDN",
+    "nameLab": "Laboratorium Unit Produksi PT Pertamina (Persero) Unit Pengolahan VI Balongan "
+  },
+  {
+    "posisipembeda": 2754,
+    "namaBahan": "Low Alloy Steel",
+    "nomer": "LP-158-IDN",
+    "nameLab": "Balai Laboratorium Bea dan Cukai Kelas I Jakarta"
+  },
+  {
+    "posisipembeda": 2767,
+    "namaBahan": "filter",
+    "nomer": "LP-159-IDN",
+    "nameLab": "PT Selamat Sempurna Tbk."
+  },
+  {
+    "posisipembeda": 2775,
+    "namaBahan": "Oil and fuel filter",
+    "nomer": "LP-159-IDN",
+    "nameLab": "PT Selamat Sempurna Tbk."
+  },
+  {
+    "posisipembeda": 2777,
+    "namaBahan": "Oil filter",
+    "nomer": "LP-159-IDN",
+    "nameLab": "PT Selamat Sempurna Tbk."
+  },
+  {
+    "posisipembeda": 2783,
+    "namaBahan": "Spin-on filter Fuel Filter",
+    "nomer": "LP-159-IDN",
+    "nameLab": "PT Selamat Sempurna Tbk."
+  },
+  {
+    "posisipembeda": 2791,
+    "namaBahan": "Fuel filter",
+    "nomer": "LP-159-IDN",
+    "nameLab": "PT Selamat Sempurna Tbk."
+  },
+  {
+    "posisipembeda": 2793,
+    "namaBahan": "Air Fillter",
+    "nomer": "LP-159-IDN",
+    "nameLab": "PT Selamat Sempurna Tbk."
+  },
+  {
+    "posisipembeda": 2804,
+    "namaBahan": "Packing fillter",
+    "nomer": "LP-159-IDN",
+    "nameLab": "PT Selamat Sempurna Tbk."
+  },
+  {
+    "posisipembeda": 2806,
+    "namaBahan": "spring",
+    "nomer": "LP-159-IDN",
+    "nameLab": "PT Selamat Sempurna Tbk."
+  },
+  {
+    "posisipembeda": 2807,
+    "namaBahan": "Paper  for fillter",
+    "nomer": "LP-159-IDN",
+    "nameLab": "PT Selamat Sempurna Tbk."
+  },
+  {
+    "posisipembeda": 2813,
+    "namaBahan": "Benda uji dan daerah kerja",
+    "nomer": "LP-206-IDN",
+    "nameLab": "Pusat Teknologi Keselamatan dan Metrologi Radiasi - BATAN"
+  },
+  {
+    "posisipembeda": 2814,
+    "namaBahan": "Benda terkontaminasi radioaktif",
+    "nomer": "LP-206-IDN",
+    "nameLab": "Pusat Teknologi Keselamatan dan Metrologi Radiasi - BATAN"
+  },
+  {
+    "posisipembeda": 2815,
+    "namaBahan": "Dosimeter termoluminesensi (TLD)",
+    "nomer": "LP-206-IDN",
+    "nameLab": "Pusat Teknologi Keselamatan dan Metrologi Radiasi - BATAN"
+  },
+  {
+    "posisipembeda": 2817,
+    "namaBahan": "Bungkusan zat radioaktif tipe A",
+    "nomer": "LP-206-IDN",
+    "nameLab": "Pusat Teknologi Keselamatan dan Metrologi Radiasi - BATAN"
+  },
+  {
+    "posisipembeda": 2818,
+    "namaBahan": "Bungkusan zat radioaktif tipe B",
+    "nomer": "LP-206-IDN",
+    "nameLab": "Pusat Teknologi Keselamatan dan Metrologi Radiasi - BATAN"
+  },
+  {
+    "posisipembeda": 2819,
+    "namaBahan": "Pesawat sinar X radiografi : umum/mobile",
+    "nomer": "LP-206-IDN",
+    "nameLab": "Pusat Teknologi Keselamatan dan Metrologi Radiasi - BATAN"
+  },
+  {
+    "posisipembeda": 2820,
+    "namaBahan": "Pesawat sinar X radiografi Gigi intraoral",
+    "nomer": "LP-206-IDN",
+    "nameLab": "Pusat Teknologi Keselamatan dan Metrologi Radiasi - BATAN"
+  },
+  {
+    "posisipembeda": 2821,
+    "namaBahan": "Pesawat sinar X radiografi : Gigi",
+    "nomer": "LP-206-IDN",
+    "nameLab": "Pusat Teknologi Keselamatan dan Metrologi Radiasi - BATAN"
+  },
+  {
+    "posisipembeda": 2822,
+    "namaBahan": "Pesawat sinar X radiografi : Mammografi",
+    "nomer": "LP-206-IDN",
+    "nameLab": "Pusat Teknologi Keselamatan dan Metrologi Radiasi - BATAN"
+  },
+  {
+    "posisipembeda": 2823,
+    "namaBahan": "Pesawat sinar X radiografi : Fluoroskopi",
+    "nomer": "LP-206-IDN",
+    "nameLab": "Pusat Teknologi Keselamatan dan Metrologi Radiasi - BATAN"
+  },
+  {
+    "posisipembeda": 2824,
+    "namaBahan": "Pesawat sinar X radiografi : CT-Scan",
+    "nomer": "LP-206-IDN",
+    "nameLab": "Pusat Teknologi Keselamatan dan Metrologi Radiasi - BATAN"
+  },
+  {
+    "posisipembeda": 2825,
+    "namaBahan": "Pompa air listrik",
+    "nomer": "LP-213-IDN",
+    "nameLab": "Balai Riset dan Standardisasi Industri Surabaya"
+  },
+  {
+    "posisipembeda": 2827,
+    "namaBahan": "Lemari pendingin",
+    "nomer": "LP-213-IDN",
+    "nameLab": "Balai Riset dan Standardisasi Industri Surabaya"
+  },
+  {
+    "posisipembeda": 2829,
+    "namaBahan": "Aki Kendaraan Bermotor Roda Empat atau lebih",
+    "nomer": "LP-213-IDN",
+    "nameLab": "Balai Riset dan Standardisasi Industri Surabaya"
+  },
+  {
+    "posisipembeda": 2830,
+    "namaBahan": "Aki Kendaraan Bermotor Kategori L",
+    "nomer": "LP-213-IDN",
+    "nameLab": "Balai Riset dan Standardisasi Industri Surabaya"
+  },
+  {
+    "posisipembeda": 2831,
+    "namaBahan": "Baja tulangan beton SNI 07-2052-2002",
+    "nomer": "LP-213-IDN",
+    "nameLab": "Balai Riset dan Standardisasi Industri Surabaya"
+  },
+  {
+    "posisipembeda": 2832,
+    "namaBahan": "Baja tulangan beton SNI 07-2052-2003",
+    "nomer": "LP-213-IDN",
+    "nameLab": "Balai Riset dan Standardisasi Industri Surabaya"
+  },
+  {
+    "posisipembeda": 2833,
+    "namaBahan": "Baja tulangan beton SNI 07-2052-2004",
+    "nomer": "LP-213-IDN",
+    "nameLab": "Balai Riset dan Standardisasi Industri Surabaya"
+  },
+  {
+    "posisipembeda": 2834,
+    "namaBahan": "Baja tulangan beton SNI 07-2052-2005",
+    "nomer": "LP-213-IDN",
+    "nameLab": "Balai Riset dan Standardisasi Industri Surabaya"
+  },
+  {
+    "posisipembeda": 2835,
+    "namaBahan": "Baja tulangan beton SNI 07-2052-2006",
+    "nomer": "LP-213-IDN",
+    "nameLab": "Balai Riset dan Standardisasi Industri Surabaya"
+  },
+  {
+    "posisipembeda": 2836,
+    "namaBahan": "Baja tulangan beton SNI 07-2052-2007",
+    "nomer": "LP-213-IDN",
+    "nameLab": "Balai Riset dan Standardisasi Industri Surabaya"
+  },
+  {
+    "posisipembeda": 2837,
+    "namaBahan": "Baja tulangan beton SNI 07-2052-2008",
+    "nomer": "LP-213-IDN",
+    "nameLab": "Balai Riset dan Standardisasi Industri Surabaya"
+  },
+  {
+    "posisipembeda": 2838,
+    "namaBahan": "Baja tulangan beton SNI 07-2052-2009",
+    "nomer": "LP-213-IDN",
+    "nameLab": "Balai Riset dan Standardisasi Industri Surabaya"
+  },
+  {
+    "posisipembeda": 2839,
+    "namaBahan": "Baja tulangan beton SNI 07-2052-2010",
+    "nomer": "LP-213-IDN",
+    "nameLab": "Balai Riset dan Standardisasi Industri Surabaya"
+  },
+  {
+    "posisipembeda": 2840,
+    "namaBahan": "Baja tulangan beton SNI 07-2052-2011",
+    "nomer": "LP-213-IDN",
+    "nameLab": "Balai Riset dan Standardisasi Industri Surabaya"
+  },
+  {
+    "posisipembeda": 2841,
+    "namaBahan": "Baja Tulangan Beton Canai Panas Ulang SNI 07-0065-2002",
+    "nomer": "LP-213-IDN",
+    "nameLab": "Balai Riset dan Standardisasi Industri Surabaya"
+  },
+  {
+    "posisipembeda": 2846,
+    "namaBahan": "Baja Tulangan Beton dalam bentuk  Gulungan  SNI 07-0954-2005",
+    "nomer": "LP-213-IDN",
+    "nameLab": "Balai Riset dan Standardisasi Industri Surabaya"
+  },
+  {
+    "posisipembeda": 2851,
+    "namaBahan": "Kawat Baja Karbon Rendah SNI-07-0040-2005",
+    "nomer": "LP-213-IDN",
+    "nameLab": "Balai Riset dan Standardisasi Industri Surabaya"
+  },
+  {
+    "posisipembeda": 2852,
+    "namaBahan": "Kawat Baja Karbon Rendah SNI-07-0040-2006",
+    "nomer": "LP-213-IDN",
+    "nameLab": "Balai Riset dan Standardisasi Industri Surabaya"
+  },
+  {
+    "posisipembeda": 2858,
+    "namaBahan": "Kawat bronjong SNI 03-6154-1999",
+    "nomer": "LP-213-IDN",
+    "nameLab": "Balai Riset dan Standardisasi Industri Surabaya"
+  },
+  {
+    "posisipembeda": 2865,
+    "namaBahan": "Bronjong kawat SNI 03-0090-1999",
+    "nomer": "LP-213-IDN",
+    "nameLab": "Balai Riset dan Standardisasi Industri Surabaya"
+  },
+  {
+    "posisipembeda": 2867,
+    "namaBahan": "Baja lembaran lapis seng SNI 07-2050-2006",
+    "nomer": "LP-213-IDN",
+    "nameLab": "Balai Riset dan Standardisasi Industri Surabaya"
+  },
+  {
+    "posisipembeda": 2876,
+    "namaBahan": "Baja Profil Siku Sama Kaki Proses Canai Panas SNI -07-2054-2006",
+    "nomer": "LP-213-IDN",
+    "nameLab": "Balai Riset dan Standardisasi Industri Surabaya"
+  },
+  {
+    "posisipembeda": 2892,
+    "namaBahan": "Baja lembaran dan gulungan Canai Dingin SNI 07-3567-2006",
+    "nomer": "LP-213-IDN",
+    "nameLab": "Balai Riset dan Standardisasi Industri Surabaya"
+  },
+  {
+    "posisipembeda": 2909,
+    "namaBahan": "Baja Profil Kanal U Proses Canai Panas SNI 07-0052-2006",
+    "nomer": "LP-213-IDN",
+    "nameLab": "Balai Riset dan Standardisasi Industri Surabaya"
+  },
+  {
+    "posisipembeda": 2926,
+    "namaBahan": "Baja lembaran, pelat dan gulungan canai panas SNI 07-0610-2006",
+    "nomer": "LP-213-IDN",
+    "nameLab": "Balai Riset dan Standardisasi Industri Surabaya"
+  },
+  {
+    "posisipembeda": 2943,
+    "namaBahan": "Baja lembaran dan gulungan lapis paduan alumunium-seng SNI 4096 : 2007",
+    "nomer": "LP-213-IDN",
+    "nameLab": "Balai Riset dan Standardisasi Industri Surabaya"
+  },
+  {
+    "posisipembeda": 2961,
+    "namaBahan": "Baja profil I-beam proses canai panas SNI 07-0329-2005",
+    "nomer": "LP-213-IDN",
+    "nameLab": "Balai Riset dan Standardisasi Industri Surabaya"
+  },
+  {
+    "posisipembeda": 2978,
+    "namaBahan": "Baja profil WF-beam proses canai panas SNI 07-0329-2005",
+    "nomer": "LP-213-IDN",
+    "nameLab": "Balai Riset dan Standardisasi Industri Surabaya"
+  },
+  {
+    "posisipembeda": 2996,
+    "namaBahan": "Tali kawat Baja Untuk Minyak dan Gas Bumi SNI 07-0322-1989",
+    "nomer": "LP-213-IDN",
+    "nameLab": "Balai Riset dan Standardisasi Industri Surabaya"
+  },
+  {
+    "posisipembeda": 3021,
+    "namaBahan": "Tali kawat baja SNI 0076 : 2008",
+    "nomer": "LP-213-IDN",
+    "nameLab": "Balai Riset dan Standardisasi Industri Surabaya"
+  },
+  {
+    "posisipembeda": 3043,
+    "namaBahan": "Baja batangan untuk keperluan umum SNI 7614 : 2010",
+    "nomer": "LP-213-IDN",
+    "nameLab": "Balai Riset dan Standardisasi Industri Surabaya"
+  },
+  {
+    "posisipembeda": 3044,
+    "namaBahan": "Baja batangan untuk keperluan umum SNI 7614 : 2011",
+    "nomer": "LP-213-IDN",
+    "nameLab": "Balai Riset dan Standardisasi Industri Surabaya"
+  },
+  {
+    "posisipembeda": 3045,
+    "namaBahan": "Baja batangan untuk keperluan umum SNI 7614 : 2012",
+    "nomer": "LP-213-IDN",
+    "nameLab": "Balai Riset dan Standardisasi Industri Surabaya"
+  },
+  {
+    "posisipembeda": 3046,
+    "namaBahan": "Baja batangan untuk keperluan umum SNI 7614 : 2013",
+    "nomer": "LP-213-IDN",
+    "nameLab": "Balai Riset dan Standardisasi Industri Surabaya"
+  },
+  {
+    "posisipembeda": 3047,
+    "namaBahan": "Baja batangan untuk keperluan umum SNI 7614 : 2014",
+    "nomer": "LP-213-IDN",
+    "nameLab": "Balai Riset dan Standardisasi Industri Surabaya"
+  },
+  {
+    "posisipembeda": 3048,
+    "namaBahan": "Baja batangan untuk keperluan umum SNI 7614 : 2015",
+    "nomer": "LP-213-IDN",
+    "nameLab": "Balai Riset dan Standardisasi Industri Surabaya"
+  },
+  {
+    "posisipembeda": 3049,
+    "namaBahan": "Baja batangan untuk keperluan umum SNI 7614 : 2016",
+    "nomer": "LP-213-IDN",
+    "nameLab": "Balai Riset dan Standardisasi Industri Surabaya"
+  },
+  {
+    "posisipembeda": 3050,
+    "namaBahan": "Baja batangan untuk keperluan umum SNI 7614 : 2017",
+    "nomer": "LP-213-IDN",
+    "nameLab": "Balai Riset dan Standardisasi Industri Surabaya"
+  },
+  {
+    "posisipembeda": 3051,
+    "namaBahan": "Baja batangan untuk keperluan umum SNI 7614 : 2018",
+    "nomer": "LP-213-IDN",
+    "nameLab": "Balai Riset dan Standardisasi Industri Surabaya"
+  },
+  {
+    "posisipembeda": 3052,
+    "namaBahan": "Baja batangan untuk keperluan umum SNI 7614 : 2019",
+    "nomer": "LP-213-IDN",
+    "nameLab": "Balai Riset dan Standardisasi Industri Surabaya"
+  },
+  {
+    "posisipembeda": 3053,
+    "namaBahan": "Baja batangan untuk keperluan umum SNI 7614 : 2020",
+    "nomer": "LP-213-IDN",
+    "nameLab": "Balai Riset dan Standardisasi Industri Surabaya"
+  },
+  {
+    "posisipembeda": 3054,
+    "namaBahan": "Baja batangan untuk keperluan umum SNI 7614 : 2021",
+    "nomer": "LP-213-IDN",
+    "nameLab": "Balai Riset dan Standardisasi Industri Surabaya"
+  },
+  {
+    "posisipembeda": 3055,
+    "namaBahan": "Baja profil H (Bj P H-beam)",
+    "nomer": "LP-213-IDN",
+    "nameLab": "Balai Riset dan Standardisasi Industri Surabaya"
+  },
+  {
+    "posisipembeda": 3079,
+    "namaBahan": "Baja tulangan beton  (SNI 2052 : 2014)",
+    "nomer": "LP-213-IDN",
+    "nameLab": "Balai Riset dan Standardisasi Industri Surabaya"
+  },
+  {
+    "posisipembeda": 3092,
+    "namaBahan": "Pipa baja saluran air dengan atau tanpa lapisan seng ( SNI 0039 : 2013)",
+    "nomer": "LP-213-IDN",
+    "nameLab": "Balai Riset dan Standardisasi Industri Surabaya"
+  },
+  {
+    "posisipembeda": 3100,
+    "namaBahan": "Baja Tulangan Beton  (SNI 2052 : 2017)",
+    "nomer": "LP-213-IDN",
+    "nameLab": "Balai Riset dan Standardisasi Industri Surabaya"
+  },
+  {
+    "posisipembeda": 3109,
+    "namaBahan": "Baja tahan karat canai dingin bentuk lembaran dan gulungan (Bj TK D ) (SNI 7840 : 2012)",
+    "nomer": "LP-213-IDN",
+    "nameLab": "Balai Riset dan Standardisasi Industri Surabaya"
+  },
+  {
+    "posisipembeda": 3119,
+    "namaBahan": "Batang kawat Baja Karbon Remdah (SNI 07-0053-2006)",
+    "nomer": "LP-213-IDN",
+    "nameLab": "Balai Riset dan Standardisasi Industri Surabaya"
+  },
+  {
+    "posisipembeda": 3128,
+    "namaBahan": "Mesin motor bakar",
+    "nomer": "LP-238-IDN",
+    "nameLab": "Balai Teknologi Termodinamika Motor dan Propulsi - BPPT"
+  },
+  {
+    "posisipembeda": 3131,
+    "namaBahan": "Mesin Motor bakar (Diesel Silinder Tunggal)",
+    "nomer": "LP-238-IDN",
+    "nameLab": "Balai Teknologi Termodinamika Motor dan Propulsi - BPPT"
+  },
+  {
+    "posisipembeda": 3135,
+    "namaBahan": "Mesin Motor Bakar (Road Use Vehicle)",
+    "nomer": "LP-238-IDN",
+    "nameLab": "Balai Teknologi Termodinamika Motor dan Propulsi - BPPT"
+  },
+  {
+    "posisipembeda": 3140,
+    "namaBahan": "Mesin Motor Bakar (Non Automatic Engine)",
+    "nomer": "LP-238-IDN",
+    "nameLab": "Balai Teknologi Termodinamika Motor dan Propulsi - BPPT"
+  },
+  {
+    "posisipembeda": 3144,
+    "namaBahan": "Kendaraan termotor roda empat",
+    "nomer": "LP-238-IDN",
+    "nameLab": "Balai Teknologi Termodinamika Motor dan Propulsi - BPPT"
+  },
+  {
+    "posisipembeda": 3148,
+    "namaBahan": "Mesin Motor Bakar (Diesel Silinder Tunggal)",
+    "nomer": "LP-238-IDN",
+    "nameLab": "Balai Teknologi Termodinamika Motor dan Propulsi - BPPT"
+  },
+  {
+    "posisipembeda": 3149,
+    "namaBahan": "Kendaraan termotor roda empat",
+    "nomer": "LP-238-IDN",
+    "nameLab": "Balai Teknologi Termodinamika Motor dan Propulsi - BPPT"
+  },
+  {
+    "posisipembeda": 3153,
+    "namaBahan": "Motor Listrik",
+    "nomer": "LP-238-IDN",
+    "nameLab": "Balai Teknologi Termodinamika Motor dan Propulsi - BPPT"
+  },
+  {
+    "posisipembeda": 3154,
+    "namaBahan": "Ban Mobil Penumpang",
+    "nomer": "LP-250-IDN",
+    "nameLab": "PT Bridgestone Tire Indonesia"
+  },
+  {
+    "posisipembeda": 3155,
+    "namaBahan": "Rim:  10\", 12\", 13\", 14\", 15\", 16\", 17\", 18\", dan 19\"",
+    "nomer": "LP-250-IDN",
+    "nameLab": "PT Bridgestone Tire Indonesia"
+  },
+  {
+    "posisipembeda": 3161,
+    "namaBahan": "Ban truck dan Bus ",
+    "nomer": "LP-250-IDN",
+    "nameLab": "PT Bridgestone Tire Indonesia"
+  },
+  {
+    "posisipembeda": 3162,
+    "namaBahan": "Rim :  20 \", 22.5\", dan  24 \"",
+    "nomer": "LP-250-IDN",
+    "nameLab": "PT Bridgestone Tire Indonesia"
+  },
+  {
+    "posisipembeda": 3165,
+    "namaBahan": "Ban truck ringan ",
+    "nomer": "LP-250-IDN",
+    "nameLab": "PT Bridgestone Tire Indonesia"
+  },
+  {
+    "posisipembeda": 3166,
+    "namaBahan": "Rim : 10\", 12\", 13\", 14\", 15\", 16\", & 17\"",
+    "nomer": "LP-250-IDN",
+    "nameLab": "PT Bridgestone Tire Indonesia"
+  },
+  {
+    "posisipembeda": 3170,
+    "namaBahan": "Ban Dalam Kendaraan Bermotor",
+    "nomer": "LP-250-IDN",
+    "nameLab": "PT Bridgestone Tire Indonesia"
+  },
+  {
+    "posisipembeda": 3175,
+    "namaBahan": "Tanah",
+    "nomer": "LP-253-IDN",
+    "nameLab": "UPT Pengelola Penyelidikan, Pengujian dan Pengukuran Bina Marga,  Dinas Bina Marga Provinsi DKI Jakarta"
+  },
+  {
+    "posisipembeda": 3193,
+    "namaBahan": "Beton",
+    "nomer": "LP-253-IDN",
+    "nameLab": "UPT Pengelola Penyelidikan, Pengujian dan Pengukuran Bina Marga,  Dinas Bina Marga Provinsi DKI Jakarta"
+  },
+  {
+    "posisipembeda": 3198,
+    "namaBahan": "Jalan",
+    "nomer": "LP-253-IDN",
+    "nameLab": "UPT Pengelola Penyelidikan, Pengujian dan Pengukuran Bina Marga,  Dinas Bina Marga Provinsi DKI Jakarta"
+  },
+  {
+    "posisipembeda": 3201,
+    "namaBahan": "Aspal Semen/Aspal Padat",
+    "nomer": "LP-253-IDN",
+    "nameLab": "UPT Pengelola Penyelidikan, Pengujian dan Pengukuran Bina Marga,  Dinas Bina Marga Provinsi DKI Jakarta"
+  },
+  {
+    "posisipembeda": 3207,
+    "namaBahan": "Agregat kasar (spleet, macadam, screening)",
+    "nomer": "LP-253-IDN",
+    "nameLab": "UPT Pengelola Penyelidikan, Pengujian dan Pengukuran Bina Marga,  Dinas Bina Marga Provinsi DKI Jakarta"
+  },
+  {
+    "posisipembeda": 3212,
+    "namaBahan": "Agregat Haus (Abu Batu)",
+    "nomer": "LP-253-IDN",
+    "nameLab": "UPT Pengelola Penyelidikan, Pengujian dan Pengukuran Bina Marga,  Dinas Bina Marga Provinsi DKI Jakarta"
+  },
+  {
+    "posisipembeda": 3217,
+    "namaBahan": "Pasir (sand beeding)",
+    "nomer": "LP-253-IDN",
+    "nameLab": "UPT Pengelola Penyelidikan, Pengujian dan Pengukuran Bina Marga,  Dinas Bina Marga Provinsi DKI Jakarta"
+  },
+  {
+    "posisipembeda": 3222,
+    "namaBahan": "Pasir pasang",
+    "nomer": "LP-253-IDN",
+    "nameLab": "UPT Pengelola Penyelidikan, Pengujian dan Pengukuran Bina Marga,  Dinas Bina Marga Provinsi DKI Jakarta"
+  },
+  {
+    "posisipembeda": 3225,
+    "namaBahan": "Hotmix (aspal beton)",
+    "nomer": "LP-253-IDN",
+    "nameLab": "UPT Pengelola Penyelidikan, Pengujian dan Pengukuran Bina Marga,  Dinas Bina Marga Provinsi DKI Jakarta"
+  },
+  {
+    "posisipembeda": 3230,
+    "namaBahan": "Jalan, Jembatan, jalan, Sirtu, Makadam",
+    "nomer": "LP-253-IDN",
+    "nameLab": "UPT Pengelola Penyelidikan, Pengujian dan Pengukuran Bina Marga,  Dinas Bina Marga Provinsi DKI Jakarta"
+  },
+  {
+    "posisipembeda": 3242,
+    "namaBahan": "Batubara ",
+    "nomer": "LP-681-IDN",
+    "nameLab": "PT Geoservices Sangatta"
+  },
+  {
+    "posisipembeda": 3300,
+    "namaBahan": "Nikel Ore",
+    "nomer": "LP-690-IDN",
+    "nameLab": "PT. Antam (Persero) Tbk UBPN Maluku Utara"
+  },
+  {
+    "posisipembeda": 3304,
+    "namaBahan": "Batubara ",
+    "nomer": "LP-697-IDN",
+    "nameLab": "PT. Geoservice Kelanis"
+  },
+  {
+    "posisipembeda": 3338,
+    "namaBahan": "Timbangan elektronik",
+    "nomer": "LP-701-IDN",
+    "nameLab": "Balai Pengujian Alat Ukur, Takar, Timbang dan Perlengkapannya - Direktorat Metrologi Bandung"
+  },
+  {
+    "posisipembeda": 3348,
+    "namaBahan": "Meter air",
+    "nomer": "LP-701-IDN",
+    "nameLab": "Balai Pengujian Alat Ukur, Takar, Timbang dan Perlengkapannya - Direktorat Metrologi Bandung"
+  },
+  {
+    "posisipembeda": 3353,
+    "namaBahan": "Prem i u m, Peftamax, Pe rtalite",
+    "nomer": "LP-722-IDN",
+    "nameLab": "Laboratorium Terminal BBM Panjang PT Pertamina "
+  },
+  {
+    "posisipembeda": 3356,
+    "namaBahan": "Solar/Biosolar",
+    "nomer": "LP-722-IDN",
+    "nameLab": "Laboratorium Terminal BBM Panjang PT Pertamina "
+  },
+  {
+    "posisipembeda": 3360,
+    "namaBahan": "Fame",
+    "nomer": "LP-722-IDN",
+    "nameLab": "Laboratorium Terminal BBM Panjang PT Pertamina "
+  },
+  {
+    "posisipembeda": 3363,
+    "namaBahan": "Peftamina Dex, Dexlite",
+    "nomer": "LP-722-IDN",
+    "nameLab": "Laboratorium Terminal BBM Panjang PT Pertamina "
+  },
+  {
+    "posisipembeda": 3367,
+    "namaBahan": "MFO 180",
+    "nomer": "LP-722-IDN",
+    "nameLab": "Laboratorium Terminal BBM Panjang PT Pertamina "
+  },
+  {
+    "posisipembeda": 3368,
+    "namaBahan": "MFO 181",
+    "nomer": "LP-722-IDN",
+    "nameLab": "Laboratorium Terminal BBM Panjang PT Pertamina "
+  },
+  {
+    "posisipembeda": 3369,
+    "namaBahan": "MFO 182",
+    "nomer": "LP-722-IDN",
+    "nameLab": "Laboratorium Terminal BBM Panjang PT Pertamina "
+  },
+  {
+    "posisipembeda": 3370,
+    "namaBahan": "MFO 183",
+    "nomer": "LP-722-IDN",
+    "nameLab": "Laboratorium Terminal BBM Panjang PT Pertamina "
+  },
+  {
+    "posisipembeda": 3371,
+    "namaBahan": "Meter air",
+    "nomer": "LP-723-IDN",
+    "nameLab": "PT Mecoindo Itron"
+  },
+  {
+    "posisipembeda": 3383,
+    "namaBahan": "Batuan",
+    "nomer": "LP-727-IDN",
+    "nameLab": "Laboratorium Geomekanika dan Peralatan Tambang, Institut Teknologi Bandung (ITB)"
+  },
+  {
+    "posisipembeda": 3394,
+    "namaBahan": "Konsentrat Tembaga",
+    "nomer": "LP-728-IDN",
+    "nameLab": "Laboratorium Cabang Timika PT. Sucofindo (Persero)"
+  },
+  {
+    "posisipembeda": 3401,
+    "namaBahan": "Batuan eskplorasi mineral tembaga",
+    "nomer": "LP-728-IDN",
+    "nameLab": "Laboratorium Cabang Timika PT. Sucofindo (Persero)"
+  },
+  {
+    "posisipembeda": 3407,
+    "namaBahan": "Premium, Kerosine, Solar",
+    "nomer": "LP-729-IDN",
+    "nameLab": "Laboratorium PT. Pertamina (Persero) RU VII Kasim Sorong"
+  },
+  {
+    "posisipembeda": 3409,
+    "namaBahan": "Premium",
+    "nomer": "LP-729-IDN",
+    "nameLab": "Laboratorium PT. Pertamina (Persero) RU VII Kasim Sorong"
+  },
+  {
+    "posisipembeda": 3410,
+    "namaBahan": "Solar",
+    "nomer": "LP-729-IDN",
+    "nameLab": "Laboratorium PT. Pertamina (Persero) RU VII Kasim Sorong"
+  },
+  {
+    "posisipembeda": 3412,
+    "namaBahan": "Pipa, pelat, sambungan las dan logam paduannya",
+    "nomer": "LP-733-IDN",
+    "nameLab": "PT Bakrie Pipe Industries"
+  },
+  {
+    "posisipembeda": 3437,
+    "namaBahan": "Manganese Ore",
+    "nomer": "LP-743-IDN",
+    "nameLab": "Laboratorium PT CCIC Jakarta (Multilokasi)"
+  },
+  {
+    "posisipembeda": 3443,
+    "namaBahan": "Bauxite",
+    "nomer": "LP-743-IDN",
+    "nameLab": "Laboratorium PT CCIC Jakarta (Multilokasi)"
+  },
+  {
+    "posisipembeda": 3447,
+    "namaBahan": "Trace Elements in Coal Ash",
+    "nomer": "LP-743-IDN",
+    "nameLab": "Laboratorium PT CCIC Jakarta (Multilokasi)"
+  },
+  {
+    "posisipembeda": 3452,
+    "namaBahan": "Batubara ",
+    "nomer": "LP-743-IDN",
+    "nameLab": "Laboratorium PT CCIC Jakarta (Multilokasi)"
+  },
+  {
+    "posisipembeda": 3470,
+    "namaBahan": "Batubara",
+    "nomer": "LP-743-IDN",
+    "nameLab": "Laboratorium PT CCIC Jakarta (Multilokasi)"
+  },
+  {
+    "posisipembeda": 3501,
+    "namaBahan": "Biji Plastik & Komponen Elektronika",
+    "nomer": "LP-746-IDN",
+    "nameLab": "Laboratorium Badan Pengusahaan Kawasan Perdagangan Bebas dan Pelabuhan Bebas Batam"
+  },
+  {
+    "posisipembeda": 3507,
+    "namaBahan": "Polyolefine coating (Polyethylene / Polypropylene / injection Molded Polypropylene / Heat Shrink Sleeve / polypropylene Foam)",
+    "nomer": "LP-747-IDN",
+    "nameLab": "PT Bredero Shaw Laboratory - Indonesia"
+  },
+  {
+    "posisipembeda": 3509,
+    "namaBahan": "Polyolefine coating (Polyethylene / Polypropylene / injection Molded Polypropylene / Heat Shrink Sleeve)",
+    "nomer": "LP-747-IDN",
+    "nameLab": "PT Bredero Shaw Laboratory - Indonesia"
+  },
+  {
+    "posisipembeda": 3510,
+    "namaBahan": "Polyolefine coating (Polyethylene / Potypropylene / Multilayer / Heat Shrink Sleeve / lnjection Molded / Fusion Bonded Epoxy Coating)",
+    "nomer": "LP-747-IDN",
+    "nameLab": "PT Bredero Shaw Laboratory - Indonesia"
+  },
+  {
+    "posisipembeda": 3511,
+    "namaBahan": "Polyolefine coating on Steel (3Layer Polypropylene / 3Layer Polyethylene / Multi Layer polypropylene / Fusion Bonded Epoxy Coating",
+    "nomer": "LP-747-IDN",
+    "nameLab": "PT Bredero Shaw Laboratory - Indonesia"
+  },
+  {
+    "posisipembeda": 3512,
+    "namaBahan": "Fusion Bonded Epoxy Coating, plastics - polyolefine coating (Polyethylene/ Polypropylene/ Injection Molded Polypropylene/ Polypropylene Foam/Adhesive)",
+    "nomer": "LP-747-IDN",
+    "nameLab": "PT Bredero Shaw Laboratory - Indonesia"
+  },
+  {
+    "posisipembeda": 3513,
+    "namaBahan": "Plastics - Polyolefine Coating (Polyethylene / Polypropylene / lnjection Molded Polypropylene / Heat Shrink Sleeve / Polypropylene Foam / Multi Layer Polypropylene)",
+    "nomer": "LP-747-IDN",
+    "nameLab": "PT Bredero Shaw Laboratory - Indonesia"
+  },
+  {
+    "posisipembeda": 3514,
+    "namaBahan": "Bonded Epoxy coating, Enamel Coating, Polyurethene coating, Polyolefine coating on steel (3Layer PoIypropylene/ 3Layer Polyethylene/ Heat Shrink Sleeve/ Injection Molded Polypropylene)",
+    "nomer": "LP-747-IDN",
+    "nameLab": "PT Bredero Shaw Laboratory - Indonesia"
+  },
+  {
+    "posisipembeda": 3516,
+    "namaBahan": "F usion Bonded Epoxy, Polyethylene, Polypropytene",
+    "nomer": "LP-747-IDN",
+    "nameLab": "PT Bredero Shaw Laboratory - Indonesia"
+  },
+  {
+    "posisipembeda": 3517,
+    "namaBahan": "Fusion Bonded Epoxy Coating / 3Layer Polypropylene coating / 3Layer Polyethylene coating",
+    "nomer": "LP-747-IDN",
+    "nameLab": "PT Bredero Shaw Laboratory - Indonesia"
+  },
+  {
+    "posisipembeda": 3518,
+    "namaBahan": "Fusion Bonded Epoxy Coating",
+    "nomer": "LP-747-IDN",
+    "nameLab": "PT Bredero Shaw Laboratory - Indonesia"
+  },
+  {
+    "posisipembeda": 3519,
+    "namaBahan": "Fusion Bonded Epoxy Coating, Enamel Coating, Polyolefine coating on steel (3Layer Polypropylene / Heat Shrink Sleeve / 3Layer Polyethylene)",
+    "nomer": "LP-747-IDN",
+    "nameLab": "PT Bredero Shaw Laboratory - Indonesia"
+  },
+  {
+    "posisipembeda": 3520,
+    "namaBahan": "Fusion Bonded Epoxy Coating, Enamel Coating, Polyolefine coating on steel (3Layer Polypropylene / 3 Layer Polyethylene)",
+    "nomer": "LP-747-IDN",
+    "nameLab": "PT Bredero Shaw Laboratory - Indonesia"
+  },
+  {
+    "posisipembeda": 3521,
+    "namaBahan": "Fusion Bonded Epoxy Powder",
+    "nomer": "LP-747-IDN",
+    "nameLab": "PT Bredero Shaw Laboratory - Indonesia"
+  },
+  {
+    "posisipembeda": 3523,
+    "namaBahan": "Polyethylene/ Polypropylene/ Adhesive material",
+    "nomer": "LP-747-IDN",
+    "nameLab": "PT Bredero Shaw Laboratory - Indonesia"
+  },
+  {
+    "posisipembeda": 3524,
+    "namaBahan": "Fusion Bonded Epoxy Powder, Fusion Bonded Epoxy Coating",
+    "nomer": "LP-747-IDN",
+    "nameLab": "PT Bredero Shaw Laboratory - Indonesia"
+  },
+  {
+    "posisipembeda": 3525,
+    "namaBahan": "Plastics - Polyolefine Coating (Polyethylene/ Polypropylene/ Injection Molded Polypropylene/ Polypropylene Foam)",
+    "nomer": "LP-747-IDN",
+    "nameLab": "PT Bredero Shaw Laboratory - Indonesia"
+  },
+  {
+    "posisipembeda": 3527,
+    "namaBahan": "Fusion Bonded Epoxy Powder",
+    "nomer": "LP-747-IDN",
+    "nameLab": "PT Bredero Shaw Laboratory - Indonesia"
+  },
+  {
+    "posisipembeda": 3528,
+    "namaBahan": "Plastics - Polyoelfine Coating Material (Polyethylene/ Polyprolene/ Adhesive)",
+    "nomer": "LP-747-IDN",
+    "nameLab": "PT Bredero Shaw Laboratory - Indonesia"
+  },
+  {
+    "posisipembeda": 3530,
+    "namaBahan": "Batubara",
+    "nomer": "LP-754-IDN",
+    "nameLab": "PT IOL Indonesia (Palembang Laboratory)"
+  },
+  {
+    "posisipembeda": 3548,
+    "namaBahan": "Bijih timah",
+    "nomer": "LP-757-IDN",
+    "nameLab": "PT Tambang Timah"
+  },
+  {
+    "posisipembeda": 3554,
+    "namaBahan": "Logam Timah Ekspor",
+    "nomer": "LP-757-IDN",
+    "nameLab": "PT Tambang Timah"
+  },
+  {
+    "posisipembeda": 3565,
+    "namaBahan": "Batubara",
+    "nomer": "LP-760-IDN",
+    "nameLab": "Laboratorium Cabang Tarakan, PT Sucofindo (Persero) (multilokasi)"
+  },
+  {
+    "posisipembeda": 3587,
+    "namaBahan": "Ban mobil penumpang",
+    "nomer": "LP-776-IDN",
+    "nameLab": "PT Hankook Tire Indonesia"
+  },
+  {
+    "posisipembeda": 3611,
+    "namaBahan": "Ban truk ringan",
+    "nomer": "LP-776-IDN",
+    "nameLab": "PT Hankook Tire Indonesia"
+  },
+  {
+    "posisipembeda": 3630,
+    "namaBahan": "Batubara",
+    "nomer": "LP-779-IDN",
+    "nameLab": "PT. SGS Samarinda"
+  },
+  {
+    "posisipembeda": 3673,
+    "namaBahan": "Baja plat, coil, beam dan baja tulangan",
+    "nomer": "LP-786-IDN",
+    "nameLab": "PT Gunung Raja Paksi"
+  },
+  {
+    "posisipembeda": 3706,
+    "namaBahan": "Mesin milling CNC vertical type",
+    "nomer": "LP-804-IDN",
+    "nameLab": "Balai Teknologi Mesin Perkakas, Produksi dan Otomasi (MePPO)"
+  },
+  {
+    "posisipembeda": 3707,
+    "namaBahan": "Mesin bubut CNC",
+    "nomer": "LP-804-IDN",
+    "nameLab": "Balai Teknologi Mesin Perkakas, Produksi dan Otomasi (MePPO)"
+  },
+  {
+    "posisipembeda": 3708,
+    "namaBahan": "Mesin boring CNC",
+    "nomer": "LP-804-IDN",
+    "nameLab": "Balai Teknologi Mesin Perkakas, Produksi dan Otomasi (MePPO)"
+  },
+  {
+    "posisipembeda": 3709,
+    "namaBahan": "Mesin milling CNC vertical type",
+    "nomer": "LP-804-IDN",
+    "nameLab": "Balai Teknologi Mesin Perkakas, Produksi dan Otomasi (MePPO)"
+  },
+  {
+    "posisipembeda": 3710,
+    "namaBahan": "Mesin bubut CNC",
+    "nomer": "LP-804-IDN",
+    "nameLab": "Balai Teknologi Mesin Perkakas, Produksi dan Otomasi (MePPO)"
+  },
+  {
+    "posisipembeda": 3711,
+    "namaBahan": "Mesin boring CNC",
+    "nomer": "LP-804-IDN",
+    "nameLab": "Balai Teknologi Mesin Perkakas, Produksi dan Otomasi (MePPO)"
+  },
+  {
+    "posisipembeda": 3712,
+    "namaBahan": "Artefak hasil mesin milling CNC vertical type",
+    "nomer": "LP-804-IDN",
+    "nameLab": "Balai Teknologi Mesin Perkakas, Produksi dan Otomasi (MePPO)"
+  },
+  {
+    "posisipembeda": 3713,
+    "namaBahan": "Artefak hasil mesin bubut CNC",
+    "nomer": "LP-804-IDN",
+    "nameLab": "Balai Teknologi Mesin Perkakas, Produksi dan Otomasi (MePPO)"
+  },
+  {
+    "posisipembeda": 3714,
+    "namaBahan": "Artefak hasil mesin boring CNC",
+    "nomer": "LP-804-IDN",
+    "nameLab": "Balai Teknologi Mesin Perkakas, Produksi dan Otomasi (MePPO)"
+  },
+  {
+    "posisipembeda": 3715,
+    "namaBahan": "Artefak",
+    "nomer": "LP-804-IDN",
+    "nameLab": "Balai Teknologi Mesin Perkakas, Produksi dan Otomasi (MePPO)"
+  },
+  {
+    "posisipembeda": 3716,
+    "namaBahan": "Ore Nickel",
+    "nomer": "LP-813-IDN",
+    "nameLab": "Laboratory Buraeu Unit Geomin PT Antam (Persero), Tbk"
+  },
+  {
+    "posisipembeda": 3728,
+    "namaBahan": "Ore Bauksit",
+    "nomer": "LP-813-IDN",
+    "nameLab": "Laboratory Buraeu Unit Geomin PT Antam (Persero), Tbk"
+  },
+  {
+    "posisipembeda": 3733,
+    "namaBahan": "Batuan",
+    "nomer": "LP-813-IDN",
+    "nameLab": "Laboratory Buraeu Unit Geomin PT Antam (Persero), Tbk"
+  },
+  {
+    "posisipembeda": 3749,
+    "namaBahan": "Batubara ",
+    "nomer": "LP-818-IDN",
+    "nameLab": "Laboratorium Cabang Jambi, PT Sucofindo (Persero)"
+  },
+  {
+    "posisipembeda": 3816,
+    "namaBahan": "Batubara",
+    "nomer": "LP-837-IDN",
+    "nameLab": "PT Surveyor Carbon Consulting Indonesia Cabang Palembang"
+  },
+  {
+    "posisipembeda": 3836,
+    "namaBahan": "Baubara",
+    "nomer": "LP-844-IDN",
+    "nameLab": "PT Anindya Wiraputra Banjarbaru"
+  },
+  {
+    "posisipembeda": 3878,
+    "namaBahan": "Aki/ batere asam timbal untuk kendaraan automobil",
+    "nomer": "LP-857-IDN",
+    "nameLab": "PT Nipress Energi Otomotif"
+  },
+  {
+    "posisipembeda": 3956,
+    "namaBahan": "Batubara",
+    "nomer": "LP-865-IDN",
+    "nameLab": "PT Carsurin Palembang"
+  },
+  {
+    "posisipembeda": 3975,
+    "namaBahan": "Wood charcoal",
+    "nomer": "LP-865-IDN",
+    "nameLab": "PT Carsurin Palembang"
+  },
+  {
+    "posisipembeda": 3978,
+    "namaBahan": "Automotive component products (plastic, cloth and rubber)",
+    "nomer": "LP-708-IDN",
+    "nameLab": "PT. Qualis Indonesia"
+  },
+  {
+    "posisipembeda": 3981,
+    "namaBahan": "Polyvynil chloride insulated cables of rated voltages up to anda including 450/750 V Part 3 : Non sheathed cables for fixed wiring",
+    "nomer": "LP-708-IDN",
+    "nameLab": "PT. Qualis Indonesia"
+  },
+  {
+    "posisipembeda": 4010,
+    "namaBahan": "Polyvynil chloride insulated cables of rated voltages up to anda including 450/750 V Part 4 : Non sheathed cables for fixed wiring",
+    "nomer": "LP-708-IDN",
+    "nameLab": "PT. Qualis Indonesia"
+  },
+  {
+    "posisipembeda": 4047,
+    "namaBahan": "Polyvynil chloride insulated cables of rated voltages up to anda including 450/750 V Part 3 : Non sheathed cables for fixed wiring",
+    "nomer": "LP-708-IDN",
+    "nameLab": "PT. Qualis Indonesia"
+  },
+  {
+    "posisipembeda": 4051,
+    "namaBahan": "Polyvynil chloride insulated cables of rated voltages up to anda including 450/750 V Part 4 : Non sheathed cables for fixed wiring",
+    "nomer": "LP-708-IDN",
+    "nameLab": "PT. Qualis Indonesia"
+  },
+  {
+    "posisipembeda": 4055,
+    "namaBahan": "Power cables with extruded insulation and their accessories for rated voltage from 1kV (Um = 1.2 kV) up tp 30 kV (Um = 36 kV) part 1 : cables for rated voltages of 1 kV (Um = 1.2 kV) and 3 kV (Um = 36 kV)",
+    "nomer": "LP-708-IDN",
+    "nameLab": "PT. Qualis Indonesia"
+  },
+  {
+    "posisipembeda": 4120,
+    "namaBahan": "Polyvynil chloride insulated cables of rated voltages up to anda including 450/750 V Part 5 : Non sheathed cables for fixed wiring",
+    "nomer": "LP-708-IDN",
+    "nameLab": "PT. Qualis Indonesia"
+  },
+  {
+    "posisipembeda": 4182,
+    "namaBahan": "Plastics-determination of burning behaviour by oxygen index",
+    "nomer": "LP-708-IDN",
+    "nameLab": "PT. Qualis Indonesia"
+  },
+  {
+    "posisipembeda": 4184,
+    "namaBahan": "Nonmetalic materials",
+    "nomer": "LP-708-IDN",
+    "nameLab": "PT. Qualis Indonesia"
+  },
+  {
+    "posisipembeda": 4185,
+    "namaBahan": "Electrical wires, cables and flexible cords",
+    "nomer": "LP-708-IDN",
+    "nameLab": "PT. Qualis Indonesia"
+  },
+  {
+    "posisipembeda": 4186,
+    "namaBahan": "Instrumentation cables",
+    "nomer": "LP-708-IDN",
+    "nameLab": "PT. Qualis Indonesia"
+  },
+  {
+    "posisipembeda": 4190,
+    "namaBahan": "Power cables with extruded insulation and their accessories for rated voltage from 1kV (Um = 1.2 kV) up tp 30 kV (Um = 36 kV) part 2 : cables for rated voltages of 6 kV (Um = 7.2 kV) up to 30 kV (Um = 36 kV)",
+    "nomer": "LP-708-IDN",
+    "nameLab": "PT. Qualis Indonesia"
+  },
+  {
+    "posisipembeda": 4271,
+    "namaBahan": "Power cables with extruded insulation and their accessories for rated voltages above 30 kV up to 150 kV (Um=170 kV)",
+    "nomer": "LP-708-IDN",
+    "nameLab": "PT. Qualis Indonesia"
+  },
+  {
+    "posisipembeda": 4314,
+    "namaBahan": "Automotive parts - Unscreened low voltage cables",
+    "nomer": "LP-708-IDN",
+    "nameLab": "PT. Qualis Indonesia"
+  },
+  {
+    "posisipembeda": 4346,
+    "namaBahan": "Motor bakar",
+    "nomer": "LP-890-IDN",
+    "nameLab": "Pusat Penelitian Tenaga Listrik dan Mekatronik (TELIMEK)-LIPI"
+  },
+  {
+    "posisipembeda": 4351,
+    "namaBahan": "Bahan Bakar",
+    "nomer": "LP-890-IDN",
+    "nameLab": "Pusat Penelitian Tenaga Listrik dan Mekatronik (TELIMEK)-LIPI"
+  },
+  {
+    "posisipembeda": 4356,
+    "namaBahan": "Uji Tarik",
+    "nomer": "LP-929-IDN",
+    "nameLab": "PT Citra Tubindo, Tbk - Metallurgical Laboratory"
+  },
+  {
+    "posisipembeda": 4358,
+    "namaBahan": "Kekerasan Rockwell",
+    "nomer": "LP-929-IDN",
+    "nameLab": "PT Citra Tubindo, Tbk - Metallurgical Laboratory"
+  },
+  {
+    "posisipembeda": 4360,
+    "namaBahan": "Kekerasan Vickers",
+    "nomer": "LP-929-IDN",
+    "nameLab": "PT Citra Tubindo, Tbk - Metallurgical Laboratory"
+  },
+  {
+    "posisipembeda": 4361,
+    "namaBahan": "Uji Impak",
+    "nomer": "LP-929-IDN",
+    "nameLab": "PT Citra Tubindo, Tbk - Metallurgical Laboratory"
+  },
+  {
+    "posisipembeda": 4363,
+    "namaBahan": "Komposisi Material",
+    "nomer": "LP-929-IDN",
+    "nameLab": "PT Citra Tubindo, Tbk - Metallurgical Laboratory"
+  },
+  {
+    "posisipembeda": 4364,
+    "namaBahan": "Element: Fe, Al, As, B, Bi, C, Ca, Co, Cr, Cu, Mg, Mn, Mo, N, Nb, Ni, P, Pb, S, Sb, Si, Sn, Ti, V, W, Zn",
+    "nomer": "LP-929-IDN",
+    "nameLab": "PT Citra Tubindo, Tbk - Metallurgical Laboratory"
+  },
+  {
+    "posisipembeda": 4365,
+    "namaBahan": "Uji Bending",
+    "nomer": "LP-929-IDN",
+    "nameLab": "PT Citra Tubindo, Tbk - Metallurgical Laboratory"
+  },
+  {
+    "posisipembeda": 4368,
+    "namaBahan": "Uji Falttening",
+    "nomer": "LP-929-IDN",
+    "nameLab": "PT Citra Tubindo, Tbk - Metallurgical Laboratory"
+  },
+  {
+    "posisipembeda": 4371,
+    "namaBahan": "Mikrostruktur dan Ukuran butir",
+    "nomer": "LP-929-IDN",
+    "nameLab": "PT Citra Tubindo, Tbk - Metallurgical Laboratory"
+  },
+  {
+    "posisipembeda": 4373,
+    "namaBahan": "Ban Mobil Penumpang",
+    "nomer": "LP-933-IDN",
+    "nameLab": "Tire Laboratory PT TUV Rheinland Indonesia"
+  },
+  {
+    "posisipembeda": 4439,
+    "namaBahan": "Ban Truk Ringan",
+    "nomer": "LP-933-IDN",
+    "nameLab": "Tire Laboratory PT TUV Rheinland Indonesia"
+  },
+  {
+    "posisipembeda": 4496,
+    "namaBahan": "Ban Truk dan Bus",
+    "nomer": "LP-933-IDN",
+    "nameLab": "Tire Laboratory PT TUV Rheinland Indonesia"
+  },
+  {
+    "posisipembeda": 4552,
+    "namaBahan": "Ban Sepedaa Motor",
+    "nomer": "LP-933-IDN",
+    "nameLab": "Tire Laboratory PT TUV Rheinland Indonesia"
+  },
+  {
+    "posisipembeda": 4592,
+    "namaBahan": "Ban Vulkanisir untuk Ban Mobil Penumpang, Ban Truk Ringan, Ban Truk dan Bus, Ban Sepeda Motor",
+    "nomer": "LP-933-IDN",
+    "nameLab": "Tire Laboratory PT TUV Rheinland Indonesia"
+  },
+  {
+    "posisipembeda": 4599,
+    "namaBahan": "Pelek Kendaraan Bermotor kategori M, N dan O",
+    "nomer": "LP-933-IDN",
+    "nameLab": "Tire Laboratory PT TUV Rheinland Indonesia"
+  },
+  {
+    "posisipembeda": 4600,
+    "namaBahan": "Pelek Kendaraan Bermotor Kategori L",
+    "nomer": "LP-933-IDN",
+    "nameLab": "Tire Laboratory PT TUV Rheinland Indonesia"
+  },
+  {
+    "posisipembeda": 4602,
+    "namaBahan": "Baja",
+    "nomer": "LP-958-IDN",
+    "nameLab": "PT Krakatau Posco - Laboratorium Uji Mekanik dan Kimia"
+  },
+  {
+    "posisipembeda": 4660,
+    "namaBahan": "Baja Karbon, Baja Paduan Rendah",
+    "nomer": "LP-958-IDN",
+    "nameLab": "PT Krakatau Posco - Laboratorium Uji Mekanik dan Kimia"
+  },
+  {
+    "posisipembeda": 4665,
+    "namaBahan": "Besi Tuang (Cast Iron)",
+    "nomer": "LP-958-IDN",
+    "nameLab": "PT Krakatau Posco - Laboratorium Uji Mekanik dan Kimia"
+  },
+  {
+    "posisipembeda": 4669,
+    "namaBahan": "Bijih Besi (Iron Ore)",
+    "nomer": "LP-958-IDN",
+    "nameLab": "PT Krakatau Posco - Laboratorium Uji Mekanik dan Kimia"
+  },
+  {
+    "posisipembeda": 4672,
+    "namaBahan": "Batu Kapur (Limestone)",
+    "nomer": "LP-958-IDN",
+    "nameLab": "PT Krakatau Posco - Laboratorium Uji Mekanik dan Kimia"
+  },
+  {
+    "posisipembeda": 4673,
+    "namaBahan": "Air Limbah",
+    "nomer": "LP-958-IDN",
+    "nameLab": "PT Krakatau Posco - Laboratorium Uji Mekanik dan Kimia"
+  },
+  {
+    "posisipembeda": 4693,
+    "namaBahan": "Air Pasokan",
+    "nomer": "LP-958-IDN",
+    "nameLab": "PT Krakatau Posco - Laboratorium Uji Mekanik dan Kimia"
+  },
+  {
+    "posisipembeda": 4717,
+    "namaBahan": "BatuBara",
+    "nomer": "LP-958-IDN",
+    "nameLab": "PT Krakatau Posco - Laboratorium Uji Mekanik dan Kimia"
+  },
+  {
+    "posisipembeda": 4722,
+    "namaBahan": "Baja Lembaran dan Canai Dingin",
+    "nomer": "LP-964-IDN",
+    "nameLab": "Laboratorium Uji Kimia dan Mekanik, PT Krakatau Steel (Persero) Tbk."
+  },
+  {
+    "posisipembeda": 4744,
+    "namaBahan": "Baja Lembaran dan Gulungan Canai Panas",
+    "nomer": "LP-964-IDN",
+    "nameLab": "Laboratorium Uji Kimia dan Mekanik, PT Krakatau Steel (Persero) Tbk."
+  },
+  {
+    "posisipembeda": 4764,
+    "namaBahan": "Kawat Baja",
+    "nomer": "LP-964-IDN",
+    "nameLab": "Laboratorium Uji Kimia dan Mekanik, PT Krakatau Steel (Persero) Tbk."
+  },
+  {
+    "posisipembeda": 4767,
+    "namaBahan": "Baja",
+    "nomer": "LP-964-IDN",
+    "nameLab": "Laboratorium Uji Kimia dan Mekanik, PT Krakatau Steel (Persero) Tbk."
+  },
+  {
+    "posisipembeda": 4783,
+    "namaBahan": "Alumunium Ingot",
+    "nomer": "LP-964-IDN",
+    "nameLab": "Laboratorium Uji Kimia dan Mekanik, PT Krakatau Steel (Persero) Tbk."
+  },
+  {
+    "posisipembeda": 4784,
+    "namaBahan": "Aluminum Pelet",
+    "nomer": "LP-964-IDN",
+    "nameLab": "Laboratorium Uji Kimia dan Mekanik, PT Krakatau Steel (Persero) Tbk."
+  },
+  {
+    "posisipembeda": 4785,
+    "namaBahan": "Alumunium Short",
+    "nomer": "LP-964-IDN",
+    "nameLab": "Laboratorium Uji Kimia dan Mekanik, PT Krakatau Steel (Persero) Tbk."
+  },
+  {
+    "posisipembeda": 4786,
+    "namaBahan": "Alumunium Wire",
+    "nomer": "LP-964-IDN",
+    "nameLab": "Laboratorium Uji Kimia dan Mekanik, PT Krakatau Steel (Persero) Tbk."
+  },
+  {
+    "posisipembeda": 4787,
+    "namaBahan": "Minyak Nabati",
+    "nomer": "LP-964-IDN",
+    "nameLab": "Laboratorium Uji Kimia dan Mekanik, PT Krakatau Steel (Persero) Tbk."
+  },
+  {
+    "posisipembeda": 4788,
+    "namaBahan": "Pelumas",
+    "nomer": "LP-964-IDN",
+    "nameLab": "Laboratorium Uji Kimia dan Mekanik, PT Krakatau Steel (Persero) Tbk."
+  },
+  {
+    "posisipembeda": 4793,
+    "namaBahan": "Aluminium Alloy dan Stell Alloy",
+    "nomer": "LP-981-IDN",
+    "nameLab": "Quality Laboratory Test & Metrology - Unit Jaminan Mutu, PT Dirgantara Indonesia"
+  },
+  {
+    "posisipembeda": 4799,
+    "namaBahan": "Metalic Coating",
+    "nomer": "LP-981-IDN",
+    "nameLab": "Quality Laboratory Test & Metrology - Unit Jaminan Mutu, PT Dirgantara Indonesia"
+  },
+  {
+    "posisipembeda": 4807,
+    "namaBahan": "Baja Tulang Beton (SNI 07-2502-2002)",
+    "nomer": "LP-1071-IDN",
+    "nameLab": "PT Jakarta Cakratunggal Steel Mills"
+  },
+  {
+    "posisipembeda": 4813,
+    "namaBahan": "Low Alloy Stell Mud Steel",
+    "nomer": "LP-1071-IDN",
+    "nameLab": "PT Jakarta Cakratunggal Steel Mills"
+  },
+  {
+    "posisipembeda": 4814,
+    "namaBahan": "Baja Tukangan Beton Sirip",
+    "nomer": "LP-1085-IDN",
+    "nameLab": "PT Putra Baja Deli Banten"
+  },
+  {
+    "posisipembeda": 4819,
+    "namaBahan": "Baja Karbon dan Paduan Rendah",
+    "nomer": "LP-1085-IDN",
+    "nameLab": "PT Putra Baja Deli Banten"
+  },
+  {
+    "posisipembeda": 4820,
+    "namaBahan": "Kastor / roda",
+    "nomer": "LP-1102-IDN",
+    "nameLab": "PT Mega Andalan Kalasan"
+  },
+  {
+    "posisipembeda": 4827,
+    "namaBahan": "Pelumas (New Oil & Used Oil)",
+    "nomer": "LP-1126-IDN",
+    "nameLab": "PT Wiraswata Gemilang Indonesia"
+  },
+  {
+    "posisipembeda": 4842,
+    "namaBahan": "Pelumas",
+    "nomer": "LP-1126-IDN",
+    "nameLab": "PT Wiraswata Gemilang Indonesia"
+  },
+  {
+    "posisipembeda": 4850,
+    "namaBahan": "Logam, pilomer, keramik dan komposit",
+    "nomer": "LP-1142-IDN",
+    "nameLab": "Laboratorium Pusat Penelitian Fisika LIPI"
+  },
+  {
+    "posisipembeda": 4851,
+    "namaBahan": "Logam dan paduan",
+    "nomer": "LP-1142-IDN",
+    "nameLab": "Laboratorium Pusat Penelitian Fisika LIPI"
+  },
+  {
+    "posisipembeda": 4852,
+    "namaBahan": "Logam, pilomer, keramik dan komposit",
+    "nomer": "LP-1142-IDN",
+    "nameLab": "Laboratorium Pusat Penelitian Fisika LIPI"
+  },
+  {
+    "posisipembeda": 4853,
+    "namaBahan": "Material organic dan polimer",
+    "nomer": "LP-1142-IDN",
+    "nameLab": "Laboratorium Pusat Penelitian Fisika LIPI"
+  },
+  {
+    "posisipembeda": 4854,
+    "namaBahan": "Material polikristal dan amorf",
+    "nomer": "LP-1142-IDN",
+    "nameLab": "Laboratorium Pusat Penelitian Fisika LIPI"
+  },
+  {
+    "posisipembeda": 4855,
+    "namaBahan": "Traktor Pertanian Roda Dua",
+    "nomer": "LP-1185-IDN",
+    "nameLab": "Balai Besar Pengembangan Mekanisasi Pertanian"
+  },
+  {
+    "posisipembeda": 4856,
+    "namaBahan": "Traktor Pertanian Roda Empat Gandar Ganda",
+    "nomer": "LP-1185-IDN",
+    "nameLab": "Balai Besar Pengembangan Mekanisasi Pertanian"
+  },
+  {
+    "posisipembeda": 4870,
+    "namaBahan": "Pompa air sentrifugal untuk irigasi",
+    "nomer": "LP-1185-IDN",
+    "nameLab": "Balai Besar Pengembangan Mekanisasi Pertanian"
+  },
+  {
+    "posisipembeda": 4874,
+    "namaBahan": "Mesin penggiling gabah sekali umpan",
+    "nomer": "LP-1185-IDN",
+    "nameLab": "Balai Besar Pengembangan Mekanisasi Pertanian"
+  },
+  {
+    "posisipembeda": 4879,
+    "namaBahan": "Mesin pengering tipe bak datar",
+    "nomer": "LP-1185-IDN",
+    "nameLab": "Balai Besar Pengembangan Mekanisasi Pertanian"
+  },
+  {
+    "posisipembeda": 4884,
+    "namaBahan": "Mesin perontok padi tipe pelemparan jerami",
+    "nomer": "LP-1185-IDN",
+    "nameLab": "Balai Besar Pengembangan Mekanisasi Pertanian"
+  },
+  {
+    "posisipembeda": 4889,
+    "namaBahan": "Mesin pemipil jagung",
+    "nomer": "LP-1185-IDN",
+    "nameLab": "Balai Besar Pengembangan Mekanisasi Pertanian"
+  },
+  {
+    "posisipembeda": 4894,
+    "namaBahan": "Mesin pengering gabah tipe sirkulasi",
+    "nomer": "LP-1185-IDN",
+    "nameLab": "Balai Besar Pengembangan Mekanisasi Pertanian"
+  },
+  {
+    "posisipembeda": 4899,
+    "namaBahan": "Mesin tanam bibit padi tipe dorong",
+    "nomer": "LP-1185-IDN",
+    "nameLab": "Balai Besar Pengembangan Mekanisasi Pertanian"
+  },
+  {
+    "posisipembeda": 4904,
+    "namaBahan": "Sprayer gendong semi-otomatis",
+    "nomer": "LP-1185-IDN",
+    "nameLab": "Balai Besar Pengembangan Mekanisasi Pertanian"
+  },
+  {
+    "posisipembeda": 4908,
+    "namaBahan": "Mesin penghancur (crusher) bahan baku pupuk organik",
+    "nomer": "LP-1185-IDN",
+    "nameLab": "Balai Besar Pengembangan Mekanisasi Pertanian"
+  },
+  {
+    "posisipembeda": 4915,
+    "namaBahan": "Mesin pencacah hijauan pakan ternak",
+    "nomer": "LP-1185-IDN",
+    "nameLab": "Balai Besar Pengembangan Mekanisasi Pertanian"
+  },
+  {
+    "posisipembeda": 4920,
+    "namaBahan": "Mesin sangrai kopi dan kakao tipe silinder datar berputar",
+    "nomer": "LP-1185-IDN",
+    "nameLab": "Balai Besar Pengembangan Mekanisasi Pertanian"
+  },
+  {
+    "posisipembeda": 4925,
+    "namaBahan": "Pengabut gendong bermotor",
+    "nomer": "LP-1185-IDN",
+    "nameLab": "Balai Besar Pengembangan Mekanisasi Pertanian"
+  },
+  {
+    "posisipembeda": 4932,
+    "namaBahan": "Mesin perontok multi komoditi untuk padi, jagung dan kedelai",
+    "nomer": "LP-1185-IDN",
+    "nameLab": "Balai Besar Pengembangan Mekanisasi Pertanian"
+  },
+  {
+    "posisipembeda": 4938,
+    "namaBahan": "Mesin panen padi tipe kombinasi",
+    "nomer": "LP-1185-IDN",
+    "nameLab": "Balai Besar Pengembangan Mekanisasi Pertanian"
+  },
+  {
+    "posisipembeda": 4943,
+    "namaBahan": "Mesin pengasap jinjing (fogging machine) sistem pulsa jet",
+    "nomer": "LP-1185-IDN",
+    "nameLab": "Balai Besar Pengembangan Mekanisasi Pertanian"
+  },
+  {
+    "posisipembeda": 4948,
+    "namaBahan": "Material Logam dan Produk Logam (Pelat Baja: Baja karbon rendah, Baja karbon menengah, Baja karbon tinggi, Baja paduan,  Baja tahan karat, (sambungan las, Pelat Baja: Baja karbon rendah, Baja karbon menengah, Baja karbon tinggi, Baja paduan, Baja tahan karat)",
+    "nomer": "LP-1186-IDN ",
+    "nameLab": " PT Bintang Inspeksindo Indonesia"
+  },
+  {
+    "posisipembeda": 4990,
+    "namaBahan": "Baja Paduan Rendah                                    Carbon Steel and Low Alloys Steel",
+    "nomer": "LP-1186-IDN ",
+    "nameLab": " PT Bintang Inspeksindo Indonesia"
+  },
+  {
+    "posisipembeda": 4991,
+    "namaBahan": "Baja Tahan Karat                                          Stainless Steel",
+    "nomer": "LP-1186-IDN ",
+    "nameLab": " PT Bintang Inspeksindo Indonesia"
+  },
+  {
+    "posisipembeda": 4992,
+    "namaBahan": "Material Logam dan Produk Logam (Pelat Baja: Baja karbon rendah, Baja karbon menengah, Baja karbon tinggi, Baja paduan,  Baja tahan karat, (sambungan las, Pelat Baja: Baja karbon rendah, Baja karbon menengah, Baja karbon tinggi, Baja paduan, Baja tahan karat)",
+    "nomer": "LP-1186-IDN ",
+    "nameLab": " PT Bintang Inspeksindo Indonesia"
+  },
+  {
+    "posisipembeda": 4996,
+    "namaBahan": "Fe & Al based metal",
+    "nomer": "LP-1206-IDN",
+    "nameLab": "Divisi Engineering Development Centre, PT Astra Otoparts, Tbk"
+  },
+  {
+    "posisipembeda": 4997,
+    "namaBahan": "Komposisi",
+    "nomer": "LP-1206-IDN",
+    "nameLab": "Divisi Engineering Development Centre, PT Astra Otoparts, Tbk"
+  },
+  {
+    "posisipembeda": 4998,
+    "namaBahan": "Metal",
+    "nomer": "LP-1206-IDN",
+    "nameLab": "Divisi Engineering Development Centre, PT Astra Otoparts, Tbk"
+  },
+  {
+    "posisipembeda": 4999,
+    "namaBahan": "Biji timah",
+    "nomer": "LP-1217-IDN",
+    "nameLab": " PT Timah Persero (Tbk) Unit Metalurgi"
+  },
+  {
+    "posisipembeda": 5000,
+    "namaBahan": "Logam timah ekspor",
+    "nomer": "LP-1217-IDN",
+    "nameLab": " PT Timah Persero (Tbk) Unit Metalurgi"
+  },
+  {
+    "posisipembeda": 5012,
+    "namaBahan": "Bijih timah",
+    "nomer": "LP-1228-IDN",
+    "nameLab": "PT TIMAH (Persero) Tbk Cabang Pangkalpinang"
+  },
+  {
+    "posisipembeda": 5020,
+    "namaBahan": "a. Produk logam, plat, pipa, profil dan batangan                                                            b. Produk sambungan las",
+    "nomer": "LP-1288-IDN",
+    "nameLab": "Laboratorium Uji Bahan - Politeknik Perkapalan Negeri Surabaya"
+  },
+  {
+    "posisipembeda": 5026,
+    "namaBahan": "a. Produk logam, plat, pipa, profil dan batangan dan logam cor                                                           b. Produk lasan (Weld Joint dan Weld Cladding)",
+    "nomer": "LP-1288-IDN",
+    "nameLab": "Laboratorium Uji Bahan - Politeknik Perkapalan Negeri Surabaya"
+  },
+  {
+    "posisipembeda": 5028,
+    "namaBahan": "Produk logam, plat, pipa, batangan dan logam cor",
+    "nomer": "LP-1288-IDN",
+    "nameLab": "Laboratorium Uji Bahan - Politeknik Perkapalan Negeri Surabaya"
+  },
+  {
+    "posisipembeda": 5030,
+    "namaBahan": "Produk sambungan las pipa",
+    "nomer": "LP-1288-IDN",
+    "nameLab": "Laboratorium Uji Bahan - Politeknik Perkapalan Negeri Surabaya"
+  },
+  {
+    "posisipembeda": 5031,
+    "namaBahan": "Produk sambungan las (las fillet T-Joint)",
+    "nomer": "LP-1288-IDN",
+    "nameLab": "Laboratorium Uji Bahan - Politeknik Perkapalan Negeri Surabaya"
+  },
+  {
+    "posisipembeda": 5032,
+    "namaBahan": "Produk sambungan las",
+    "nomer": "LP-1288-IDN",
+    "nameLab": "Laboratorium Uji Bahan - Politeknik Perkapalan Negeri Surabaya"
+  },
+  {
+    "posisipembeda": 5033,
+    "namaBahan": "Produk logam dan paduannya yang berbasis Fe, Cu, Al, Zn",
+    "nomer": "LP-1288-IDN",
+    "nameLab": "Laboratorium Uji Bahan - Politeknik Perkapalan Negeri Surabaya"
+  },
+  {
+    "posisipembeda": 5036,
+    "namaBahan": "Premium, pertalite, pertamax",
+    "nomer": "LP-1307-IDN",
+    "nameLab": "Laboratorium TBBM Kotabaru Group-PT Pertamina (Persero)"
+  },
+  {
+    "posisipembeda": 5040,
+    "namaBahan": "Solar, biosolar, dexlite",
+    "nomer": "LP-1307-IDN",
+    "nameLab": "Laboratorium TBBM Kotabaru Group-PT Pertamina (Persero)"
+  },
+  {
+    "posisipembeda": 5046,
+    "namaBahan": "MFO (Marine fuel oil)",
+    "nomer": "LP-1307-IDN",
+    "nameLab": "Laboratorium TBBM Kotabaru Group-PT Pertamina (Persero)"
+  },
+  {
+    "posisipembeda": 5051,
+    "namaBahan": "Logam timah murni",
+    "nomer": "LP-1312-IDN",
+    "nameLab": "PT Refined Bangka Tin"
+  },
+  {
+    "posisipembeda": 5058,
+    "namaBahan": "Pelek kendaraan berpenumpang",
+    "nomer": "LP-751-IDN",
+    "nameLab": "PT TUV Rheinland Indonesia"
+  },
+  {
+    "posisipembeda": 5097,
+    "namaBahan": "pelek motor",
+    "nomer": "LP-751-IDN",
+    "nameLab": "PT TUV Rheinland Indonesia"
+  },
+  {
+    "posisipembeda": 5110,
+    "namaBahan": "Passenger Car Tire",
+    "nomer": "LP-263-IDN",
+    "nameLab": "PT  Goodyear Indonesia, Tbk"
+  },
+  {
+    "posisipembeda": 5156,
+    "namaBahan": "Light truck tire",
+    "nomer": "LP-263-IDN",
+    "nameLab": "PT  Goodyear Indonesia, Tbk"
+  },
+  {
+    "posisipembeda": 5184,
+    "namaBahan": "Light truck & bus tire",
+    "nomer": "LP-263-IDN",
+    "nameLab": "PT  Goodyear Indonesia, Tbk"
+  },
+  {
+    "posisipembeda": 5201,
+    "namaBahan": "Aki untuk kendaraan bermotor roda empat atau lebih  (Lead-acid starter batteries)",
+    "nomer": "LP-264-IDN",
+    "nameLab": "Laboratorium Pengujian Baterai - PT GS Battery."
+  },
+  {
+    "posisipembeda": 5270,
+    "namaBahan": "Aki untuk kendaraan bermotor kategori L (Lead-acid batteries for motorcycles)",
+    "nomer": "LP-264-IDN",
+    "nameLab": "Laboratorium Pengujian Baterai - PT GS Battery."
+  },
+  {
+    "posisipembeda": 5292,
+    "namaBahan": "Sampel proses (Nickel Calcine)",
+    "nomer": "LP-266-IDN",
+    "nameLab": "PT. Vale Indonesia,Tbk"
+  },
+  {
+    "posisipembeda": 5296,
+    "namaBahan": "Produk akhir tambang nikel (Nickel Matte)",
+    "nomer": "LP-266-IDN",
+    "nameLab": "PT. Vale Indonesia,Tbk"
+  },
+  {
+    "posisipembeda": 5300,
+    "namaBahan": "Tambang bijih nikel (Nickel Ore/Laterite)",
+    "nomer": "LP-266-IDN",
+    "nameLab": "PT. Vale Indonesia,Tbk"
+  },
+  {
+    "posisipembeda": 5307,
+    "namaBahan": "Logam (Pelat)",
+    "nomer": "LP-269-IDN",
+    "nameLab": " Pusat Penelitian dan Pengembangan Jalan dan Jembatan"
+  },
+  {
+    "posisipembeda": 5308,
+    "namaBahan": "Silinder, Kubus, Balok Beton",
+    "nomer": "LP-269-IDN",
+    "nameLab": " Pusat Penelitian dan Pengembangan Jalan dan Jembatan"
+  },
+  {
+    "posisipembeda": 5314,
+    "namaBahan": "Bantalan Karet",
+    "nomer": "LP-269-IDN",
+    "nameLab": " Pusat Penelitian dan Pengembangan Jalan dan Jembatan"
+  },
+  {
+    "posisipembeda": 5316,
+    "namaBahan": "Tanah",
+    "nomer": "LP-269-IDN",
+    "nameLab": " Pusat Penelitian dan Pengembangan Jalan dan Jembatan"
+  },
+  {
+    "posisipembeda": 5323,
+    "namaBahan": "Baja Tulangan polos, ulir",
+    "nomer": "LP-269-IDN",
+    "nameLab": " Pusat Penelitian dan Pengembangan Jalan dan Jembatan"
+  },
+  {
+    "posisipembeda": 5324,
+    "namaBahan": "Campuran Aspal",
+    "nomer": "LP-269-IDN",
+    "nameLab": " Pusat Penelitian dan Pengembangan Jalan dan Jembatan"
+  },
+  {
+    "posisipembeda": 5326,
+    "namaBahan": "Cat Marka",
+    "nomer": "LP-269-IDN",
+    "nameLab": " Pusat Penelitian dan Pengembangan Jalan dan Jembatan"
+  },
+  {
+    "posisipembeda": 5330,
+    "namaBahan": "Cat Marka (Lanjutan)",
+    "nomer": "LP-269-IDN",
+    "nameLab": " Pusat Penelitian dan Pengembangan Jalan dan Jembatan"
+  },
+  {
+    "posisipembeda": 5333,
+    "namaBahan": "Beban Lalu Lintas",
+    "nomer": "LP-269-IDN",
+    "nameLab": " Pusat Penelitian dan Pengembangan Jalan dan Jembatan"
+  },
+  {
+    "posisipembeda": 5334,
+    "namaBahan": "Aspal",
+    "nomer": "LP-269-IDN",
+    "nameLab": " Pusat Penelitian dan Pengembangan Jalan dan Jembatan"
+  },
+  {
+    "posisipembeda": 5342,
+    "namaBahan": "Agregat",
+    "nomer": "LP-269-IDN",
+    "nameLab": " Pusat Penelitian dan Pengembangan Jalan dan Jembatan"
+  },
+  {
+    "posisipembeda": 5351,
+    "namaBahan": "Aspal",
+    "nomer": "LP-269-IDN",
+    "nameLab": " Pusat Penelitian dan Pengembangan Jalan dan Jembatan"
+  },
+  {
+    "posisipembeda": 5358,
+    "namaBahan": "Ban truk ringan",
+    "nomer": "LP-270-IDN",
+    "nameLab": "PT Sumi Rubber Indonesia"
+  },
+  {
+    "posisipembeda": 5363,
+    "namaBahan": "Ban sepeda motor",
+    "nomer": "LP-270-IDN",
+    "nameLab": "PT Sumi Rubber Indonesia"
+  },
+  {
+    "posisipembeda": 5368,
+    "namaBahan": "Ban mobil penumpang",
+    "nomer": "LP-270-IDN",
+    "nameLab": "PT Sumi Rubber Indonesia"
+  },
+  {
+    "posisipembeda": 5374,
+    "namaBahan": "Ban truk dan bus",
+    "nomer": "LP-270-IDN",
+    "nameLab": "PT Sumi Rubber Indonesia"
+  },
+  {
+    "posisipembeda": 5378,
+    "namaBahan": "Ban mobil penumpang ",
+    "nomer": "LP-272-IDN",
+    "nameLab": "PT Elangperdana Tyre Industry"
+  },
+  {
+    "posisipembeda": 5409,
+    "namaBahan": "Ban truk ringan, ban niaga",
+    "nomer": "LP-272-IDN",
+    "nameLab": "PT Elangperdana Tyre Industry"
+  },
+  {
+    "posisipembeda": 5432,
+    "namaBahan": "Ban truk dan bus",
+    "nomer": "LP-272-IDN",
+    "nameLab": "PT Elangperdana Tyre Industry"
+  },
+  {
+    "posisipembeda": 5447,
+    "namaBahan": "Ban Mobil Penumpang ",
+    "nomer": "LP-283-IDN",
+    "nameLab": " PT Industri Karet Deli"
+  },
+  {
+    "posisipembeda": 5515,
+    "namaBahan": "Ban Mobil Penumpang",
+    "nomer": "LP-283-IDN",
+    "nameLab": " PT Industri Karet Deli"
+  },
+  {
+    "posisipembeda": 5516,
+    "namaBahan": "Ban Sepeda motor",
+    "nomer": "LP-283-IDN",
+    "nameLab": " PT Industri Karet Deli"
+  },
+  {
+    "posisipembeda": 5563,
+    "namaBahan": "Ban Truk Ringan",
+    "nomer": "LP-283-IDN",
+    "nameLab": " PT Industri Karet Deli"
+  },
+  {
+    "posisipembeda": 5615,
+    "namaBahan": "Ban truk dan Bus",
+    "nomer": "LP-283-IDN",
+    "nameLab": " PT Industri Karet Deli"
+  },
+  {
+    "posisipembeda": 5655,
+    "namaBahan": "Ban dalam kendaraan bermotor",
+    "nomer": "LP-283-IDN",
+    "nameLab": " PT Industri Karet Deli"
+  },
+  {
+    "posisipembeda": 5670,
+    "namaBahan": "Ban dalam sepeda",
+    "nomer": "LP-283-IDN",
+    "nameLab": " PT Industri Karet Deli"
+  },
+  {
+    "posisipembeda": 5674,
+    "namaBahan": "Ban pertanian (Rim 4 inci s.d 18 inci)",
+    "nomer": "LP-283-IDN",
+    "nameLab": " PT Industri Karet Deli"
+  },
+  {
+    "posisipembeda": 5679,
+    "namaBahan": "Ban industri (Rim 8 inci s.d 25 inci)",
+    "nomer": "LP-283-IDN",
+    "nameLab": " PT Industri Karet Deli"
+  },
+  {
+    "posisipembeda": 5683,
+    "namaBahan": "Ban sepeda",
+    "nomer": "LP-283-IDN",
+    "nameLab": " PT Industri Karet Deli"
+  },
+  {
+    "posisipembeda": 5699,
+    "namaBahan": "Ban mobil penumpang",
+    "nomer": "LP-294-IDN",
+    "nameLab": "PT Gajah Tunggal, Tbk."
+  },
+  {
+    "posisipembeda": 5755,
+    "namaBahan": "Ban Truk Ringan",
+    "nomer": "LP-294-IDN",
+    "nameLab": "PT Gajah Tunggal, Tbk."
+  },
+  {
+    "posisipembeda": 5794,
+    "namaBahan": "Ban Truk dan Bus",
+    "nomer": "LP-294-IDN",
+    "nameLab": "PT Gajah Tunggal, Tbk."
+  },
+  {
+    "posisipembeda": 5818,
+    "namaBahan": "Ban Sepeda Motor",
+    "nomer": "LP-294-IDN",
+    "nameLab": "PT Gajah Tunggal, Tbk."
+  },
+  {
+    "posisipembeda": 5845,
+    "namaBahan": "Ban dalam kendaraan bermotor",
+    "nomer": "LP-294-IDN",
+    "nameLab": "PT Gajah Tunggal, Tbk."
+  },
+  {
+    "posisipembeda": 5855,
+    "namaBahan": "Ban mobil penumpang ",
+    "nomer": "LP-294-IDN",
+    "nameLab": "PT Gajah Tunggal, Tbk."
+  },
+  {
+    "posisipembeda": 5859,
+    "namaBahan": "Ban truk ringan",
+    "nomer": "LP-294-IDN",
+    "nameLab": "PT Gajah Tunggal, Tbk."
+  },
+  {
+    "posisipembeda": 5864,
+    "namaBahan": "Tiang pancang penampang bulat berongga pratarik (Spun pile)",
+    "nomer": "LP-299-IDN",
+    "nameLab": "Pusat Penelitian dan Pengembangan Perumahan dan Permukiman, Kementerian Pekerjaan Umum dan Perumahan Rakyat"
+  },
+  {
+    "posisipembeda": 5865,
+    "namaBahan": "Tiang pancang penampang persegi  pratarik (Square pile)",
+    "nomer": "LP-299-IDN",
+    "nameLab": "Pusat Penelitian dan Pengembangan Perumahan dan Permukiman, Kementerian Pekerjaan Umum dan Perumahan Rakyat"
+  },
+  {
+    "posisipembeda": 5866,
+    "namaBahan": "Turap beton prategang bergelombang (Sheet pile/CCSP)",
+    "nomer": "LP-299-IDN",
+    "nameLab": "Pusat Penelitian dan Pengembangan Perumahan dan Permukiman, Kementerian Pekerjaan Umum dan Perumahan Rakyat"
+  },
+  {
+    "posisipembeda": 5867,
+    "namaBahan": "Sistem rangka kuda-kuda baja ringan",
+    "nomer": "LP-299-IDN",
+    "nameLab": "Pusat Penelitian dan Pengembangan Perumahan dan Permukiman, Kementerian Pekerjaan Umum dan Perumahan Rakyat"
+  },
+  {
+    "posisipembeda": 5868,
+    "namaBahan": "Panel beton ringan berserat",
+    "nomer": "LP-299-IDN",
+    "nameLab": "Pusat Penelitian dan Pengembangan Perumahan dan Permukiman, Kementerian Pekerjaan Umum dan Perumahan Rakyat"
+  },
+  {
+    "posisipembeda": 5873,
+    "namaBahan": "Pasangan dinding bata merah",
+    "nomer": "LP-299-IDN",
+    "nameLab": "Pusat Penelitian dan Pengembangan Perumahan dan Permukiman, Kementerian Pekerjaan Umum dan Perumahan Rakyat"
+  },
+  {
+    "posisipembeda": 5875,
+    "namaBahan": "Kayu Konstruksi berukuran struktural",
+    "nomer": "LP-299-IDN",
+    "nameLab": "Pusat Penelitian dan Pengembangan Perumahan dan Permukiman, Kementerian Pekerjaan Umum dan Perumahan Rakyat"
+  },
+  {
+    "posisipembeda": 5877,
+    "namaBahan": "Baja Tulangan beton",
+    "nomer": "LP-299-IDN",
+    "nameLab": "Pusat Penelitian dan Pengembangan Perumahan dan Permukiman, Kementerian Pekerjaan Umum dan Perumahan Rakyat"
+  },
+  {
+    "posisipembeda": 5879,
+    "namaBahan": "Bata ringan",
+    "nomer": "LP-299-IDN",
+    "nameLab": "Pusat Penelitian dan Pengembangan Perumahan dan Permukiman, Kementerian Pekerjaan Umum dan Perumahan Rakyat"
+  },
+  {
+    "posisipembeda": 5884,
+    "namaBahan": "Beton",
+    "nomer": "LP-299-IDN",
+    "nameLab": "Pusat Penelitian dan Pengembangan Perumahan dan Permukiman, Kementerian Pekerjaan Umum dan Perumahan Rakyat"
+  },
+  {
+    "posisipembeda": 5890,
+    "namaBahan": "Kayu",
+    "nomer": "LP-299-IDN",
+    "nameLab": "Pusat Penelitian dan Pengembangan Perumahan dan Permukiman, Kementerian Pekerjaan Umum dan Perumahan Rakyat"
+  },
+  {
+    "posisipembeda": 5894,
+    "namaBahan": "Agregat",
+    "nomer": "LP-299-IDN",
+    "nameLab": "Pusat Penelitian dan Pengembangan Perumahan dan Permukiman, Kementerian Pekerjaan Umum dan Perumahan Rakyat"
+  },
+  {
+    "posisipembeda": 5899,
+    "namaBahan": "Air bersih, air tanah dan air permukaan",
+    "nomer": "LP-299-IDN",
+    "nameLab": "Pusat Penelitian dan Pengembangan Perumahan dan Permukiman, Kementerian Pekerjaan Umum dan Perumahan Rakyat"
+  },
+  {
+    "posisipembeda": 5906,
+    "namaBahan": "Air limbah ",
+    "nomer": "LP-299-IDN",
+    "nameLab": "Pusat Penelitian dan Pengembangan Perumahan dan Permukiman, Kementerian Pekerjaan Umum dan Perumahan Rakyat"
+  },
+  {
+    "posisipembeda": 5920,
+    "namaBahan": "Pipa PVC",
+    "nomer": "LP-299-IDN",
+    "nameLab": "Pusat Penelitian dan Pengembangan Perumahan dan Permukiman, Kementerian Pekerjaan Umum dan Perumahan Rakyat"
+  },
+  {
+    "posisipembeda": 5926,
+    "namaBahan": "Meter Air",
+    "nomer": "LP-299-IDN",
+    "nameLab": "Pusat Penelitian dan Pengembangan Perumahan dan Permukiman, Kementerian Pekerjaan Umum dan Perumahan Rakyat"
+  },
+  {
+    "posisipembeda": 5935,
+    "namaBahan": "Pipa PE",
+    "nomer": "LP-299-IDN",
+    "nameLab": "Pusat Penelitian dan Pengembangan Perumahan dan Permukiman, Kementerian Pekerjaan Umum dan Perumahan Rakyat"
+  },
+  {
+    "posisipembeda": 5940,
+    "namaBahan": "Partisi bangunan : dinding, pintu jendela",
+    "nomer": "LP-299-IDN",
+    "nameLab": "Pusat Penelitian dan Pengembangan Perumahan dan Permukiman, Kementerian Pekerjaan Umum dan Perumahan Rakyat"
+  },
+  {
+    "posisipembeda": 5942,
+    "namaBahan": "Bahan penyerap bunyi",
+    "nomer": "LP-299-IDN",
+    "nameLab": "Pusat Penelitian dan Pengembangan Perumahan dan Permukiman, Kementerian Pekerjaan Umum dan Perumahan Rakyat"
+  },
+  {
+    "posisipembeda": 5944,
+    "namaBahan": "Bahan bangunan",
+    "nomer": "LP-299-IDN",
+    "nameLab": "Pusat Penelitian dan Pengembangan Perumahan dan Permukiman, Kementerian Pekerjaan Umum dan Perumahan Rakyat"
+  },
+  {
+    "posisipembeda": 5945,
+    "namaBahan": "Komponen bangunan : dinding, plat",
+    "nomer": "LP-299-IDN",
+    "nameLab": "Pusat Penelitian dan Pengembangan Perumahan dan Permukiman, Kementerian Pekerjaan Umum dan Perumahan Rakyat"
+  },
+  {
+    "posisipembeda": 5947,
+    "namaBahan": "Bahan penghambat",
+    "nomer": "LP-299-IDN",
+    "nameLab": "Pusat Penelitian dan Pengembangan Perumahan dan Permukiman, Kementerian Pekerjaan Umum dan Perumahan Rakyat"
+  },
+  {
+    "posisipembeda": 5948,
+    "namaBahan": "Lemari besi",
+    "nomer": "LP-299-IDN",
+    "nameLab": "Pusat Penelitian dan Pengembangan Perumahan dan Permukiman, Kementerian Pekerjaan Umum dan Perumahan Rakyat"
+  },
+  {
+    "posisipembeda": 5949,
+    "namaBahan": "Lemari arsip tahan api",
+    "nomer": "LP-299-IDN",
+    "nameLab": "Pusat Penelitian dan Pengembangan Perumahan dan Permukiman, Kementerian Pekerjaan Umum dan Perumahan Rakyat"
+  },
+  {
+    "posisipembeda": 5950,
+    "namaBahan": "Tanah",
+    "nomer": "LP-306-IDN",
+    "nameLab": "Laboratorium  Pengujian - PT PLN (Persero) Pusat Penelitian dan Pengembangan Ketenagalistrikan"
+  },
+  {
+    "posisipembeda": 5956,
+    "namaBahan": "Vibrasi",
+    "nomer": "LP-306-IDN",
+    "nameLab": "Laboratorium  Pengujian - PT PLN (Persero) Pusat Penelitian dan Pengembangan Ketenagalistrikan"
+  },
+  {
+    "posisipembeda": 5965,
+    "namaBahan": "Minyak Insulasi pakai dan baru",
+    "nomer": "LP-306-IDN",
+    "nameLab": "Laboratorium  Pengujian - PT PLN (Persero) Pusat Penelitian dan Pengembangan Ketenagalistrikan"
+  },
+  {
+    "posisipembeda": 5968,
+    "namaBahan": "Batubara",
+    "nomer": "LP-306-IDN",
+    "nameLab": "Laboratorium  Pengujian - PT PLN (Persero) Pusat Penelitian dan Pengembangan Ketenagalistrikan"
+  },
+  {
+    "posisipembeda": 5975,
+    "namaBahan": "Tube",
+    "nomer": "LP-306-IDN",
+    "nameLab": "Laboratorium  Pengujian - PT PLN (Persero) Pusat Penelitian dan Pengembangan Ketenagalistrikan"
+  },
+  {
+    "posisipembeda": 5977,
+    "namaBahan": "Emisi Gas Buang Sepeda Motor",
+    "nomer": "LP-313-IDN",
+    "nameLab": "PT. Yamaha Indonesia Motor Manufacturing"
+  },
+  {
+    "posisipembeda": 5983,
+    "namaBahan": "Kaca pengaman berlapis untuk kendaraan bermotor (laminated glass)",
+    "nomer": "LP-320-IDN",
+    "nameLab": "PT. Asahimas Flat Glass, Tbk."
+  },
+  {
+    "posisipembeda": 5996,
+    "namaBahan": "Kaca pengaman diperkakas (tempered glass)",
+    "nomer": "LP-320-IDN",
+    "nameLab": "PT. Asahimas Flat Glass, Tbk."
+  },
+  {
+    "posisipembeda": 6004,
+    "namaBahan": "Ban mobil penumpang",
+    "nomer": "LP-322-IDN",
+    "nameLab": "PT. Multistrada Arah Sarana, Tbk."
+  },
+  {
+    "posisipembeda": 6030,
+    "namaBahan": "Ban truk ringan ",
+    "nomer": "LP-322-IDN",
+    "nameLab": "PT. Multistrada Arah Sarana, Tbk."
+  },
+  {
+    "posisipembeda": 6050,
+    "namaBahan": "Ban truk dan bus",
+    "nomer": "LP-322-IDN",
+    "nameLab": "PT. Multistrada Arah Sarana, Tbk."
+  },
+  {
+    "posisipembeda": 6065,
+    "namaBahan": "Ban sepeda motor",
+    "nomer": "LP-322-IDN",
+    "nameLab": "PT. Multistrada Arah Sarana, Tbk."
+  },
+  {
+    "posisipembeda": 6077,
+    "namaBahan": "Air Permukaan",
+    "nomer": "LP-346-IDN",
+    "nameLab": " Balai Laboratorium Lingkungan Hidup Dinas Lingkungan Hidup Provinsi Jawa Barat"
+  },
+  {
+    "posisipembeda": 6094,
+    "namaBahan": "Air Tanah ",
+    "nomer": "LP-346-IDN",
+    "nameLab": " Balai Laboratorium Lingkungan Hidup Dinas Lingkungan Hidup Provinsi Jawa Barat"
+  },
+  {
+    "posisipembeda": 6115,
+    "namaBahan": "Air Limbah",
+    "nomer": "LP-346-IDN",
+    "nameLab": " Balai Laboratorium Lingkungan Hidup Dinas Lingkungan Hidup Provinsi Jawa Barat"
+  },
+  {
+    "posisipembeda": 6133,
+    "namaBahan": "Tanah",
+    "nomer": "LP-346-IDN",
+    "nameLab": " Balai Laboratorium Lingkungan Hidup Dinas Lingkungan Hidup Provinsi Jawa Barat"
+  },
+  {
+    "posisipembeda": 6136,
+    "namaBahan": "Beton",
+    "nomer": "LP-346-IDN",
+    "nameLab": " Balai Laboratorium Lingkungan Hidup Dinas Lingkungan Hidup Provinsi Jawa Barat"
+  },
+  {
+    "posisipembeda": 6138,
+    "namaBahan": "Aspal",
+    "nomer": "LP-346-IDN",
+    "nameLab": " Balai Laboratorium Lingkungan Hidup Dinas Lingkungan Hidup Provinsi Jawa Barat"
+  },
+  {
+    "posisipembeda": 6143,
+    "namaBahan": "Bahan logam dan produk logam",
+    "nomer": "LP-376-IDN",
+    "nameLab": "PT. Professional Technology Specialist"
+  },
+  {
+    "posisipembeda": 6194,
+    "namaBahan": "Logam dan produk logam",
+    "nomer": "LP-396-IDN",
+    "nameLab": "UPTD Laboratorium Perindustrian Kabupaten Tegal "
+  },
+  {
+    "posisipembeda": 6204,
+    "namaBahan": "Baja Profil H canai panas (Bj PHC)",
+    "nomer": "LP-396-IDN",
+    "nameLab": "UPTD Laboratorium Perindustrian Kabupaten Tegal "
+  },
+  {
+    "posisipembeda": 6207,
+    "namaBahan": "Logam non ferro basis alumunium",
+    "nomer": "LP-396-IDN",
+    "nameLab": "UPTD Laboratorium Perindustrian Kabupaten Tegal "
+  },
+  {
+    "posisipembeda": 6208,
+    "namaBahan": "Logam non ferro basis tembaga",
+    "nomer": "LP-396-IDN",
+    "nameLab": "UPTD Laboratorium Perindustrian Kabupaten Tegal "
+  },
+  {
+    "posisipembeda": 6209,
+    "namaBahan": "Baja karbon dan Paduan Rendah",
+    "nomer": "LP-396-IDN",
+    "nameLab": "UPTD Laboratorium Perindustrian Kabupaten Tegal "
+  },
+  {
+    "posisipembeda": 6210,
+    "namaBahan": "Baja tahan karat",
+    "nomer": "LP-396-IDN",
+    "nameLab": "UPTD Laboratorium Perindustrian Kabupaten Tegal "
+  },
+  {
+    "posisipembeda": 6211,
+    "namaBahan": "Baja profil siku sama kaki proses canai panas (Bj P siku sama kaki)",
+    "nomer": "LP-396-IDN",
+    "nameLab": "UPTD Laboratorium Perindustrian Kabupaten Tegal "
+  },
+  {
+    "posisipembeda": 6214,
+    "namaBahan": "Baja tulang beton",
+    "nomer": "LP-396-IDN",
+    "nameLab": "UPTD Laboratorium Perindustrian Kabupaten Tegal "
+  },
+  {
+    "posisipembeda": 6218,
+    "namaBahan": "Beton silinder dan beton kubus",
+    "nomer": "LP-396-IDN",
+    "nameLab": "UPTD Laboratorium Perindustrian Kabupaten Tegal "
+  },
+  {
+    "posisipembeda": 6220,
+    "namaBahan": "Beton (paving block)",
+    "nomer": "LP-396-IDN",
+    "nameLab": "UPTD Laboratorium Perindustrian Kabupaten Tegal "
+  },
+  {
+    "posisipembeda": 6221,
+    "namaBahan": "Pelumas Hidrolik",
+    "nomer": "LP-409-IDN",
+    "nameLab": "PT. Hyprowira Adhitama"
+  },
+  {
+    "posisipembeda": 6233,
+    "namaBahan": "Solar",
+    "nomer": "LP-409-IDN",
+    "nameLab": "PT. Hyprowira Adhitama"
+  },
+  {
+    "posisipembeda": 6239,
+    "namaBahan": "Avtur",
+    "nomer": "LP-409-IDN",
+    "nameLab": "PT. Hyprowira Adhitama"
+  },
+  {
+    "posisipembeda": 6249,
+    "namaBahan": "Minyak Pelumas (Non Engine, HP-425)",
+    "nomer": "LP-416-IDN",
+    "nameLab": " Laboratorium SOS PT Trakindo Utama (multilokasi)"
+  },
+  {
+    "posisipembeda": 6252,
+    "namaBahan": "Minyak Pelumas (Non Engine, HP-426)",
+    "nomer": "LP-416-IDN",
+    "nameLab": " Laboratorium SOS PT Trakindo Utama (multilokasi)"
+  },
+  {
+    "posisipembeda": 6254,
+    "namaBahan": "Minyak Pelumas (Non Engine, HP-427)",
+    "nomer": "LP-416-IDN",
+    "nameLab": " Laboratorium SOS PT Trakindo Utama (multilokasi)"
+  },
+  {
+    "posisipembeda": 6261,
+    "namaBahan": "Minyak Pelumas (Engine, HP-427)",
+    "nomer": "LP-416-IDN",
+    "nameLab": " Laboratorium SOS PT Trakindo Utama (multilokasi)"
+  },
+  {
+    "posisipembeda": 6263,
+    "namaBahan": "Air Limpasan Penangkap Minyak/Lemak (Oil Trap Overflow)",
+    "nomer": "LP-416-IDN",
+    "nameLab": " Laboratorium SOS PT Trakindo Utama (multilokasi)"
+  },
+  {
+    "posisipembeda": 6266,
+    "namaBahan": "Minyak Pelumas (Non Engine, HP-425)",
+    "nomer": "LP-416-IDN",
+    "nameLab": " Laboratorium SOS PT Trakindo Utama (multilokasi)"
+  },
+  {
+    "posisipembeda": 6268,
+    "namaBahan": "Minyak Pelumas (Non Engine, HP-426)",
+    "nomer": "LP-416-IDN",
+    "nameLab": " Laboratorium SOS PT Trakindo Utama (multilokasi)"
+  },
+  {
+    "posisipembeda": 6270,
+    "namaBahan": "Minyak Pelumas  (Engine, HP-427)",
+    "nomer": "LP-416-IDN",
+    "nameLab": " Laboratorium SOS PT Trakindo Utama (multilokasi)"
+  },
+  {
+    "posisipembeda": 6277,
+    "namaBahan": "Minyak Pelumas (Engine, HP-427)",
+    "nomer": "LP-416-IDN",
+    "nameLab": " Laboratorium SOS PT Trakindo Utama (multilokasi)"
+  },
+  {
+    "posisipembeda": 6278,
+    "namaBahan": "Air Limpasan Penangkap Minyak/Lemak (Oil Trap Overflow)",
+    "nomer": "LP-416-IDN",
+    "nameLab": " Laboratorium SOS PT Trakindo Utama (multilokasi)"
+  },
+  {
+    "posisipembeda": 6281,
+    "namaBahan": "Minyak Pelumas (Non Engine, HP-426)",
+    "nomer": "LP-416-IDN",
+    "nameLab": " Laboratorium SOS PT Trakindo Utama (multilokasi)"
+  },
+  {
+    "posisipembeda": 6285,
+    "namaBahan": "Minyak Pelumas  (Engine, HP-427)",
+    "nomer": "LP-416-IDN",
+    "nameLab": " Laboratorium SOS PT Trakindo Utama (multilokasi)"
+  },
+  {
+    "posisipembeda": 6292,
+    "namaBahan": "Minyak Pelumas (Engine, HP-427)",
+    "nomer": "LP-416-IDN",
+    "nameLab": " Laboratorium SOS PT Trakindo Utama (multilokasi)"
+  },
+  {
+    "posisipembeda": 6293,
+    "namaBahan": "Minyak Pelumas (Non Engine, HP-426)",
+    "nomer": "LP-416-IDN",
+    "nameLab": " Laboratorium SOS PT Trakindo Utama (multilokasi)"
+  },
+  {
+    "posisipembeda": 6297,
+    "namaBahan": "Minyak Pelumas  (Engine, HP-427)",
+    "nomer": "LP-416-IDN",
+    "nameLab": " Laboratorium SOS PT Trakindo Utama (multilokasi)"
+  },
+  {
+    "posisipembeda": 6304,
+    "namaBahan": "Minyak Pelumas (Engine, HP-427)",
+    "nomer": "LP-416-IDN",
+    "nameLab": " Laboratorium SOS PT Trakindo Utama (multilokasi)"
+  },
+  {
+    "posisipembeda": 6305,
+    "namaBahan": "Material logam dan produk logam (baja carbon, baja tahan karat, baja tulangan beton, besi cor, nickel, copper, CuNi, Alumunium, Manganese Bronze, Alumunium Bronze)",
+    "nomer": "LP-422-IDN",
+    "nameLab": "PT Hi-Test "
+  },
+  {
+    "posisipembeda": 6372,
+    "namaBahan": "Material logam dan produk logam (baja carbon, baja tahan karat, besi cor, nickel, copper, CuNi, Alumunium, Manganese Bronze, Alumunium Bronze)",
+    "nomer": "LP-422-IDN",
+    "nameLab": "PT Hi-Test "
+  },
+  {
+    "posisipembeda": 6389,
+    "namaBahan": "Material logam dan produk logam (baja carbon, baja tahan karat, besi cor, nickel, copper, CuNi)",
+    "nomer": "LP-422-IDN",
+    "nameLab": "PT Hi-Test "
+  },
+  {
+    "posisipembeda": 6410,
+    "namaBahan": "Material logam dan produk logam (baja carbon, baja tahan karat, nickel)",
+    "nomer": "LP-422-IDN",
+    "nameLab": "PT Hi-Test "
+  },
+  {
+    "posisipembeda": 6441,
+    "namaBahan": "Material logam dan produk logam (baja carbon)",
+    "nomer": "LP-422-IDN",
+    "nameLab": "PT Hi-Test "
+  },
+  {
+    "posisipembeda": 6453,
+    "namaBahan": "Material logam dan produk logam (baja carbon, baja tahan karat, nickel, CuNi, Aluminium)",
+    "nomer": "LP-422-IDN",
+    "nameLab": "PT Hi-Test "
+  },
+  {
+    "posisipembeda": 6471,
+    "namaBahan": "Material logam dan produk logam (baja carbon, baja tahan karat, nickel)",
+    "nomer": "LP-422-IDN",
+    "nameLab": "PT Hi-Test "
+  },
+  {
+    "posisipembeda": 6484,
+    "namaBahan": "Material logam dan produk logam (baja carbon, baja tahan karat, nickel, CuNi, Aluminium, Copper, besi cor)",
+    "nomer": "LP-422-IDN",
+    "nameLab": "PT Hi-Test "
+  },
+  {
+    "posisipembeda": 6494,
+    "namaBahan": "Baja carbon dan baja paduan rendah",
+    "nomer": "LP-422-IDN",
+    "nameLab": "PT Hi-Test "
+  },
+  {
+    "posisipembeda": 6496,
+    "namaBahan": "Baja tahan karat dan baja paduan tinggi",
+    "nomer": "LP-422-IDN",
+    "nameLab": "PT Hi-Test "
+  },
+  {
+    "posisipembeda": 6498,
+    "namaBahan": "Nickel dan paduannya",
+    "nomer": "LP-422-IDN",
+    "nameLab": "PT Hi-Test "
+  },
+  {
+    "posisipembeda": 6500,
+    "namaBahan": "Copper dan paduannya",
+    "nomer": "LP-422-IDN",
+    "nameLab": "PT Hi-Test "
+  },
+  {
+    "posisipembeda": 6501,
+    "namaBahan": "Material logam dan produk logam (baja carbon, baja tahan karat, baja tulangan beton, besi cor, nickel, copper, CuNi, Alumunium, Manganese Bronze, Alumunium Bronze)",
+    "nomer": "LP-422-IDN",
+    "nameLab": "PT Hi-Test "
+  },
+  {
+    "posisipembeda": 6535,
+    "namaBahan": "Material logam dan produk logam (baja carbon, baja tahan karat, nickel, Copper, CuNi, Aluminium)",
+    "nomer": "LP-422-IDN",
+    "nameLab": "PT Hi-Test "
+  },
+  {
+    "posisipembeda": 6569,
+    "namaBahan": "Material logam dan produk logam (baja carbon, baja tahan karat, besi cor, nickel, copper, CuNi, Alumunium, Manganese Bronze, Alumunium Bronze)",
+    "nomer": "LP-422-IDN",
+    "nameLab": "PT Hi-Test "
+  },
+  {
+    "posisipembeda": 6586,
+    "namaBahan": "Material logam dan produk logam (baja carbon, baja tahan karat, besi cor, nickel, copper, CuNi)",
+    "nomer": "LP-422-IDN",
+    "nameLab": "PT Hi-Test "
+  },
+  {
+    "posisipembeda": 6607,
+    "namaBahan": "Material logam dan produk logam (baja carbon, baja tahan karat, nickel)",
+    "nomer": "LP-422-IDN",
+    "nameLab": "PT Hi-Test "
+  },
+  {
+    "posisipembeda": 6638,
+    "namaBahan": "Material logam dan produk logam (baja carbon)",
+    "nomer": "LP-422-IDN",
+    "nameLab": "PT Hi-Test "
+  },
+  {
+    "posisipembeda": 6651,
+    "namaBahan": "Material logam dan produk logam (baja carbon, baja tahan karat, nickel, CuNi, Aluminium)",
+    "nomer": "LP-422-IDN",
+    "nameLab": "PT Hi-Test "
+  },
+  {
+    "posisipembeda": 6669,
+    "namaBahan": "Material logam dan produk logam (baja carbon, baja tahan karat, nickel)",
+    "nomer": "LP-422-IDN",
+    "nameLab": "PT Hi-Test "
+  },
+  {
+    "posisipembeda": 6674,
+    "namaBahan": "Baja carbon dan baja paduan rendah",
+    "nomer": "LP-422-IDN",
+    "nameLab": "PT Hi-Test "
+  },
+  {
+    "posisipembeda": 6676,
+    "namaBahan": "Baja tahan karat dan baja paduan tinggi",
+    "nomer": "LP-422-IDN",
+    "nameLab": "PT Hi-Test "
+  },
+  {
+    "posisipembeda": 6681,
+    "namaBahan": "Bahan logam (carbon steel, stainless steel) : Metallic Material",
+    "nomer": "LP-442-IDN",
+    "nameLab": "PT Biro Klasifikasi Indonesia (Persero) "
+  },
+  {
+    "posisipembeda": 6682,
+    "namaBahan": "Welding",
+    "nomer": "LP-442-IDN",
+    "nameLab": "PT Biro Klasifikasi Indonesia (Persero) "
+  },
+  {
+    "posisipembeda": 6683,
+    "namaBahan": "Metallic Material",
+    "nomer": "LP-442-IDN",
+    "nameLab": "PT Biro Klasifikasi Indonesia (Persero) "
+  },
+  {
+    "posisipembeda": 6687,
+    "namaBahan": "Welding",
+    "nomer": "LP-442-IDN",
+    "nameLab": "PT Biro Klasifikasi Indonesia (Persero) "
+  },
+  {
+    "posisipembeda": 6688,
+    "namaBahan": "Bahan logam (carbon steel, stainless steel)",
+    "nomer": "LP-442-IDN",
+    "nameLab": "PT Biro Klasifikasi Indonesia (Persero) "
+  },
+  {
+    "posisipembeda": 6689,
+    "namaBahan": "Wire Rods dan D-Bars",
+    "nomer": "LP-455-IDN",
+    "nameLab": "PT. Ispat Indo "
+  },
+  {
+    "posisipembeda": 6690,
+    "namaBahan": "Billet, Wire Rods dan D-Bars",
+    "nomer": "LP-455-IDN",
+    "nameLab": "PT. Ispat Indo "
+  },
+  {
+    "posisipembeda": 6691,
+    "namaBahan": "Aspal keras",
+    "nomer": "LP-493-IDN",
+    "nameLab": "Balai Besar Pelaksanaan Jalan Nasional IV"
+  },
+  {
+    "posisipembeda": 6700,
+    "namaBahan": "Aspal cair dan aspal emulsi",
+    "nomer": "LP-493-IDN",
+    "nameLab": "Balai Besar Pelaksanaan Jalan Nasional IV"
+  },
+  {
+    "posisipembeda": 6712,
+    "namaBahan": "Campuran Beraspal",
+    "nomer": "LP-493-IDN",
+    "nameLab": "Balai Besar Pelaksanaan Jalan Nasional IV"
+  },
+  {
+    "posisipembeda": 6715,
+    "namaBahan": "Agregat",
+    "nomer": "LP-493-IDN",
+    "nameLab": "Balai Besar Pelaksanaan Jalan Nasional IV"
+  },
+  {
+    "posisipembeda": 6727,
+    "namaBahan": "Tanah",
+    "nomer": "LP-493-IDN",
+    "nameLab": "Balai Besar Pelaksanaan Jalan Nasional IV"
+  },
+  {
+    "posisipembeda": 6733,
+    "namaBahan": "Beton",
+    "nomer": "LP-493-IDN",
+    "nameLab": "Balai Besar Pelaksanaan Jalan Nasional IV"
+  },
+  {
+    "posisipembeda": 6734,
+    "namaBahan": "Baja Lembaran Dan Gulungan Lapis Paduan alumunium Seng (Bj, Las) SNI 07-4096-2007",
+    "nomer": "LP-520-IDN",
+    "nameLab": "Departemen Teknik Metalurgi dan Material Fakultas Teknik Universitas Indonesia"
+  },
+  {
+    "posisipembeda": 6737,
+    "namaBahan": "Baja Lembaran, Pelat dan Gulungan Canai Panas (Bj, P) SNI 07-0601-2006",
+    "nomer": "LP-520-IDN",
+    "nameLab": "Departemen Teknik Metalurgi dan Material Fakultas Teknik Universitas Indonesia"
+  },
+  {
+    "posisipembeda": 6741,
+    "namaBahan": "Baja Profil I-Beam Proses Canai Panas (Bj. P I-Beam) SNI 07-0329-2005",
+    "nomer": "LP-520-IDN",
+    "nameLab": "Departemen Teknik Metalurgi dan Material Fakultas Teknik Universitas Indonesia"
+  },
+  {
+    "posisipembeda": 6746,
+    "namaBahan": "Baja Profil Kanal U Proses Canai Panas (Bj. P Kanal U) SNI 07-0052-2006",
+    "nomer": "LP-520-IDN",
+    "nameLab": "Departemen Teknik Metalurgi dan Material Fakultas Teknik Universitas Indonesia"
+  },
+  {
+    "posisipembeda": 6751,
+    "namaBahan": "Baja Profil Siku Sama Kaki Proses Canai Panas (Bj. P Siku Sama Kaki) SNI 07-2054-2006",
+    "nomer": "LP-520-IDN",
+    "nameLab": "Departemen Teknik Metalurgi dan Material Fakultas Teknik Universitas Indonesia"
+  },
+  {
+    "posisipembeda": 6756,
+    "namaBahan": "Baja Profil Wf - Beam Proses Canai Panas  (Bj. P Wf Beam) SNI 07-7178-2006",
+    "nomer": "LP-520-IDN",
+    "nameLab": "Departemen Teknik Metalurgi dan Material Fakultas Teknik Universitas Indonesia"
+  },
+  {
+    "posisipembeda": 6761,
+    "namaBahan": "Baja Tulangan Beton dalam Bentuk Gulungan . SNI 07-0065-2002",
+    "nomer": "LP-520-IDN",
+    "nameLab": "Departemen Teknik Metalurgi dan Material Fakultas Teknik Universitas Indonesia"
+  },
+  {
+    "posisipembeda": 6763,
+    "namaBahan": "Baja Tulangan Beton Hasil Canai Panas Ulang .  SNI 07-0065-2002",
+    "nomer": "LP-520-IDN",
+    "nameLab": "Departemen Teknik Metalurgi dan Material Fakultas Teknik Universitas Indonesia"
+  },
+  {
+    "posisipembeda": 6765,
+    "namaBahan": "Baja Pelat, Strip Dan lembaran canai Panas Untuk tabung Gas SNI 07-3018-1992",
+    "nomer": "LP-520-IDN",
+    "nameLab": "Departemen Teknik Metalurgi dan Material Fakultas Teknik Universitas Indonesia"
+  },
+  {
+    "posisipembeda": 6769,
+    "namaBahan": "Baja Tulangan Beton SNI 2052 : 2017, untuk ukuran F6 - p19",
+    "nomer": "LP-520-IDN",
+    "nameLab": "Departemen Teknik Metalurgi dan Material Fakultas Teknik Universitas Indonesia"
+  },
+  {
+    "posisipembeda": 6771,
+    "namaBahan": "Logam dan produknya",
+    "nomer": "LP-520-IDN",
+    "nameLab": "Departemen Teknik Metalurgi dan Material Fakultas Teknik Universitas Indonesia"
+  },
+  {
+    "posisipembeda": 6803,
+    "namaBahan": "Non-Ferrous",
+    "nomer": "LP-520-IDN",
+    "nameLab": "Departemen Teknik Metalurgi dan Material Fakultas Teknik Universitas Indonesia"
+  },
+  {
+    "posisipembeda": 6806,
+    "namaBahan": "Produk Lasan (AWS D.1.1/D1.1M.2015)",
+    "nomer": "LP-520-IDN",
+    "nameLab": "Departemen Teknik Metalurgi dan Material Fakultas Teknik Universitas Indonesia"
+  },
+  {
+    "posisipembeda": 6810,
+    "namaBahan": "Low alloy cast iron",
+    "nomer": "LP-546-IDN",
+    "nameLab": "Politeknik Manufaktur Ceper "
+  },
+  {
+    "posisipembeda": 6811,
+    "namaBahan": "Logam dan paduannya ( Besi dan baja )",
+    "nomer": "LP-546-IDN",
+    "nameLab": "Politeknik Manufaktur Ceper "
+  },
+  {
+    "posisipembeda": 6812,
+    "namaBahan": "Bahan Logam",
+    "nomer": "LP-546-IDN",
+    "nameLab": "Politeknik Manufaktur Ceper "
+  },
+  {
+    "posisipembeda": 6814,
+    "namaBahan": "Avtur",
+    "nomer": "LP-644-IDN",
+    "nameLab": "Terminal BBM Makassar, PT Pertamina (Persero) "
+  },
+  {
+    "posisipembeda": 6819,
+    "namaBahan": "Premium",
+    "nomer": "LP-644-IDN",
+    "nameLab": "Terminal BBM Makassar, PT Pertamina (Persero) "
+  },
+  {
+    "posisipembeda": 6822,
+    "namaBahan": "Pertamax",
+    "nomer": "LP-644-IDN",
+    "nameLab": "Terminal BBM Makassar, PT Pertamina (Persero) "
+  },
+  {
+    "posisipembeda": 6825,
+    "namaBahan": "Kerosine",
+    "nomer": "LP-644-IDN",
+    "nameLab": "Terminal BBM Makassar, PT Pertamina (Persero) "
+  },
+  {
+    "posisipembeda": 6828,
+    "namaBahan": "MFO/ Minyak Bakar",
+    "nomer": "LP-644-IDN",
+    "nameLab": "Terminal BBM Makassar, PT Pertamina (Persero) "
+  },
+  {
+    "posisipembeda": 6831,
+    "namaBahan": "Solar dan Biosolar",
+    "nomer": "LP-644-IDN",
+    "nameLab": "Terminal BBM Makassar, PT Pertamina (Persero) "
+  },
+  {
+    "posisipembeda": 6836,
+    "namaBahan": "Fuel",
+    "nomer": "LP-644-IDN",
+    "nameLab": "Terminal BBM Makassar, PT Pertamina (Persero) "
+  },
+  {
+    "posisipembeda": 6837,
+    "namaBahan": "Premium",
+    "nomer": "LP-667-IDN",
+    "nameLab": "Terminal BBM Wayame - PT Pertamina (Persero)"
+  },
+  {
+    "posisipembeda": 6841,
+    "namaBahan": "Kerosine",
+    "nomer": "LP-667-IDN",
+    "nameLab": "Terminal BBM Wayame - PT Pertamina (Persero)"
+  },
+  {
+    "posisipembeda": 6844,
+    "namaBahan": "Solar",
+    "nomer": "LP-667-IDN",
+    "nameLab": "Terminal BBM Wayame - PT Pertamina (Persero)"
+  },
+  {
+    "posisipembeda": 6849,
+    "namaBahan": "Avtur (Jet A-1)",
+    "nomer": "LP-667-IDN",
+    "nameLab": "Terminal BBM Wayame - PT Pertamina (Persero)"
+  }
+]
