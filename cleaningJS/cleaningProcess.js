@@ -26,20 +26,12 @@ function mapping() {
     telp = key["TELEPON"];
     email = key["EMAIL"];
     lingkup = key["LINGKUP"];
+    mBerlaku = key["MASA BERLAKU AKREDITASI"];
     bidangPengukuran = key["BIDANG PENGUJIAN"];
     bahanUji = key["BAHAN ATAU PRODUK YANG DIUJI"];
     jenisUji = key["JENIS PENGUJIAN ATAU SIFAT-SIFAT YANG DIUKUR"];
     metodeUji = key["METODE PENGUJIAN, TEKNIK YANG DIGUNAKAN"];
     keterangan = key["KETERANGAN"];
-
-    // mapping fisrt value
-    // if (globalkey != noAkre) {
-    //   let bidanngArray = {};
-    //   bidanngArray.Bidang = bidangPengukuran;
-    //   bidanngArray.perusahaan = nameLab;
-    //   bidangObject.push(bidanngArray);
-    //   valuePertama = bidangPengukuran;
-    // }
 
     function dataPengukuran() {
       i += 1;
@@ -65,6 +57,7 @@ function mapping() {
       console.log(ii);
 
       DataArray.nomorAkreditasi = noAkre;
+      DataArray.masaBerlaku = mBerlaku;
       DataArray.namaLaboratorium = nameLab;
       DataArray.alamat = alamat;
       DataArray.propinsi = propinsi;
@@ -79,44 +72,6 @@ function mapping() {
 
       ii += 1;
     }
-
-    // if (bidangKey != bidangPengukuran) {
-    //   if (valuePertama != bidangPengukuran) {
-    //     let bidanngArray = {};
-    //     bidanngArray.Bidang = bidangPengukuran;
-    //     bidanngArray.perusahaan = nameLab;
-    //     bidangObject.push(bidanngArray);
-    //   }
-    // }
-
-    // if (i > 4) {
-    //   if (bidangKey != bahanUji) {
-    //     positionArray = {};
-    //     positionArray.posisipembeda = i-1;
-    //     positionArray.namaBahan = bahanUji;
-    //     positionArray.nomer = noAkre;
-    //     positionArray.nameLab = nameLab;
-    //     positionObejct.push(positionArray);
-    //     let myArray = {};
-    //     myArray.Bidang = bidangPengukuran;
-    //     myArray.bahanYangdiUji = bahanUji;
-    //     myArray.MetodePengujian = metodeObject;
-    //     bidangObject.push(myArray);
-    //     metodeObject = [];
-    //   }
-    // }
-
-    // if (i > 6) {
-    //   dataPengukuran();
-    // }
-    // if (bidangKey != bahanUji) {
-    //   let myArray = {};
-    //   myArray.Bidang = bidangPengukuran;
-    //   myArray.bahanYangdiUji = bahanUji;
-    //   myArray.MetodePengujian = metodeObject;
-    //   bidangObject.push(myArray);
-    //   metodeObject = [];
-    // }
     bidangKey = bahanUji;
     metodeKey = metodeUji;
     globalkey = noAkre;
@@ -124,4 +79,4 @@ function mapping() {
 }
 
 mapping();
-fs.writeFileSync("cleaningStep2.json", JSON.stringify(sasoriObject));
+fs.writeFileSync("cleaningStep3.json", JSON.stringify(sasoriObject));
