@@ -7,10 +7,9 @@ mydb = mysql.connector.connect(
     host="localhost",
     user="root",
     password="rootkit",
-    database="smartlab"
+    database="smartlab2"
 )
-
-
+i = 1
 print("> genjutsu importing file...")
 jsonFile = open("cleaningStep3.json", "r", encoding="utf-8-sig")
 testingData = json.load(jsonFile)
@@ -30,13 +29,14 @@ for x in testingData:
     berlaku = datetime.strptime(
         x['masaBerlaku'], "%d/%m/%Y").strftime("%Y-%m-%d")
     # =============================insertLab to database ready================
-    # newLab = mydb.cursor()
-    # sqlLab = "INSERT INTO Laboratories(accreditationNumber,name,address,provinceId, telephone,email,validUntil,is17025,labType, objectScope,createdBy , createdAt , updatedAt) values (%s ,%s ,%s ,%s ,%s ,%s ,%s ,%s ,%s ,%s,%s,%s,%s)"
-    # data = (x['nomorAkreditasi'], x['namaLaboratorium'], x['alamat'], idProp,
-    #         x['telepon'], x['email'], berlaku, "Ya", "Pengujian", x['lingkup'], "1", datetime.now(), datetime.now())
-    # newLab.execute(sqlLab,  data)
-    # mydb.commit();
-    # print("insert new lab done...")
+    newLab = mydb.cursor()
+    sqlLab = "INSERT INTO Laboratories(accreditationNumber,name,address,provinceId, telephone,email,validUntil,is17025,labType, objectScope,createdBy , createdAt , updatedAt) values (%s ,%s ,%s ,%s ,%s ,%s ,%s ,%s ,%s ,%s,%s,%s,%s)"
+    data = (x['nomorAkreditasi'], x['namaLaboratorium'], x['alamat'], idProp,
+            x['telepon'], x['email'], berlaku, "Ya", "Pengujian", x['lingkup'], "1", datetime.now(), datetime.now())
+    newLab.execute(sqlLab,  data)
+    mydb.commit()
+    print(i, "================================insert new lab done...============================")
+    i += 1
     # ==================================insertbidang ============================
     for z in x['BidangPengujian']:
         getBidang = mydb.cursor()
@@ -94,4 +94,5 @@ for x in testingData:
                 mydb.commit()
                 print(cc['MetodePengujian'], "=> comitted....")
 
-    sys.exit()
+
+print("Good joob... all JOb finished sasori.inc")
