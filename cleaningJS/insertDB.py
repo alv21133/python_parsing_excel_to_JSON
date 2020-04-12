@@ -36,7 +36,7 @@ for x in testingData:
     #         x['telepon'], x['email'], berlaku, "Ya", "Pengujian", x['lingkup'], "1", datetime.now(), datetime.now())
     # newLab.execute(sqlLab,  data)
     # mydb.commit();
-    #print("insert new lab done...")
+    # print("insert new lab done...")
     # ==================================insertbidang ============================
     for z in x['BidangPengujian']:
         getBidang = mydb.cursor()
@@ -44,5 +44,54 @@ for x in testingData:
         where = z['Bidang']
         getBidang.execute(sql, (where, ))
         resultBidang = getBidang.fetchall()
-        print(len(resultBidang))
+        if len(resultBidang) < 1:
+            getBidang = mydb.cursor()
+            sql = "INSERT INTO TestingFields (name,createdAt, updatedAt) values(%s , %s , %s)"
+            where = z['Bidang'], datetime.now(), datetime.now()
+            getBidang.execute(sql, where)
+            mydb.commit()
+        # ==================================insertBahanYangDiUji============================
+        bahanUji = mydb.cursor()
+        sql = "SELECT name FROM TestingMaterials WHERE name = %s "
+        where = z['bahanYangdiUji']
+        bahanUji.execute(sql, (where, ))
+        resultBahan = bahanUji.fetchall()
+        if len(resultBahan) < 1:
+            bahanUji = mydb.cursor()
+            sql = "INSERT INTO TestingMaterials  (name,createdAt, updatedAt) values(%s , %s , %s)"
+            where = z['bahanYangdiUji'], datetime.now(), datetime.now()
+            bahanUji.execute(sql, where)
+            mydb.commit()
+
+        print("Looping...........")
+        for cc in z['MetodePengujian']:
+            # # # ==================================insertJenis pengujian ============================
+            jenisUji = mydb.cursor()
+            sql = "SELECT name FROM TestingTypes WHERE name = %s "
+            where = cc['jenisPengujian']
+            jenisUji.execute(sql, (where, ))
+            resultJenisUji = jenisUji.fetchall()
+            if len(resultJenisUji) < 1:
+                jenisUji = mydb.cursor()
+                sql = "INSERT INTO TestingTypes  (name,createdAt, updatedAt) values(%s , %s , %s)"
+                where = cc['jenisPengujian'], datetime.now(
+                ), datetime.now()
+                jenisUji.execute(sql, where)
+                mydb.commit()
+                print("jenisPengujian  =>  Commited .....")
+            # # ==================================Metode pengujian ============================
+            metodePengujian = mydb.cursor()
+            sql = "SELECT name FROM TestingMethods WHERE name = %s "
+            where = cc['MetodePengujian']
+            metodePengujian.execute(sql, (where, ))
+            resultMetodePenguijan = metodePengujian.fetchall()
+            if len(resultMetodePenguijan) < 1:
+                metodePengujian = mydb.cursor()
+                sql = "INSERT INTO TestingMethods  (name,createdAt, updatedAt) values(%s , %s , %s)"
+                where = cc['MetodePengujian'], datetime.now(
+                ), datetime.now()
+                metodePengujian.execute(sql, where)
+                mydb.commit()
+                print(cc['MetodePengujian'], "=> comitted....")
+
     sys.exit()
